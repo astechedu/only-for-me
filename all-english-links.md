@@ -8,7 +8,11 @@ All English Links
 # 1. English Grammar
 
    [Parts of speech](parts-of-speech.md)
-
+   
+   [Active Voice (Tenses)](active-voice.md)
+      
+   [Passive Voice](passive-voice.md)
+   
    [Causative Verbs](causative.verbs.md)
 
    [Some Important Uses](some-important-uses.md)
@@ -21,7 +25,9 @@ All English Links
 
    [Auxiliary Verb](auxiliary-verb.md)
       
-   [Direct And Indirect Speech](direct-indirect-speech.md)
+   [Direct And Indirect Speech](direct-indirect-speech.md)   
+
+   [Assertive Sentences](assertive-sentences.md)
    
    [xyz](zyx.md)
 
