@@ -9,27 +9,27 @@
 # Parts Of Speech
 
 
-  a. Noun  
+  i. Noun  
   
   
   
-  b. Pronoun 
+  ii. Pronoun 
   
   
   
-  c. Verb 
+  iii. Verb 
   
   
   
-  d. Adjective
+  iv. Adjective
   
   
   
-  e. Adverb
+  v. Adverb
   
   
   
-  f. Prepositions
+  vi. Prepositions
   
   
   
