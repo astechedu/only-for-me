@@ -20,6 +20,8 @@ All English Links
    [Fegure Of Speech](fegure-of-speech.md)
 
    [Auxiliary Verb](auxiliary-verb.md)
+      
+   [Direct And Indirect Speech](direct-indirect-speech.md)
    
    [xyz](zyx.md)
 
