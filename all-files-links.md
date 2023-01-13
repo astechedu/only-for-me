@@ -15,4 +15,29 @@ Topics:
 
   [Social Science](#english)
 
-  [abcd](#abcd)
+  [Daily Working List](#daily_working_list)
+
+
+
+
+
+
+
+# 1. Maths
+
+
+# 2. English
+
+
+# 3. Hindi
+
+
+# 4. Science
+
+
+# 5. Social Science
+
+
+# 6. Daily Working List
+
+
