@@ -4,22 +4,22 @@
 
 
 # 1. Maths
-  [Maths](#maths)
+  [Maths](#all-maths-links.md)
   
 # 2. English
-  [English](#english)
+  [English](#all-english-links.md)
 
 # 3. Hindi
-  [Hindi](#hindi)
+  [Hindi](#all-hindi-links.md)
 
 # 4. Maths
-  [Science](#maths)
+  [Science](#all-science-links.md)
 
 # 5. English
-  [Social Science](#english)
+  [Social Science](#all-social-science-links.md)
 
 # 6. Daily Working List
-  [Daily Working List](#daily_working_list)
+  [Daily Working List](#daily_working_lists.md)
 
 
 
