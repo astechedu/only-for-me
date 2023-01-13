@@ -12,10 +12,10 @@
 # 3. Hindi
   [Hindi](all-hindi-links.md)
 
-# 4. Maths
+# 4. Science
   [Science](all-science-links.md)
 
-# 5. English
+# 5. Social Science
   [Social Science](all-social-science-links.md)
 
 # 6. Daily Working List
