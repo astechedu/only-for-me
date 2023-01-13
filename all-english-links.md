@@ -16,6 +16,8 @@ All English Links
    [Words Meanings](word-meanings.md)
 
    [Translations](english-translations.md)
+   
+   [Fegure Of Speech](fegure-of-speech.md)
 
    [xyz](zyx.md)
 
