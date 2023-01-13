@@ -4,7 +4,7 @@
 
 
 # 1. Maths
-  [Maths](#all-maths-links.md)
+  [Maths](all-maths-links.md)
   
 # 2. English
   [English](#all-english-links.md)
