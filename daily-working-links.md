@@ -90,7 +90,7 @@ jenkins change display name,rename job,delete job
 
 
 15.
-jenkins
+jenkins up streams and down streams
 
 
 
