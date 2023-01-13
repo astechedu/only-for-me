@@ -28,7 +28,7 @@
 
 
 # 6. Daily Working List
-  [Daily Working List](daily_working_lists.md)
+  [Daily Working List](daily_working_links.md)
 
 
 
