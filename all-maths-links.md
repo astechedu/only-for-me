@@ -1,3 +1,3 @@
 All Maths Links
 
-[Home](#all-files-links.md)
+[Home](all-files-links.md)
