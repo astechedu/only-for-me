@@ -9,22 +9,8 @@ All English Links
 
 
 i Parts Of Speach
+[Parts of speech](parts-of-speech.md)
 
-  a. Noun  
-  
-  b. Pronoun 
-  
-  c. Verb 
-  
-  d. Adjective
-  
-  e. Adverb
-  
-  f. Prepositions
-  
-  j. Conjunctions
-  
-  h. Interjections
 
 
 
