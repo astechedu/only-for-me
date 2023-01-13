@@ -15,6 +15,9 @@ All English Links
    
    [Words Meanings](word-meanings.md)
 
+   [Translations](english-translations.md)
+
+   [Words Meanings](word-meanings.md)
 
 
 
