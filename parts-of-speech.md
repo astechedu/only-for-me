@@ -1,6 +1,8 @@
 # Parts of Speech
 
 
+[Home](all-files-links.md)
+
 [English Page](all-english-links.md)
 
 
