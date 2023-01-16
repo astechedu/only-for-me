@@ -16,7 +16,7 @@ Topics:
    
    [Hindi Direct And Indirect](hindi-direct-indirect.md)
    
-   [हिन्दी व्याकरण]()
+   [Hindi Translations](hindi-translations.md)
    
    [हिन्दी व्याकरण]()
    
