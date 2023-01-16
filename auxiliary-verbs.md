@@ -26,11 +26,13 @@ I am leaving = Leaving is the main verb. Am is the auxiliary.
 She has arrived = Arrived is the main verb. Has is the auxiliary.
 
 Do you smoke? = Smoke is the main verb. Do is the auxiliary.
+
 Do / does / did
 
 Do is common for forming questions and making negatives.
 
 Did is used for do and does in the past tense. Do and does is never used for the past.
+
 In statements
 
 I do my homework.
@@ -42,6 +44,7 @@ We do the washing up.
 They do yoga.
 
 He/she does the cleaning.
+
 In questions
 
 Do I know you?
@@ -53,6 +56,7 @@ Do we have time?
 Do they come from Vietnam?
 
 Does he/she drive to work?
+
 In negative sentences
 
 I do not. (I don't)
@@ -64,6 +68,7 @@ We do not. (we don't)
 They do not. (they don't)
 
 He/she does not. (he/she doesn't)
+
 Be = am / is / are
 
 Be can be used as an auxiliary verb or the main verb in a sentence.
@@ -77,6 +82,7 @@ Are is used for they and we.
 Was is used for the past tense of am and is.
 
 Were is used for the past tense of you, we and they.
+
 In statements
 
 I am 21.
@@ -88,6 +94,7 @@ We are waiting.
 They are excited
 
 He/she is cool.
+
 In questions
 
 Am I in the right place?
@@ -99,6 +106,7 @@ Are we nearly there?
 Are they the best players on the team?
 
 Is he/she old enough to go to bars?
+
 In negative sentences
 
 I am not. (I aren't)
@@ -110,6 +118,7 @@ We are not. (we aren't)
 They are not. (they aren't)
 
 He/she is not. (he/she isn't)
+
 Have = has / had
 
 Have is used to make the present perfect tense (it is always followed by the past participle).
@@ -117,6 +126,7 @@ Have is used to make the present perfect tense (it is always followed by the pas
 Has is used for the third person singular.
 
 Had is used for past tenses especially the past perfect tense. It describes an action that began in the past and continues into the present or that occurred in the recent past.
+
 In statements
 
 I have a dog.
@@ -128,6 +138,7 @@ We have seen it before.
 They have called me three times.
 
 He/she has lived in America.
+
 In negative sentences
 
 I have not. (I haven't/ I've not)
@@ -139,6 +150,7 @@ We have not. (we haven't/we've not)
 They have not. (they haven't/they've not)
 
 He/she has not (he/she hasn't)
+
 Others
 
 Other common auxiliary verbs are:
@@ -146,6 +158,7 @@ Other common auxiliary verbs are:
 can, could, may, might, must, ought, should, and would.
 
 These are also known as modal verbs. We use them to show obligation, possibility and necessity.
+
 For example:
 
 Jack is late. He might be sleeping. (possibility)
@@ -153,6 +166,7 @@ Jack is late. He might be sleeping. (possibility)
 I should clean my room today. (obligation)
 
 I must wear a tie to school. (necessity)
+
 Answering questions
 
 Auxiliary verbs are useful in giving short answers to questions.
@@ -162,38 +176,36 @@ Basically, your answer can end with the auxiliary verb.
 The following examples are natural and completely acceptable ways to answer questions:
 
 Do you like reading?
+
 Yes, I do (like reading)
 
 Can you speak English?
+
 Yes, I can (speak English)
 
 Do you have a sister?
+
 No, I don't (have a sister)
 
 
 
 # Using 'have' and 'has'
-Poor
-Okay
-Good
-Great
-Awesome
-Average: 3.3 (2599 votes)
-Sat, 07/12/2008 - 00:00 — Chris McCarthy
-
-    Grammar 
 
 Maltese fishing boats
 
 "Malta has colourful fishing boats."
+
 "The fishermen have traditional boats."
 
 Here are some points to remember when using 'have' and 'has'.
 
+
 Let's start with the basics.
 
 They can both be used to show possession and are important in making the 'perfect tenses'.
+
 'Had' is the past tense of both 'has' and 'have'.
+
 have
 
 Have is used with some pronouns and plural nouns:
@@ -201,6 +213,8 @@ Have is used with some pronouns and plural nouns:
 'You have toothpaste on your chin.'
 'We have a meeting at 12.'
 'Nurses have a difficult job.'
+
+
 has
 
 Has is used with the third person singular. For example:
@@ -208,6 +222,7 @@ Has is used with the third person singular. For example:
 'He has a new haircut.'
 'The washing machine has a leak in it'.
 'It has a hole near the door.'
+
 contractions
 
 I have = I've
@@ -216,11 +231,13 @@ we have = we've
 they have = They've
 he has = he's
 it has = it's
+
 negative contractions
 
 has not = hasn't
 have not = haven't
 had not = hadn't
+
 'have' and 'has' in questions
 
 'Have you been to Australia?'
@@ -239,25 +256,31 @@ Both 'have got' and 'have' mean the same thing. There is no difference.
 'have/has'' is an important verb in making the 'perfect tense':
 
 Present Perfect
+
 'She has lived here for a long time.'
 'We have seen this TV show before.'
 'I have cut my finger.'
 
 Past Perfect
+
 'I had already decided not to go before he asked me.'
 'They had finished the race before it started raining.'
 'She had already left when he arrived'
 modal verbs: 'have to'
 
 'have to' is used to mean that something is necessary. It is used in the following way in affirmative sentences:
+
 subject + modal (have to / has to) + verb
+
 'I have to wash my car today.'
 'He has to write a report.'
 'I had to go to the bank yesterday.'
 'have to' in negative sentences
 
 In negatives to show that something is not necessary we follow this rule:
+
 subject + doesn't have to + verb
+
 'We don't have to work tomorrow.'
 'She doesn't have to wear a uniform to school'
 'I didn't have to make my bed when I was young'
