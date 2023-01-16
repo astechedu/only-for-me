@@ -7,7 +7,7 @@
 
 
 
-
+<img src="https://s3mn.mnimgs.com/img/shared/content_ck_images/ck_5eef6c1c34886.png">
 
 
 Assertive Sentence
