@@ -169,3 +169,119 @@ Yes, I can (speak English)
 
 Do you have a sister?
 No, I don't (have a sister)
+
+
+
+# Using 'have' and 'has'
+Poor
+Okay
+Good
+Great
+Awesome
+Average: 3.3 (2599 votes)
+Sat, 07/12/2008 - 00:00 — Chris McCarthy
+
+    Grammar 
+
+Maltese fishing boats
+
+"Malta has colourful fishing boats."
+"The fishermen have traditional boats."
+
+Here are some points to remember when using 'have' and 'has'.
+
+Let's start with the basics.
+
+They can both be used to show possession and are important in making the 'perfect tenses'.
+'Had' is the past tense of both 'has' and 'have'.
+have
+
+Have is used with some pronouns and plural nouns:
+'I have a great English teacher.'
+'You have toothpaste on your chin.'
+'We have a meeting at 12.'
+'Nurses have a difficult job.'
+has
+
+Has is used with the third person singular. For example:
+'She has a great personality.'
+'He has a new haircut.'
+'The washing machine has a leak in it'.
+'It has a hole near the door.'
+contractions
+
+I have = I've
+you have = you've
+we have = we've
+they have = They've
+he has = he's
+it has = it's
+negative contractions
+
+has not = hasn't
+have not = haven't
+had not = hadn't
+'have' and 'has' in questions
+
+'Have you been to Australia?'
+'Has Andrew left yet?'
+'Who has my pen?'
+'Has anyone seen my mobile phone?'
+'have got' and 'have'
+
+Both 'have got' and 'have' mean the same thing. There is no difference.
+
+'I have got an i-phone.' = 'I have an i-phone'.
+'You have got a message.' = You have a message.'
+'She has got no time to sleep.' ='She has no time to sleep.'
+'have' and 'has' verb tenses
+
+'have/has'' is an important verb in making the 'perfect tense':
+
+Present Perfect
+'She has lived here for a long time.'
+'We have seen this TV show before.'
+'I have cut my finger.'
+
+Past Perfect
+'I had already decided not to go before he asked me.'
+'They had finished the race before it started raining.'
+'She had already left when he arrived'
+modal verbs: 'have to'
+
+'have to' is used to mean that something is necessary. It is used in the following way in affirmative sentences:
+subject + modal (have to / has to) + verb
+'I have to wash my car today.'
+'He has to write a report.'
+'I had to go to the bank yesterday.'
+'have to' in negative sentences
+
+In negatives to show that something is not necessary we follow this rule:
+subject + doesn't have to + verb
+'We don't have to work tomorrow.'
+'She doesn't have to wear a uniform to school'
+'I didn't have to make my bed when I was young'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
