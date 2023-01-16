@@ -1,6 +1,5 @@
 # Active Voice
 
-<img src="https://hindiessay.co.in/wp-content/uploads/2022/08/tenses-chart-in-hindi-800x400.jpg" width="">
 
 <img src="https://user-images.githubusercontent.com/75734516/212603693-7beac576-0b92-4a9b-bcb4-7ac7596180c7.png" width="400" height="">
 
@@ -15,8 +14,7 @@
 # Types of Tenses with Examples and Formula
  
   
-        
-        
+                
    #### Tenses:
   
 
