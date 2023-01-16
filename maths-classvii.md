@@ -5,15 +5,25 @@ Topics:
 
    [Unitary Method Class vii ](#unitary-method)
 
-
-Selina Solutions Concise Maths for Class 7 (Chapter-wise)
-Chapter-wise Solutions for Selina Solutions Class 7
-Selina Solutions Concise Maths for Class 7 Chapter 1 Integers
-Selina Solutions Concise Maths for Class 7 Chapter 2 Rational Numbers
-Selina Solutions Concise Maths for Class 7 Chapter 3 Fraction (Including Problems)
-Selina Solutions Concise Maths for Class 7 Chapter 4 Decimal Fractions (Decimals)
-Selina Solutions Concise Maths for Class 7 Chapter 5 Exponents (Including Laws of Exponents)
-Selina Solutions Concise Maths for Class 7 Chapter 6 Ratio and Proportion (Including Sharing in a Ratio)
+ [Integers Class vii ](#unitary-method)
+ [Rational Numbers Class vii ](#unitary-method)
+ [Fraction (Including Problems) Class vii](#unitary-method)
+ [Fraction (Including Problems) ClassFraction (Including Problems) vii](#unitary-method)
+ [Exponents (Including Laws of Exponents) Class vii ](#unitary-method)
+ [6 Ratio and Proportion (Including Sharing in a Ratio) Class vii](#unitary-method)
+ [Unitary Method Class vii ](#unitary-method)
+ [Unitary Method Class vii ](#unitary-method)
+ [Unitary Method Class vii ](#unitary-method)
+ [Unitary Method Class vii ](#unitary-method)
+ [Unitary Method Class vii ](#unitary-method)
+ [Unitary Method Class vii ](#unitary-method)
+ [Unitary Method Class vii ](#unitary-method)
+ [Unitary Method Class vii ](#unitary-method)
+ [Unitary Method Class vii ](#unitary-method)
+              
+     
+Selina Solutions Concise Maths for Class 7 Chapter 5 
+Selina Solutions Concise Maths for Class 7 Chapter 
 Selina Solutions Concise Maths for Class 7 Chapter 7 Unitary Method (Including Time and Work)
 Selina Solutions Concise Maths for Class 7 Chapter 8 Percent and Percentage
 Selina Solutions Concise Maths for Class 7 Chapter 9 Profit, Loss and Discount
