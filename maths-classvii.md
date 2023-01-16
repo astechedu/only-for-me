@@ -7,7 +7,9 @@
 
 
 
-    <img src="https://cdn1.byjus.com/wp-content/uploads/2020/04/selina-sol-concise-maths-class-7-ch7-ex-7c-3.jpg">
+
+
+<img src="https://cdn1.byjus.com/wp-content/uploads/2020/04/selina-sol-concise-maths-class-7-ch7-ex-7c-3.jpg" width="400">
     
 # Unitary Method Class vii 
 
