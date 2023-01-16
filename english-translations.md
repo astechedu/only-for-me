@@ -213,6 +213,7 @@ India is a wonderful land. Its area is vast. Its large population and geographic
 भारत एक अद्भुत देश है । उसका क्षेत्रफल व्यापक है । इसकी विशाल जनसंख्या तथा भौगोलिक स्थितियाँ विस्मयकारी हैं । संसार के सभी प्रचलित धर्म यहाँ विद्यमान हैं । लोग धर्म, भाषा, पोशाक, रीति-रिवाज, परम्परा, आदत तथा इसी तरह की अन्य बातों में भिन्नता रखते हैं । और, यह अन्य कोई बात नहीं, केवल देश की समृद्धि और गहराई तक जड़ जमाए हुए संस्कृति है जो इस देश के लोगों को एकता में बाँधे हुए है । देश के लिए लोगों के मन में प्रबल प्यार की भावना है । यही उत्कृष्ट भावना अनेक विषमताओं के बावजूद हमारे लोगों की एकता का प्रमुख कारण है।
 
 
+
 Terrorism is a cowardly act of the terrorist groups, who wish to disturb the peace of the country. They want to keep the people in a constant panic and fear and to prevent the country from becoming prosperous. Terrorism impacts the country gravely and has dangerous repercussions. In 2009 on 26/11, the terror attacks in Mumbai which claimed the life of 170 people, the parliament attack, and the attack on Pathankot air base are some examples of their cruelty.
 
 Attacks on our forces in J & K by the terrorists has become a common phenomena. Terrorism is a threat to humanity. It should be curbed and crushed with a heavy hand. Terrorism should be globally condemned and the world should stand united against it and make all efforts to eradicate it.
@@ -225,52 +226,63 @@ Attacks on our forces in J & K by the terrorists has become a common phenomena. 
 
 
 
-Question 18. 
 The word 'discipline' means the training of the mind to produce self-control and habits of obedience. A disciplinarian trains himself in accordance with rules. He subjects himself to a certain mode of life. Discipline is needed in all walks of life but it is urgently needed in family. If a family is disciplined, it will lead to its progress and prosperity.
 
 Discipline is a very important factor in the educational institutions. It is needed in schools, colleges and universities. As students come from different families, cultures and religions, they are required to be more disciplined. Order and safety which are the first and foremost factors for the growth and development of civilization are not possible without discipline.
-Answer:
+
 अनुशासन शब्द का अर्थ है - आत्म-नियन्त्रण और आज्ञापालन की आदत डालने के लिए मस्तिष्क का प्रशिक्षण। एक अनुशासनप्रिय व्यक्ति स्वयं को नियमों के अनुरूप प्रशिक्षित करता है । वह एक खास तरह का जीवन जीने लगता जीवन के हर क्षेत्र में अनुशासन की आवश्यकता है परन्तु परिवार में इसकी आवश्यकता बहुत ज्यादा है । यदि परिवार अनुशासित है तो वह विकसित एवं समृद्ध होगा ।
 
 अनुशासन वर्तमान शिक्षा संस्थाओं में एक महत्त्वपूर्ण घटक है । इसकी विद्यालयों, महाविद्यालयों और विश्वविद्यालयों में आवश्यकता है। क्योंकि विद्यार्थी विभिन्न परिवारों, संस्कृतियों और धर्मों से आते हैं, तो उनसे अधिक अनुशासित होने की अपेक्षा की जाती है । व्यवस्था और सुरक्षा जो कि सभ्यता की वृद्धि एवं विकास में प्रमुख घटक हैं, अनुशासन के बिना सम्भव नहीं
 
-RBSE Class 12 English Translate the Passage into Hindi
 
-Question 19. 
+
+
 Role of newspapers has always been of great importance, not only in India but also in other countries. Every newspaper tries to establish its identity and wins the loyalty of its readers. It is done through the presentation of its material or news coverage. Newspapers contain public grievances and reflect public opinion.
 
 It is through newspapers that the policies and actions of the government are conveyed to the people. In return people give their opinion, they praise or criticise them. Newspapers are the watch dog of human rights. They keep the public aware of what right or wrong goes on in the society. They can make or break the governments.
-Answer:
+
 समाचार-पत्रों की भूमिका न सिर्फ भारत में बल्कि दूसरे देशों में भी हमेशा बहुत महत्त्वपूर्ण रही है। प्रत्येक समाचार-पत्र अपनी पहचान बनाने की कोशिश करता है और अपने पाठकों का विश्वास जीतता है । यह कार्य समाचार पत्र अपने प्रस्तुतिकरण व अपने समाचार पत्र में समाचारों के माध्यम से करते हैं ।
 
 समाचार पत्र में लोगों की शिकायतें और उनके विचार शामिल होते हैं सरकार की नीतियाँ और उसके कार्य समाचार पत्रों के माध्यम से ही लोगों तक (जनता) पहुँचते हैं । बदले में लोग अपने विचार, राय, प्रशंसा व आलोचना व्यक्त करते हैं । समाचार पत्र मानवाधिकारों के संरक्षक हैं । समाज में क्या गलत या सही हो रहा है उस सबके प्रति जनता को समाचार पत्र ही जागरूक करते हैं । वे सरकार को उखाड़ और बना सकते हैं।
 
-Question 20. 
+
+
+
+
 Rajasthan has a vast stretch of desert. Most of the land being devoid of plantation, soil erosion is a very common phenomenon. The soil being bare, the wind picks up speed due to the flat land and blows away the unprotected soil.
 
 Even though rain falls infrequently in Rajasthan; when it does rain, it causes a large run of surplus water that washes away the top layer of the soil as we saw during the rainy season of 2017 in some parts of Rajasthan. The flood in Pali, Jalore and Rajsamand etc. caused a lot of soil erosion. The best step in the direction of soil conservation is planting appropriate trees. The construction of bunds to check the flow of water will also prove helpful.
-Answer:
+
 राजस्थान में रेगिस्तान का बहुत बड़ा क्षेत्र है । अधिकांश भूमि वृक्षों से रहित होने के कारण मृदा अपरदन एक सामान्य परिदृश्य है । मिट्टी के खुले होने के कारण और भूमि समतल होने के कारण हवा तेजी से बहती है और असुरक्षित मिट्टी को उड़ा ले जाती है। यद्यपि राजस्थान में वर्षा रुक-रुककर होती है परन्तु जब होती है तो बड़ी मात्रा में फालतू पानी बह जाता है जिससे मिट्टी की ऊपरी सतह बह जाती है। जैसा कि हमने वर्ष 2017 की वर्षा ऋतु में राजस्थान के कुछ भागों में देखा था। पाली, जालौर, राजसमन्द आदि जिलों में बाढ़ ने काफी मात्रा में मृदा अपरदन किया। मृदा-संरक्षण की दिशा में सर्वोत्तम कम है- समुचित वृक्षारोपण । जल के बहाव को रोकने के लिए बन्धों का निर्माण भी इस कार्य में सहायक होगा ।
 
-RBSE Class 12 English Translate the Passage into Hindi
 
-Question 21. 
+
+
+
 India is known for its spiritual and ethical values from the time immemorial. Spiritualism is the life line of Indian culture. The most ancient book on religion 'The Rigveda' belongs to India. The most perfect science of physical, mental and spiritual health "The Yoga' belongs to India.
 
 Indian history is full of such episodes when people not only renounced their property and family but also their lives to keep their words and ideals. Universal brotherhood, motherhood in earth; work is worship are a few of those innumerable principles that signify the spiritual and ethical values in the society of ancient India.
-Answer:
+
+
 भारत शाश्वत काल से अपने आध्यात्मिक व नैतिक मूल्यों के लिए जाना जाता है। अध्यात्मवाद भारतीय संस्कृति की जीवन रेखा है। धर्म पर सर्वाधिक प्राचीन ग्रन्थ 'ऋग्वेद' भारत में ही रचा गया। शारीरिक, मानसिक व आध यात्मिक स्वास्थ्य का सम्पूर्ण विज्ञान 'योग' भी भारत की ही सम्पत्ति है।
 
 भारतीय इतिहास ऐसी घटनाओं से परिपूर्ण है जब लोगों ने अपने वचन व आदर्शों के लिए न केवल सम्पत्ति व परिवार का बल्कि अपने जीवन का भी परित्याग कर दिया। विश्व बन्धुत्व, पृथ्वी में मातृत्व भाव, कर्म में पूजा का भाव उन असंख्य सिद्धान्तों में से कुछ हैं जो प्राचीन भारतीय समाज में प्रचलित आध्यात्मिक व नैतिक मूल्यों का महत्व प्रदर्शित करते हैं।
 
-Question 22.
+
+
+
+
 Francis Bacon had said, "Reading makes a complete man". A complete man means a perfect man who is knowledgeable, morally good and mentally and spiritually enlightened. By reading good books, a man can overcome his shortcomings and achieve perfection of mind, body and heart.
 
 Reading books on different branches of knowledge sharpens mental faculties of a man and enables him to formulate his thinking and character. Moreover, books contain thoughts, experience and knowledge of the great minds. They enable a man to think deeply for his own good. Thus, reading makes a man perfect.
-Answer:
+
+
 फ्रान्सिस बेकन ने कहा था, "पठन-पाठन मनुष्य को निपुण बनाता है।'' निपुण मनुष्य का अर्थ है दोषरहित मनुष्य जो ज्ञानवान, नैतिक रूप से अच्छा और मानसिक और आध्यात्मिक रूप से निपुण हो। अच्छी पुस्तकें पढ़कर व्यक्ति अपनी कमियाँ दूर कर सकता है और मस्तिष्क, शरीर और आत्मा की पूर्णता प्राप्त कर सकता है।
 
 अलग-अलग विषयों की पुस्तकों को पढ़ने से व्यक्ति की मानसिक क्षमता तेज होती है और उसको अपनी सोच और चरित्र बनाने में सक्षम बनाती है। इसके अतिरिक्त पुस्तकों में महान लोगों के विचार, अनुभव और ज्ञान होते हैं । वे व्यक्ति को अपनी भलाई के लिए गहन विचार करने में सक्षम बनाते हैं । इस प्रकार पठन-पाठन व्यक्ति को निपुण बनाता है ।
+
+
+
 
 
 'A man is known by the company he keeps'. The saying implies that company influences one's character and personality. Usually this company comprises friends and books. If friends are good, the influence will also be good. The same is true of books. Good books help a man become good while bad books spoil him. Therefore it is always wise to associate with good friends and read good books. Their number doesn't matter. Just as few good friends are enough to enjoy the fruit of friendship, similarly, few good books are enough to inculcate in oneself the noble qualities of a good life.
@@ -280,9 +292,10 @@ Answer:
 अच्छी पुस्तकें मनुष्य को अच्छा बनने में सहायक होती है जबकि बुरी पुस्तकें उसको बिगाड़ देती है। इसलिये हमेशा अच्छे मित्रों के साथ रहमा और अच्छी पुस्तकें पढ़ना ही बुद्धिमत्तापूर्ण होता है । उनकी संख्या महत्त्वपूर्ण नहीं होती। जैसे थोड़े से अच्छे मित्र मित्रता का सुख भोगने के लिये पर्याप्त होते हैं वैसे ही थोड़ी सी अच्छी पुस्तकें व्यक्ति में अच्छे जीवन के अच्छे गुणों की सिखाने के लिये पर्याप्त होती है ।
 
  
+ 
+ 
+ 
 Shakespeare's famous quotē 'Sweet are the uses of Adversity' is a whole measure of truth packed into a few words. At some point of life, almost all of us have to go through bad times. Challenges come to us in many forms. But these challenges make us only wiser and more courageous. The best way to deal with hard times is to hold onto one's patience and good sense.
-
-
 
 When one goes through difficulty with this attitude, one comes out as a polished individual. Problems leave us with better understanding of life. Thus adversity brings the best form of us. We must not lose courage and patience in life.
 
@@ -291,10 +304,14 @@ When one goes through difficulty with this attitude, one comes out as a polished
 कठिन समय से निबटने का सबसे अच्छा तरीका है- धैर्य व समझदारी बनाये रखना । जब व्यक्ति इस दृष्टिकोण के साथ कठिनाइयों का सामना करता है तो वह एक परिष्कृत व्यक्ति के रूप में सामने आता है । समस्याओं से हमें जीवन की अधिक अच्छी समझ प्राप्त होती है । इस प्रकार बुरे दिन हमारा सबसे श्रेष्ठ रूप सामने लाते हैं । हमें जीवन में उत्साह और धैर्य का त्याग कभी नहीं करना चाहिए।
 
 
+
+
 The person who impressed me most was Dr A.P.J. Abul Kalam. He was a renowned scientist. He came to be known as the Missile Man of India for his work on the development of ballistic missile and launch vehicle technology. He became the 11th President of India in the year 2002 and continued till 2007. He was the recipient of many Prestigious awards including, Bharat Ratna in 1997. He lived his life with great simplicity. He wrote many books. He was a man of strong will power. He died on July 27, 2015.
 
 
 डॉ. ए. पी. जे. अब्दुल कलाम वह व्यक्ति थे, जिन्होंने मुझे सर्वाधिक प्रभावित किया। वह एक सुप्रसिद्ध वैज्ञानिक थे। प्रक्षेपास्त्रों के विकास एवं अंतरिक्ष में इन्हें भेजने की तकनीक के बूते पर वे भारत के मिसाईल पुरुष के रूप में जाने जाते हैं। वे सन् 2002 में भारत के 11वें राष्ट्रपति बने और सन् 2007 तक रहे। वे भारत रत्न (1997) सहित कई प्रतिष्ठित पुरुस्कारों को पाने वाले व्यक्ति थे। उन्होंने बहुत ही सादगी से अपना जीवन जिया। उन्होंने कई पुस्तकें लिखी। वे मजबूत इच्छा शक्ति वाले व्यक्ति थे। दिनांक 27 जुलाई 2015 को इनका निधन हो गया।
+
+
 
 
 Patriotism is a sacred feeling. It inspires us to do everything for the good of our country. We remember many patriots like Mahatma Gandhi, Subhash Chandra Bose, Chandra Shekhar Azad, Bhagat Singh and many more. They sacrificed their lives for their motherland.
