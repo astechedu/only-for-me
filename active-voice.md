@@ -1,8 +1,7 @@
 # Active Voice
 
 
-
-
+<img src="https://d1avenlh0i1xmr.cloudfront.net/7636a1d8-f91e-48f2-b555-80f374dfa084/type-of-tenses.jpg">
 
 
 # Types of Tenses with Examples and Formula
@@ -2122,3 +2121,5 @@ Why did he make a mistake?
 
 
 
+
+ 
