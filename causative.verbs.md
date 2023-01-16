@@ -20,10 +20,6 @@
 
  
 
-Advanced English Grammar Course
-
-Download 500+ English Phrases
-
 The English verbs let, make, have, get, and help are called causative verbs because they cause something else to happen.
 
 Here are some specific examples of how causative verbs work in English sentences.
@@ -122,16 +118,3 @@ After “help,” you can use “to” or not – both ways are correct. In gene
     Reading before bed helps me to relax.
 
  
-Get a free e-book when you sign up for English lessons by e-mail:
-Master the details of English grammar:
-
-aegc-transparent
-
-Learn more about this course
-
-70Save
-
-
-
-Espresso English Copyright © 2022.
-Terms of Use | Privacy Policy 
