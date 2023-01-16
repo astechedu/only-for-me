@@ -7,7 +7,8 @@
 
 
 
-<img src="https://cdn1.byjus.com/wp-content/uploads/2020/04/selina-sol-concise-maths-class-7-ch7-ex-7c-3.jpg">
+    <img src="https://cdn1.byjus.com/wp-content/uploads/2020/04/selina-sol-concise-maths-class-7-ch7-ex-7c-3.jpg">
+    
 # Unitary Method Class vii 
 
 Access Selina Solutions Concise Maths Class 7 Chapter 7: Unitary Method (Including Time and Work)
