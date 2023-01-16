@@ -738,13 +738,614 @@ Your writing, at its best.
 # 4 Verb 
 
 
+Want to know where all the action is? Verbs! Verbs are words that represent actions that are external (run, jump, work) and internal (love, think, consider). Without verbs, you can’t do anything, you can’t feel anything—you can’t even be anything.  
+
+As the heart of sentences and clauses, verbs show what the subject is doing or feeling, even if they’re just existing. Verbs are also the only type of word that’s absolutely necessary to make a sentence. Not even nouns, which represent things, need to be in every sentence. 
+
+
+Because verbs are so important, they have more rules than other types of words. This can make verbs a little confusing in English, but read on for our explanation of everything you need to know: the different types of verbs, the different forms they take, how to conjugate them in every tense, and some expert tips on how to use them when speaking or writing. 
+Table of contents
+
+What is a verb?
+
+Types of verbs
+
+Verb categories
+
+Verb forms
+
+How to conjugate verbs in English
+
+3 expert tips for putting verbs into action
+What is a verb? 
+
+Let’s start with the basics: What is a verb? Verbs are words that describe actions, whether physical or mental. Verbs also describe a “state of being,” like the verbs be, become, or exist. 
+
+Salah ran across the field, kicked the ball, and scored a goal. 
+
+“I am the State.” —King Louis XIV
+
+Some verbs also act as “helper verbs” to change the tense of another verb. Likewise, these helper verbs can change a positive statement to a negative one with words like “not.” 
+
+She has been jogging for a month and already feels her stamina increasing. 
+
+“I don’t feel so good.” —Spider-Man
+
+Every sentence needs at least one verb. If there’s no verb, it’s an incomplete sentence or a sentence fragment. Except for imperative sentences (commands), a sentence also needs a subject, the thing doing the action. 
+
+Subjects are important for a verb because they change how it’s conjugated, which we explain below. This is especially true for the most common verb: be. 
+Types of verbs
+Dynamic (action) verbs
+
+Most verbs describe a physical action or activity, something external that can be seen or heard. These verbs are formally known as dynamic verbs, but can also be called action or event verbs.  
+
+Examples: walk, laugh, swim, play, eat, drink, sing, dance, talk, say
+
+There are a lot of actions that take place in our minds and feelings, which are not external. Verbs that describe mental or internal actions are still dynamic verbs, but they’re not always so obvious. These include “process verbs,” which describe actions of transition.  
+
+Examples: consider, guess, change, grow, live, endure, succeed, fail
+Stative (state-of-being) verbs
+
+The opposite of dynamic verbs of action is stative verbs of being. Stative verbs describe a subject’s state or feeling, including things they like and don’t like. 
+
+Examples: want, need, prefer, love, hate, like, dislike, seem, understand, know, believe, involve, realize
+
+One of the most important parts of stative verbs is that you can’t use them in the continuous tenses. Stative verbs stick to the simple tenses, or occasionally use the perfect. 
+
+The trouble is that some verbs can be dynamic or stative, depending on the specific meaning and how they’re used. This includes the most popular verb be. Let’s take a deeper look at these.
+Verbs that can be dynamic or stative
+
+A lot of verbs have more than one meaning, so they can be used as dynamic or stative. These include perception words: see, hear, taste, smell, feel. 
+
+When perception verbs are used as an involuntary action, such as passive or unintentional actions, they are stative. This applies when these verbs are used in the general sense, a state of being that’s always happening. 
+
+I can’t see without my glasses. 
+
+Cake still tastes great even if it’s not your birthday.
+
+When those same verbs are used for a voluntary action—specific, deliberate, and/or temporary events—they are dynamic. Among other things, it means they can be used in the continuous tenses. 
+
+I haven’t been seeing well since I lost my glasses. 
+
+We were tasting cakes for the wedding all afternoon. 
+
+Likewise, some perception verbs have alternative meanings, especially if they’re part of expressions or phrasal verbs. Often, this means they act as dynamic verbs. 
+
+Romeo and Juliet had been seeing each other for just five days when they died. 
+
+Other verbs, like think, have, and, above all be, follow the same voluntary/involuntary rules as perception verbs. Depending on how they’re used, they can be either dynamic or stative. 
+
+I think toads are better than frogs. 
+
+(stative: expresses an opinion or feeling always there; involuntary)
+
+All morning I was thinking about how toads are better than frogs. 
+
+(dynamic: expresses the temporary action of thinking; voluntary)
+
+I have a ten-year-old dog. 
+
+(stative: expresses permanent ownership; involuntary)
+
+I am having a party for my dog’s eleventh birthday. 
+
+(dynamic: used as part of phrase; voluntary)
+
+He is nice to everyone. 
+
+(stative: expresses an ongoing state or personality trait; involuntary)
+
+He was just being nice to everyone to get a promotion. 
+
+(dynamic: expresses a temporary/intentional state; voluntary)
+Auxiliary (helping) verbs
+
+Auxiliary verbs, or “helping verbs,” are used in English to change another verb’s tense, voice, or mood. When auxiliary verbs are used, there’s always a main verb that represents the main action. However, the auxiliary verb must still be conjugated correctly. 
+
+The main auxiliary verbs are be, have, and do. We explain how they’re used specifically for conjugating below, but here are a few quick examples: 
+
+I have eaten sushi many times before. (tense)
+
+That piece of sushi was eaten by me. (voice)
+
+Did you eat my sushi? (mood)
+Modal auxiliary verbs
+
+Some auxiliary verbs are added to another verb to show necessity, possibility, or capability. Like other auxiliary verbs, modal auxiliary verbs are not the main verb, but they do change its meaning slightly. Some common examples are can, may, could, should, would, must, ought, and might.  
+
+I could swim across the English Channel, but should I do it? 
+
+She must be the strongest person on the team, and might be the strongest person in the region. 
+Phrasal verbs 
+
+Phrasal verbs are phrases that act as individual verbs, often combining two or more words and changing their meaning. The verb get, for example, becomes many different phrasal verbs when combined with different prepositions. 
+
+When the bus stops, passengers get out on the sidewalk. 
+
+After losing his job, he’s getting by on savings. 
+
+The important thing to remember about phrasal verbs is that they act as a single verb, so you can still use them with other verbs and prepositions. However, when you conjugate a phrasal verb, you only conjugate the part of the phrase that’s actually a verb, like get. 
+
+>>Read More: Master These 30 Common Phrasal Verbs in English
+Verb categories
+
+Aside from the different types, verbs also come in different categories. Dynamic, stative, and auxiliary verbs all make up the categories below. 
+Transitive, intransitive, and ditransitive
+
+Transitive, intransitive, and ditransitive refer to how a verb acts with direct and indirect objects. A direct object is the person or thing that the action happens to, while an indirect object is the person or thing that receives the direct object. 
+
+Lindor threw the ball to deGram. 
+
+In this example, the subject is Lindor and the verb is threw. The direct object is the ball because that is what was thrown—Lindor did the action to the ball. The indirect object is deGram because he received the direct object, the ball. 
+
+Verbs that don’t use either a direct or indirect object are called intransitive. These verbs are complete actions by themselves. 
+
+Examples: go, walk, run, talk, sit, sleep, work
+
+Verbs that use a direct object, but not an indirect object, are called transitive. They don’t always need a direct object, but they have the option. 
+
+Examples: clean, like, love, dislike, hate, want, learn, deserve, say
+
+Verbs that use both direct and indirect objects are called ditransitive. They don’t always need an indirect object, but they have the option. 
+
+Examples: throw, make, buy, sell, read, give, lend, bring
+
+Just as a verb can be either dynamic or stative depending on the meaning, a verb can sometimes act transitive while at other times act intransitive. These are known as ambitransitive. For example, if you ask someone if they’re hungry, they might respond:
+
+No, I already ate. (intransitive)
+
+No, I already ate a sandwich. (transitive)
+Active vs. passive voice
+
+In English, the standard format where the subject performs the action is known as the active voice. However, you can switch around your words to make the direct or indirect objects the subject of the sentence, known as the passive voice. As explained in our guide to the passive voice, you can make a verb passive by adding a conjugated form of be in front of its past participle. 
+
+Stricklen threw the ball to Williams. (active)
+
+The ball was thrown to Williams by Stricklen. (passive)
+
+Williams was thrown the ball by Stricklen. (passive)
+Linking (copular) verbs
+
+A linking verb is any verb, dynamic or stative, that directly connects or “links” the sentence’s subject to other words in the sentence. For example:
+
+Garfield is a cat.  
+
+Here, “Garfield” and “a cat” are the same thing, so “is” acts as a linking verb. 
+
+A linking verb—also known as a copula or copular verb in formal linguistics—connects the subject not just to other nouns and adjectives, but also to prepositional phrases and other verbs in the infinitive form. Although the verb be is the most-used linking verb in English, other linking verbs like seem and become are also common. 
+
+Garfield is in the kitchen. 
+
+Garfield became fat by eating lasagnas. 
+
+Garfield seems to hate Mondays. 
+
+Likewise, perception verbs are often linking verbs as well, but only when they describe what is being perceived. 
+
+The mild sauce also tastes spicy. 
+
+Birds look happy when the sun comes out. 
+
+The student felt pride when they used perfect grammar. 
+Regular vs. irregular Verbs
+
+Verbs have different forms to show different uses, such as an action that happened in the past, or an action that happens continuously. Normally, these forms follow the same patterns of conjugation, so that you can use the same rules on all verbs. Verbs that use the normal forms are regular verbs. 
+
+Unfortunately, some verbs don’t want to play by the rules. They have their own unique forms with no patterns, specifically for the simple past tense and past participle forms. These are the notorious irregular verbs, and there are quite a few of them—including the most common verb be. 
+
+To make matters worse, the only way to learn how to use irregular verbs is to study them and all their forms. On the bright side, we explain the best ways to memorize irregular verbs. But first, you’ll want to learn the standard verb forms of the majority regular verbs below. 
+Verb forms
+
+Before we explain how to conjugate verbs in English, you need to understand the different forms a verb takes. This helps immeasurably when you conjugate on your own—you just need to use the right form at the right time. Keep in mind that these forms work mostly for regular verbs; irregular verbs each have their own special forms. 
+
+If you want to learn more, we have a more detailed guide on verb forms here. 
+ROOT 	3RD PERSON SINGULAR 	SIMPLE PAST 	PRESENT PARTICIPLE 	PAST PARTICIPLE
+Dance (regular) 	dances 	danced 	dancing 	danced
+Sing (irregular) 	sings 	sang 	singing 	sung
+Root 
+
+The root form is the basic form of the verb with no changes. It’s also the simple present tense for everything except the third-person singular. 
+Third-person singular present
+
+Used with subjects like he, she, the singular they, or it, the third-person singular in the present tense just adds an -s to the end of the root form most of the time. 
+
+For verbs that end in a consonant and -y (try, carry), you remove the y and add -ies (tries, carries). If the verb ends in a vowel and -y (say, buy), you just add an –s like normal (says, buys). 
+
+Verbs that end in -ch, -sh, -x, -z, or -s add -es to the end instead of just –s. For example, watch becomes watches and kiss becomes kisses. 
+Simple past 
+
+The past tense shows an action that already happened. In most cases it’s made by adding -ed to the end of the root form, or just -d if the root form already ends in an e. However, be careful of irregular verbs—their rules for the past don’t tend to be consistent. 
+Present participle
+
+The present participle is used for the continuous tenses to show ongoing or current action, and in more advanced English can be used for participial phrases. In most cases you simply add –ing to the end of the root form, although sometimes you have to remove an E first. 
+Past participle
+
+The past participle is used for the perfect tenses. In regular verbs, it’s the same as the simple past tense, so there’s nothing extra to learn. However, irregular verbs often use unique past participles, so you may have to memorize their forms. 
+Infinitives and gerunds
+
+Do you like to swim? Do you enjoy learning? If you want to use a verb as a noun, you can turn it into an infinitive or gerund, the noun forms of verbs. 
+
+An infinitive adds the preposition to in front of a verb’s root form. Although technically two words, an infinitive acts as a single word, usually a noun, but sometimes also an adjective or adverb. 
+
+To forgive is divine. (noun)
+
+Bring a snack to eat if you get hungry. (adjective describing “snack”)
+
+Alternatively, you can turn the verb into a gerund by adding -ing, identical to the present participle. A gerund is strictly used as a noun, and occasionally you can use them to create gerund phrases, which act as a single unit to modify the gerund.  
+
+Running is too difficult. 
+
+Studying the cosmos is not the same as understanding the cosmos. 
+
+So what’s the difference between infinitives and gerunds? Often, they are interchangeable—both infinitives and gerunds can act as subjects and direct objects. 
+
+Living with a dog changes your outlook on life. (correct)
+
+To live with a dog changes your outlook on life. (also correct)
+
+However, only gerunds can be the object of a preposition. 
+
+When I’m not fishing, I’m thinking about fishing. 
+
+Moreover, some transitive verbs only use infinitives as a direct object—for example, want. 
+
+I want to break free. (correct)
+
+I want breaking free. (incorrect)
+
+Although there are others, some common verbs use infinitives. They include the following: choose, decide, hope, plan, prepare, promise, wish.
+
+In general, use the infinitives for situations that are abstract, unreal, or haven’t happened yet. Use gerunds for situations that are specific, real, or have already happened. 
+
+In the mornings, I really like to exercise. (abstract; infinitive)
+
+This morning, I really liked exercising.  (specific; gerund)
+How to conjugate verbs in English
+
+Using verbs isn’t as easy as just tossing them in a sentence. They need to represent the tense you want, as well as match the subject (subject-verb agreement, explained below). This is called verb conjugation, or changing the verb to fit the sentence. In English, there are four main tenses, each divided into three time periods, totalling twelve tenses. Some other tenses exist, but these are the most common ones. 
+
+Main tenses:
+
+    simple
+    continuous
+    perfect
+    perfect continuous
+
+Time periods: 
+
+    present
+    past
+    future
+
+Below, we explain how to conjugate each of the main tenses in the present, past, and future. Keep in mind that irregular verbs may use different forms. 
+
+Subject-verb agreement
+
+No matter what tense you use, your verb has to match the number of the subject. In other words, singular subjects conjugate verbs differently than plural subjects. 
+
+A lot of the time, you either add –s to the end of the verb or you don’t. However, more advanced tenses with auxiliary verbs can get tricky—both be and have are irregular verbs, so you have to pay close attention to using their right forms even when they’re not the main verb. 
+How to conjugate simple tenses
+
+The simple tenses are the most straightforward—that’s what makes them simple. They represent individual, one-time actions. 
+How to conjugate the present tense
+
+The simple present tense is used for actions that happen regularly or things that don’t change, such as preferences or opinions. It’s made with the root form, unless the subject is third-person singular (he, she, the singular they, it), in which case you use the third-person singular present form. 
+
+[ROOT] or [THIRD-PERSON SINGULAR PRESENT]
+
+Kim feels lousy today. 
+
+I study every night before bed. 
+How to conjugate the past tense
+
+The simple past tense describes a single action that already took place, or a habitual action that no longer occurs. It uses the simple past form explained above. 
+
+[SIMPLE PAST]
+
+When I was young, I played in the backyard every day. 
+
+They lost again, and no one was surprised. 
+How to conjugate the future tense
+
+The simple future tense describes events that have not happened yet, as in planning or preparing. It uses the root form, but adds the word will in front. 
+
+will + [ROOT]
+
+You will study verbs until you understand them. 
+
+Once again, history will repeat itself. 
+How to conjugate continuous tenses
+
+The continuous tense—also known as the progressive tense—is used for mostly ongoing events that are temporary. 
+
+Remember that stative verbs cannot be used in the continuous tense. Actions about feelings or states of being that happened in the past use the simple past tense. 
+How to conjugate the present continuous tense
+
+The present continuous tense is used often, and has many different uses:
+
+    events happening right now
+    ongoing events that are temporary
+    plans for the near future
+
+It’s often confused with the present simple; situations which might seem like the simple present—such as actions happening currently—are actually best represented by the present continuous. 
+
+Form the present continuous by adding the conjugated simple present form of be before the present participle of your main verb (the -ing form). 
+
+am / is / are + [PRESENT PARTICIPLE]
+
+Tony is sleeping at the moment. 
+
+Later, we’re seeing the new zombie movie. Everyone is talking about it! 
+How to conjugate the past continuous tense
+
+The past continuous tense shows ongoing events that happened in the past, specifically ones that have a definitive beginning and end. It can also be used to show a past event that was interrupted by another past event. Note that the past continuous is only used for events that are completed. 
+
+Form the past continuous by adding the conjugated simple past form of be before the present participle. Yes, the present participle. 
+
+was/were + [PRESENT PARTICIPLE]
+
+They were eating dinner when the phone rang. 
+
+It was raining all day, but we still had fun indoors. 
+How to conjugate the future continuous tense
+
+The future continuous tense describes ongoing events that will happen in the future, specifically if they have a definitive beginning and end. 
+
+It’s formed by adding the words will be before the present participle. 
+
+will be + [PRESENT PARTICIPLE]
+
+We will be skiing all day Saturday. 
+
+After I quit, you will be begging me to come back to work. 
+How to conjugate the perfect tense
+
+As one of the most confusing tenses in English, the perfect tense takes some practice. It has very particular usage guidelines—especially the present perfect—and it’s closely related to the simple past. 
+How to conjugate the present perfect tense
+
+The present perfect tense is used for a few special circumstances, mostly connected to past events that haven’t yet ended: 
+
+    actions started in the past but continue into the present
+    repeated actions in the past without mentioning when 
+    past actions, for more emphasis or dramatic effect
+
+To form the present perfect tense, add the present conjugation of have before the verb’s past participle. 
+
+has/have + [PAST PARTICIPLE]
+
+I’ve worked here since the beginning.   
+
+Macbeth has murdered the king! 
+
+(Macbeth murdered the king! is also correct, but the present perfect makes it sound more dramatic.)
+How to conjugate the past perfect tense
+
+When a sentence has two past events, use the past perfect tense, also known as the pluperfect, to show which one happened first. It’s typically used in compound or complex sentences with two clauses to show the order in which they happened. 
+
+For the past perfect tense by adding had before the past participle. 
+
+had + [PAST PARTICIPLE]
+
+I had forgotten about our date until she reminded me.
+
+When our plane finally landed, they had already left the airport.  
+How to conjugate the future perfect tense
+
+The future perfect tense refers to an unfinished event from a future when it’s already completed. Confused? Say you’re riding your bike on Saturday. By Sunday, you’ll be finished riding your bike. You can say, “My bike ride will have finished by Sunday.” That’s why the future perfect tense is usually used with an expression of time, for context. 
+
+It’s formed by adding the words will have before the past participle. You don’t need to conjugate “have,” because it’s the same no matter what the subject is. 
+
+will have + [PAST PARTICIPLE]
+
+By the time I can vote, I will have graduated already. 
+
+We will have stayed together for twenty-five years in August. 
+How to conjugate the perfect continuous tense
+
+One of the more complicated tenses in English, the perfect continuous tense combines the perfect and continuous tenses at the same time. It’s largely used like the perfect tense, but with ongoing or continuous actions.
+How to conjugate the present perfect continuous tense
+
+The present perfect continuous tense describes an ongoing action started in the past that continues to the present. If that sounds familiar, it’s because that’s one of the situations we use the normal present perfect tense, too. 
+
+So what’s the difference? The present perfect and the present perfect continuous can often be used interchangeably, but the big difference is emphasis. The present perfect continuous emphasizes that the event is ongoing, whereas the present perfect alone emphasizes completion or achievement. 
+
+To form the present perfect continuous, add the conjugated form of have, the word been, and the present participle. 
+
+has/have + been + [PRESENT PARTICIPLE]
+
+The town has been mining gold since the 1800s. 
+
+I’ve been locked in my closet for hours! 
+How to conjugate the past perfect continuous tense
+
+Like the past perfect, the past perfect continuous tense is used in complex and compound sentences to show which event happened first. While the past perfect tense describes an individual action, the past perfect continuous shows an ongoing action that is already finished. 
+
+Form the past perfect continuous tense by adding the words had been before the present participle. 
+
+had been + [PRESENT PARTICIPLE]
+
+Until the moment our picnic began, the sun had been shining all day. 
+
+She had been waiting for a sign before she finally asked him out. 
+How to conjugate the future perfect continuous tense
+
+The future perfect continuous tense functions just like the future perfect tense, except with an ongoing action. The major difference is that with the future perfect tense, the event will have ended, but with the future perfect continuous, the event would still be happening by that time in the future. Both, however, are frequently used with expressions of time. 
+
+The future perfect continuous tense is formed by adding the words will have been before the present participle. 
+
+will have been + [PRESENT PARTICIPLE]
+
+In a few weeks, she will have been studying English for a whole year. 
+
+By 6:00, we will have been stuck in this elevator for four hours. 
+3 expert tips on putting verbs into action
+1 Use verbs instead of other words for more powerful writing
+
+Verbs aren’t just necessary for grammar—they’re also the most helpful words for writing. Whether you’re writing a school essay, work email, or social media post, try to use verbs over nouns or adjectives to provide the details. 
+
+This may involve rewording some of your sentences, but your changes will improve your writing as a whole. Strong writing uses as few words as possible, so a single verb sounds better than a group of words that say the same thing. 
+
+He is a proofreader for work. 
+
+He proofreads for work. 
+
+In the end, we were successful. 
+
+In the end, we succeeded. 
+2 Use the active voice whenever you can
+
+Although the passive voice is grammatically correct, the active voice is usually preferred. It follows the same principle mentioned above: Fewer words mean stronger writing. Not only does the active voice sound better, but also it’s easier for your reader to understand because the subject comes first.
+
+Whenever you notice a sentence in the passive voice, see if you can reword it to say the same thing in the active voice. 
+
+The homecoming game was attended by almost every student. 
+
+Almost every student attended the homecoming game. 
+
+It was there that they found the lost ring. 
+
+They found the lost ring there. 
+3 Use specific verbs instead of modifying general verbs
+
+Our last tip again follows the principle that fewer words are better. Instead of modifying or describing your verb to get across your meaning, try using another, more specific verb instead. 
+
+There are thousands of verbs in the English language; instead of adding words to describe the verb you have, use another more precise verb to take its place. 
+
+run fast → sprint
+
+talk quietly → whisper
+
+bump into each other → collide
+
+Of course, knowing the right word in every circumstance is not easy, especially if English isn’t your primary language. Don’t be afraid to use the Grammarly writing assistant. In addition to catching all spelling and grammar mistakes while you write, Grammarly can also suggest better word choice. Grammarly’s writing feedback can recommend better, stronger verbs with the meaning you’re looking for, as well as suggest alternatives to words you use over and over again. Try it and see how your writing improves! 
+
+This article was originally written in 2017. It’s been updated to include new information.
+Your writing, at its best.
+Works on all your favorite websites
+iPhone and iPad KeyboardAndroid KeyboardChrome BrowserSafari BrowserFirefox BrowserEdge BrowserWindows OSMicrosoft Office
+Related Articles
+
+
+# 5 Adverb
+
+
+What Is an Adverb?
+
+
+An adverb is a word that modifies (describes) a verb (he sings loudly), an adjective (very tall), another adverb (ended too quickly), or even a whole sentence (Fortunately, I had brought an umbrella). Adverbs often end in –ly, but some (such as fast) look exactly the same as their adjective counterparts.
+
+Tom Longboat did not run badly.
+
+Tom is very tall.
+
+The race finished too quickly.
+
+Fortunately, Lucy recorded Tom’s wi
 
 
 
+Adverbs and verbs
+
+Adverbs often modify verbs. This means that they describe the way an action is happening.
+
+Phillip sings loudly in the shower.
+
+My cat waits impatiently for his food.
+
+I will seriously consider your suggestion.
+
+The adverbs in each of the sentences above answer the question in what manner? How does Phillip sing? Loudly. How does my cat wait? Impatiently. How will I consider your suggestion? Seriously. Adverbs can answer other types of questions about how an action was performed. They can also tell you when (We arrived early) and where (Turn here).
+
+However, there is one type of verb that doesn’t mix well with adverbs. Linking verbs, such as feel, smell, sound, seem, and appear, typically need adjectives, not adverbs. A very common example of this type of mixup is
+
+I feel badly about what happened.
+
+I feel bad about what happened.
+
+Because “feel” is a verb, it seems to call for an adverb rather than an adjective. But “feel” isn’t just any verb; it’s a linking verb. An adverb would describe how you perform the action of feeling—an adjective describes what you feel. “I feel badly” means that you are bad at feeling things. If you’re trying to read Braille through thick leather gloves, then it might make sense for you to say “I feel badly.” But if you’re trying to say that you are experiencing negative emotions, “I feel bad” is the phrase you want.
+Adverbs and adjectives
+
+Adverbs can also modify adjectives and other adverbs. Often, the purpose of the adverb is to add a degree of intensity to the adjective.
+
+The woman is quite pretty.
+
+This book is more interesting than the last one.
+
+The weather report is almost always right.
+
+The adverb almost is modifying the adverb always, and they’re both modifying right.
+
+“Is my singing too loud?” asked Phillip.
+
+My cat is incredibly happy to have his dinner.
+
+We will be slightly late to the meeting.
+
+This bridesmaid dress is a very unflattering shade of puce.
+
+Adverbs and other adverbs
+
+You can use an adverb to describe another adverb. In fact, if you wanted to, you could use several.
+
+Phillip sings rather enormously too loudly.
+
+The problem is that it often produces weak and clunky sentences like the one above, so be careful not to overdo it.
+Adverbs and sentences
+
+Some adverbs can modify entire sentences—unsurprisingly, these are called sentence adverbs. Common ones include generally, fortunately, interestingly, and accordingly. Sentence adverbs don’t describe one particular thing in the sentence—instead, they describe a general feeling about all of the information in the sentence.
+
+Fortunately, we got there in time.
+
+Interestingly, no one at the auction seemed interested in bidding on the antique spoon collection.
+
+At one time, the use of the word hopefully as a sentence adverb (e.g., Hopefully, I’ll get this job) was condemned. People continued to use it though, and many style guides and dictionaries now accept it. There are still plenty of readers out there who hate it though, so it’s a good idea to avoid using it in formal writing.
+Degrees of comparison
+
+Like adjectives, adverbs can show degrees of comparison, although it’s slightly less common to use them this way. With certain “flat adverbs” (adverbs that look exactly the same as their adjective counterparts), the comparative and superlative forms look the same as the adjective comparative and superlative forms. It’s usually better to use stronger adverbs (or stronger adjectives and verbs) rather than relying on comparative and superlative adverbs.
+
+An absolute adverb describes something in its own right:
+
+He smiled warmly
+
+A hastily written note
+
+To make the comparative form of an adverb that ends in -ly, add the word more:
+
+He smiled more warmly than the others.
+
+The more hastily written note contained the clue.
+
+To make the superlative form of an adverb that ends in -ly, add the word most:
+
+He smiled most warmly of them all.
+
+The most hastily written note on the desk was overlooked.
+
+Placement of adverbs
+
+Place adverbs as close as possible to the words they are supposed to modify. Putting the adverb in the wrong spot can produce an awkward sentence at best and completely change the meaning at worst. Be especially careful about the word only, which is one of the most often misplaced modifiers. Consider the difference between these two sentences:
+
+Phillip only fed the cat.
+
+Phillip fed only the cat.
+
+The first sentence means that all Phillip did was feed the cat. He didn’t pet the cat or pick it up or anything else. The second sentence means that Phillip fed the cat, but he didn’t feed the dog, the bird, or anyone else who might have been around.
+
+When an adverb is modifying a verb phrase, the most natural place for the adverb is usually the middle of the phrase.
+
+We are quickly approaching the deadline.
+
+Phillip has always loved singing.
+
+I will happily assist you.
+
+When to avoid adverbs
+
+Ernest Hemingway is often held up as an example of a great writer who detested adverbs and advised other writers to avoid them. In reality, it’s impossible to avoid adverbs altogether. Sometimes we need them, and all writers (even Hemingway) use them occasionally. The trick is to avoid unnecessary adverbs. When your verb or adjective doesn’t seem powerful or precise enough, instead of reaching for an adverb to add more color, try reaching for a stronger verb or adjective instead. Most of the time, y
 
 
 
-
+# 6 
 
 
 
