@@ -17,12 +17,12 @@
    #### Tenses:
   
 
+
 12 Types of Tenses with Examples and Formula
 
 In the English language, the tense is essential in English Grammar to speak appropriately.
 A tense verb form describes any action, circumstance, event, or state of being in any sentence structure.
 According to the time structure, Tenses are classified into three types,
-
 
 
 What are the 3 tenses?
