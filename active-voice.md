@@ -1,6 +1,6 @@
 # Active Voice
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkBAYpCK_RFsIizIA1SGIFMtDUH2WZHF3_Ng&usqp=CAU" width="">
+<img src="https://i.pinimg.com/474x/89/a5/de/89a5deb239f1e0ec43e1288140707e31.jpg" width="">
 
 <img src="https://user-images.githubusercontent.com/75734516/212603693-7beac576-0b92-4a9b-bcb4-7ac7596180c7.png" width="400" height="">
 
