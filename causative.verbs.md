@@ -143,7 +143,9 @@ Causative Verbs:
     Make
 
 This kind of verbs constitutes different structures for their sentences.
-Have
+
+
+### Have
 
 Structure 1: 
 
@@ -167,7 +169,7 @@ Mary will have her homework prepared.
 
 
 
-Get
+### Get
 
 Structure 1:
 
@@ -191,7 +193,7 @@ Mary will get her homework prepared.
 
 
 
-Make
+### Make
 
 ‘Make’ is stronger than ‘have/get’. It constitutes only one structure as it does not take anything ‘passive’ as its object.    
 
@@ -213,7 +215,7 @@ Those two verbs are:
     Help
     
 
-Let
+### Let
 
 ‘Let’ means ‘allow/permit’ but the use of ‘let’ in the sentence is different from these words.
 
@@ -240,7 +242,7 @@ He always allows him to do that.
 The teacher allowed me to sit for the exams. 
 
 
-Help
+### Help
 
 Help is not actually a causative verb either but is generally regarded as a causative verb because of its grammatical use in a sentence. It has two structures.
 
@@ -266,7 +268,5 @@ John helped him to lift his car.
 He always helps me to find my stuff.
 The teacher helped me to understand the topic. 
   
-
-
 
 
