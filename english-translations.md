@@ -38,18 +38,7 @@ Mala is my friend. She studies in my class. She is an intelligent student. She h
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+# More
 
 Exercise 1
 
