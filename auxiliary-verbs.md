@@ -336,33 +336,6 @@ a. Used in perfect sentences:
     She had been queen of the town.
 
 
-[Quiz 19.1]
-
-Identify all auxiliary verbs in the following paragraph.
-
-I have just heard that you didn’t attend the meeting yesterday. Did you have a conflict with that time? I must ask that you explain the reason.
-
-
-[Quiz 19.2]
-
-Which of the following sentences does not show any auxiliary verbs?
-
-1)I didn’t have any reason to go there.
-2)Have we practiced this song enough?
-3)Three seats have been reserved for us.
-4)I am a professor in the economics department.
-
-View Answers
-
-English Grammar Book 	FREE: : The English Grammar Book is now available in an App for FREE.
-Android: English Grammar Book
-iPhone/iPad: English Grammar Book
-	
-
-
-Copyright © 2005 - 2019 TALKENGLISH.COM
-TERMS OF USE   |   CONTACT   |   PRIVACY POLICY   |   FAQs
-
 
 
 
