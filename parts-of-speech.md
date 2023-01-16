@@ -46,19 +46,21 @@
 
 
 
+
 Every word is a part of speech. The term “part of speech” refers to the role a word plays in a sentence. And like any workplace or TV show with an ensemble cast, these roles were designed to work together. 
 
 
 
 
-1 Nouns
+# 1 Nouns
 
 A noun is a word that names person, place, concept, or object. Basically, anything that names a “thing” is a noun, whether you’re talking about a basketball court, San Francisco, Cleopatra, or self-preservation. 
 
 Nouns fall into two categories: common nouns and proper nouns. Common nouns are general names for things, like planet and game show. Proper nouns are specific names for individual things, like Jupiter and Jeopardy!
 
 
- Pronouns
+
+# 2 Pronouns
 
 Pronouns are the words you substitute for specific nouns when the reader or listener knows which specific noun you’re referring to. 
 
@@ -68,7 +70,7 @@ Instead of saying Jennifer’s name three times in a row, you substituted she an
 
 
 
- Adjectives
+# 3 Adjectives
 
 Adjectives are the words that describe nouns. Think about your favorite movie. How would you describe it to a friend who’s never seen it?
 
@@ -77,7 +79,7 @@ You might say the movie was funny, engaging, well-written, or suspenseful. When 
 
 
 
- Verbs
+# 4 Verbs
 
 Go! Be amazing! Run as fast as you can! Win the race! Congratulate every participant who put in the work and competed!
 
@@ -85,8 +87,9 @@ These bolded words are verbs. Verbs are words that describe specific actions, li
 
 Not all verbs refer to literal actions, though. Verbs that refer to feelings or states of being, like to love and to be, are known as nonaction verbs. Conversely, the verbs that do refer to literal actions are known as action verbs.
 
->>Read more about verbs
-5 Adverbs
+
+
+# 5 Adverbs
 
 An adverb is a word that describes an adjective, a verb, or another adverb. Take a look at these examples:
 
@@ -94,8 +97,10 @@ Here’s an example: I entered the room quietly. Quietly is describing how you e
 
 Here’s another example: A cheetah is always faster than a lion. Always is describing how frequently a cheetah is faster (adjective) than a lion.
 
->>Read more about adverbs
-6 Prepositions
+
+
+
+# 6 Prepositions
 
 Prepositions tell you the relationship between the other words in a sentence. 
 
@@ -103,8 +108,10 @@ Here’s an example: I left my bike leaning against the garage. In this sentence
 
 Here’s another example: She put the pizza in the oven. Without the preposition in, we don’t know where the pizza is. 
 
->>Read more about prepositions
-7 Conjunctions
+
+
+
+# 7 Conjunctions
 
 Conjunctions make it possible to build complex sentences that express multiple ideas. 
 
@@ -114,8 +121,9 @@ Consider instead: I like marinara sauce and alfredo sauce, but I don’t like pu
 
 In this sentence, and and but are the two conjunctions that link your ideas together. 
 
->>Read more about conjunctions
-8 Articles
+
+
+# 8 Articles
 
 A pear. The brick house. An exciting experience. These bolded words are known as articles. 
 
@@ -126,8 +134,6 @@ A definite article describes one specific noun, like the and this. Example: Did 
 Now swap in an indefinite article: Did you buy a car?
 
 See how the implication is gone and you’re asking a much more general question?
-
->>Read more about articles
 
 
 
