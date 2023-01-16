@@ -26,37 +26,11 @@
             Punctuation Marks
             Active & Passive Voice
             
-        Spoken English Tips
+
         
-        Grammar & Spoken Topics
-        Practice Exercises
-        Conversations in Hindi and English
-        Hindi to English Translation Exercises
-        A-Z Vocabulary Exercises
-        Parts of Speech
-        Daily Use Sentences
-        Pronunciation
-        Phrasal Verbs
-        Interview Q&A
-        Essays
-        Speeches
-        
-
-
-Tense Chart:
-
-Tense in English Grammar in Hindi – Types, Rules, Charts, PDF
-217 Comments	/ Grammar & Spoken Topics / By Spoken English Guru
-
-Tense in English Grammar in Hindi – Types, Rules, Charts, PDF…
-इस आर्टिकल में सभी 12 Tense (काल) की Definition, Rules वो भी Tense Charts और PDF के साथ बिल्कुल सरल Hindi और English में उपलब्ध है। आईए, सबसे पहले Tenses की इस तीन घंटे की वीडियो को पहले पूरा देख लें क्योंकि जो बातें वीडियो देखकर समझ आ पायेंगी, वो केवल पढ़कर नहीं आयेंगी। उसके बाद लिखित में Tense के notes व practice exercise के माध्यम से समझिए। Practice Exercise सबसे नीचे दी गयी हैं।
-
 
 Tense Chart
 
-All the Separate Tense Charts: CLICK HERE
-
-अब अगर आप Rules के हिसाब से Sentences में Tense की पहचान करने की थोड़ा और practice करना चाहते हैं, तो नीचे दी गयी वीडियो भी देखिए –
 Present Indefinite Tense
 
 इस Tense को Simple Present Tense भी कहते हैं। (Also known as the Simple Present Tense.)
@@ -75,14 +49,12 @@ Present Indefinite Tense
 
 —————————
 
-अगर आपको 1st Person, 2nd Person, 3rd Person का ज्ञान नहीं है तो कोई बात नहीं, ये वीडियो पूरी देख लो –
-
-इस वीडियो में बताई गई Tables नीचे दी गयी हैं –
 Singular & Plural
 Person 	Singular 	Plural
 1st Person 	I 	We
 2nd Person 	– 	You
 3rd Person 	He, She, This, That, It, Singular Noun, Singular Pronoun 	They, These, Those, Plural Noun, Plural Pronoun
+
 Auxiliary verbs
 Auxiliary Verbs 	Present 	Past 	Future
 BE (होना) 	Is/Am/Are 	Was/Were 	Will be
@@ -153,8 +125,6 @@ Example: marry becomes marries, try becomes tries, etc.
 
 बाकी लगभग सभी verbs के साथ “s” लगा दिया जाता है।
 
-    Sentences covered in the above video:
-    
 
 रवि इस कुर्सी को घसीटता है। (Affir.)
 (Ravi is kursi ko ghaseetata hai.)
