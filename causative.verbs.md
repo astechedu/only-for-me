@@ -128,3 +128,126 @@ After “help,” you can use “to” or not – both ways are correct. In gene
     Reading before bed helps me to relax.
 
  
+ 
+ 
+ 
+ 
+ 
+# Causative Verbs : Structures & Examples
+  (5/5, 165 votes)
+
+The causatives are the verbs that are used to indicate that one person causes another person to do something for the first person. One can cause somebody to do something for him/her by asking, paying, requesting, or forcing the person.
+Causative Verbs:
+
+    Have
+    Get
+    Make
+
+This kind of verbs constitutes different structures for their sentences.
+Have
+
+Structure 1: 
+Subject + have (any tense) + object (usually person) + base form of verb + . . . .
+Example:
+John had Alex clean the bedroom.
+He always has me do his work.
+  Mary will have Alex prepare her homework.
+
+Structure 2:
+Subject + have (any tense) + object (usually thing) + past participle form of verb + . . . .
+Example:
+John had his car washed.
+He always has his work done.
+  Mary will have her homework prepared.
+Get
+
+Structure 1:
+Subject + get (any tense) + object (usually person) + infinitive + . . . .
+Example:
+John got Alex to clean the bedroom.
+He always gets me to do his work.
+  Mary will get Alex to prepare her homework.
+
+Structure 2:
+Subject + have (any tense) + object (usually thing) + past participle form of verb + . . . .
+Example:
+John got his car washed.
+He always gets his work done.
+  Mary will get her homework prepared.
+Make
+
+‘Make’ is stronger than ‘have/get’. It constitutes only one structure as it does not take anything ‘passive’ as its object.    
+Subject + make (any tense) + object (always person) + base form of verb + . . .
+Example:
+Robert made me beat that little child.  
+He always makes me do his work.
+  Mary will make me prepare her homework.  
+I made him wash my car.
+He makes me laugh whenever I am down.
+
+Note: According to the grammar rules and structures, there are two more similar verbs that are not causative verbs by definition but they constitute similar sentence structures.
+
+Those two verbs are:
+
+    Let
+    Help
+
+Let
+
+‘Let’ means ‘allow/permit’ but the use of ‘let’ in the sentence is different from these words.
+
+Structure:
+Subject + let (any tense) + object (always person) + base form of verb +. . .
+Example:
+Robert let me escape the prison. 
+Let me go. (Subject ‘you’ is hidden)
+  The teacher let the students discuss among themselves.   
+I let him drive my car.
+Let’s (let us) laugh and live a happy life.   
+
+The verb ‘permit’/’allow’ does not follow this structure. It follows the regular sentence pattern of English language.
+Subject + permit/allow + object + infinitive + . . . .
+Example:
+John allowed him to drive his car.
+He always allows him to do that.
+  The teacher allowed me to sit for the exams. 
+Help
+
+Help is not actually a causative verb either but is generally regarded as a causative verb because of its grammatical use in a sentence. It has two structures.
+
+Structure 1:
+Subject + help (any tense) + object (usually person) + base form of verb +. . .
+Example:
+Robert helped me escape the prison. 
+He helps me prepare my presentations. 
+  The teacher had helped the students understand a complex theory.  
+I helped him learn driving.
+It will help you move on.    
+
+Structure 2:
+Subject + help + object + infinitive + . . . .
+Example:
+John helped him to lift his car.
+He always helps me to find my stuff.
+  The teacher helped me to understand the topic. 
+Published By LearnGrammar.Net
+Previous:
+Adjective followed by the Infinitives
+Next:
+Verbs followed by Gerunds
+Related
+[Types of Questions: Open-ended and Closed-ended]
+Types of Questions: Open-ended and Closed-ended
+[Infinitive: Definition and Types]
+Infinitive: Definition and Types
+[Independent Clause with Examples]
+Independent Clause with Examples
+[Irreversible Binomials: Definition, Types with examples]
+Irreversible Binomials: Definition, Types with examples
+[Complex Sentence: Definition, Formation and More]
+Complex Sentence: Definition, Formation and More
+Grammar
+
+
+
+
