@@ -216,6 +216,157 @@
         Luminous 	Shining brightly 	चमकीला
 
 
+इंग्लिश वर्ड 	हिंदी मीनिंग
+Move 	चाल
+Old 	पुराना
+Same 	वही
+Your 	तुम्हारी
+About 	के बारे में 
+Many 	अनेक
+Then 	फिर
+Them 	उन्हें
+Write 	लिखना
+Would 	चाहेंगे
+Like 	पसंद
+So 	इसलिए
+These 	इन
+Her 	उसके
+Him 	उसके
+Long 	लंबा
+Make 	बनाना
+Thing 	चीज़
+See 	देखना
+Girl 	लड़की 
+
+
+
+
+Their 	उनके 
+Lady 	औरत 
+Man 	आदमी
+Human 	मानव
+Food 	खाना
+Vessels  	बरतन
+Towel 	तौलिया
+Clothes 	कपड़े
+Dog 	कुत्ता
+Cat 	बिल्ली
+Birds 	पंछी
+Ice 	बर्फ़
+Water 	पानी/जल
+Mobile 	दूरध्वनि यंत्र
+Fan 	पंखा
+Key 	चाबी
+Lock 	ताला
+Rice 	चावल 
+Wheat 	गेहूँ 
+Fruits 	फल
+
+
+Flowers 	फूल
+Leaves 	पत्ते
+Garden 	बाग़ीचा
+Swing 	झूला
+Game 	खेल
+Spoon 	चम्मच
+Bucket 	बाल्टी
+Ladder 	सीढ़ी
+Medicines 	दवाइयाँ
+Temple 	मंदिर
+Mosque 	      मस्जिद       
+Vehicle 	गाड़ी
+Church 	गिरजाघर
+Wheel 	पहिया
+Sweets  	मिठाई
+Bottle 	बोतल
+Cupboard 	अलमारी
+Pillow 	तकिया
+Bed 	बिस्तर
+Red 	लाल
+
+
+
+Green 	हरा
+Blue 	नीला
+Yellow 	पिला
+Orange 	नारंगी
+Black 	काला
+Pink 	गुलाबी
+Door 	दरवाजा
+Jewellery 	आभूषण
+Ring 	अंगूठी
+Box 	डिब्बा
+Road 	रास्ता
+Grill 	जाली
+Tap 	नल
+Fountain 	झरना
+River 	नदी 
+Children 	बच्चे
+Hair 	बाल
+Comb 	कंघी
+Soap 	साबुन
+Money 	पैसे
+
+
+
+वर्ड मीनिंग इंग्लिश टू हिंदी
+
+Pot 	मटका
+Newspaper 	अख़बार
+Paper 	काग़ज़
+Belt 	पट्टा
+Calendar 	पंचांग
+Window 	खिड़की
+Main gate 	मुख्य द्वार
+Coins 	चिल्लर
+Fork 	      काटा
+Spectacles 	चश्मा
+Notification 	अधिसूचना
+Walk 	चलना
+Run 	दौड़ना
+Play 	खेलना
+Love 	प्यार
+Like  	पसंद करना
+Milk 	दूध
+Tea 	चाय
+Vegetables 	सब्ज़ी
+Message 	संदेश
+Worth 	लायक/योग्य
+Goal 	लक्ष्य/उदेश्य
+Dissatisfied 	असंतुष्ट/नाखुश
+Satisfied 	 संतुष्ट/तृप्त
+Tough 	 कठिन/मुश्किल
+Still 	अभी तक/अभी भी
+Cost 	दाम/कीमत/लागत
+Price 	दाम/भाव/कीमत/मूल्य/रेट
+
+
+
+30 वर्ड मीनिंग इंग्लिश टू हिंदी
+
+Green 	हरा
+Blue 	नीला
+Yellow 	पिला
+Orange 	नारंगी
+Black 	काला
+Pink 	गुलाबी
+Door 	दरवाजा
+Jewellery 	आभूषण
+Ring 	अंगूठी
+Box 	डिब्बा
+Road 	रास्ता
+Grill 	जाली
+Tap 	नल
+Fountain 	झरना
+River 	नदी 
+Children 	बच्चे
+Hair 	बाल
+Comb 	कंघी
+Soap 	साबुन
+Money 	पैसे
+
+
+
 
 Common English words used in Daily Life with Hindi meaning की लिस्ट नीचे दी गई है :
 
