@@ -5,3 +5,4 @@
 
 
 
+<img src="https://hindiessay.co.in/wp-content/uploads/2022/08/tenses-chart-in-hindi-800x400.jpg" width="">
