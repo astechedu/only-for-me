@@ -6,7 +6,7 @@
 [English](all-english-links.md)
 
 
-<img src="https://s3.studylib.net/store/data/007465069_1-ff05c6389d8bae1792cc3304dad66979.png">
+<img src="https://s3.studylib.net/store/data/007465069_1-ff05c6389d8bae1792cc3304dad66979.png" width="400">
 
 
 
