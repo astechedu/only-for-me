@@ -6,7 +6,7 @@
 [English Page](all-english-links.md)
 
 <span class="image-rounded">
-	<img src="https://compenglish.com/wp-content/uploads/2021/10/parts-of-speech.webp" />
+	<img src="https://compenglish.com/wp-content/uploads/2021/10/parts-of-speech.webp" style="width:400px"/>
 </span>
 
 
