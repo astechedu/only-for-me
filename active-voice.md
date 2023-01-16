@@ -1753,7 +1753,6 @@ Interrogative Sentence
 Neg. Interrogative Sentence
 <WH-Sub> + will not have been + V1 + ing + Obj. + since/from/for + {TIME}?
 
-    Sentences covered in the video:
 
 कल, वो सुबह से पढ़ रही होगी।(Affir.)
 (Kal vo subah se padh rahi hogi.)
@@ -1858,11 +1857,5 @@ Past Indefinite Tense – Interrogative Sentence
 <Wh Family> + did + subject + V1 + obj.?
 Why did he make a mistake?
 
-HOMEWORK
 
-ये लोग हमें खेलने नहीं दे रहे हैं।
-Ye log hame khelne nahi de rahe hain.
-Present Continuous Tense – Negative Sentence
-Subject + is/am/are + not + V1 + ing + Obj.
-These people are not letting us play.
 
