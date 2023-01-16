@@ -5,15 +5,11 @@
 
 
 
-# Types of Tenses
+# Types of Tenses with Examples and Formula
 
-
-
-
-Skip to content
-OnlyMyEnglish
 
     Past Tense
+    
     Grammar
         Parts of Speech
         Nouns
@@ -24,8 +20,9 @@ OnlyMyEnglish
         Conjunctions
         Prepositions
         Interjections
+        
     Tenses
-    Contact Us
+  
 
 Home / Grammar / Tenses / 12 Types of Tenses
 Grammar / Tenses
@@ -35,14 +32,14 @@ In the English language, the tense is essential in English Grammar to speak appr
 A tense verb form describes any action, circumstance, event, or state of being in any sentence structure.
 According to the time structure, Tenses are classified into three types,
 
-Table of Contents
+
 What are the 3 tenses?
 
     Present tense
     Past tense
     Future tense.
 
-Apart from it, each of these three tenses is again sub-categorized into twelve types,
+
 What are the 12 types of tenses?
 
     Present Simple Tense
