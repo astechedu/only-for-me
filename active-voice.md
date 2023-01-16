@@ -285,35 +285,6 @@ Examples,
 
 
 
-    Adjectives
-    Adverbs
-    Animals
-    Conjunctions
-    Essay
-    Examples & Sentences
-    General
-    Grammar
-    Interjections
-    Mathematics
-    Modals
-    Multiplication Table
-    Nouns
-    Parts of Speech
-    Past Tense
-    phrases
-    Prepositions
-    Pronouns
-    Sentence
-    Synonyms
-    Tenses
-    Verbs
-    Vocabulary
-    Ways to say
-    Words
-
-
-
-
 
 
 
