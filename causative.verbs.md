@@ -226,27 +226,13 @@ It will help you move on.    
 
 Structure 2:
 Subject + help + object + infinitive + . . . .
+
 Example:
+
 John helped him to lift his car.
 He always helps me to find my stuff.
-  The teacher helped me to understand the topic. 
-Published By LearnGrammar.Net
-Previous:
-Adjective followed by the Infinitives
-Next:
-Verbs followed by Gerunds
-Related
-[Types of Questions: Open-ended and Closed-ended]
-Types of Questions: Open-ended and Closed-ended
-[Infinitive: Definition and Types]
-Infinitive: Definition and Types
-[Independent Clause with Examples]
-Independent Clause with Examples
-[Irreversible Binomials: Definition, Types with examples]
-Irreversible Binomials: Definition, Types with examples
-[Complex Sentence: Definition, Formation and More]
-Complex Sentence: Definition, Formation and More
-Grammar
+The teacher helped me to understand the topic. 
+  
 
 
 
