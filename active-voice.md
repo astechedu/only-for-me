@@ -9,7 +9,7 @@
 
 [![name](link to image on GH)](https://d1avenlh0i1xmr.cloudfront.net/7636a1d8-f91e-48f2-b555-80f374dfa084/type-of-tenses.jpg)
 
-
+[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
 
 
 # Types of Tenses with Examples and Formula
@@ -25,6 +25,7 @@
 In the English language, the tense is essential in English Grammar to speak appropriately.
 A tense verb form describes any action, circumstance, event, or state of being in any sentence structure.
 According to the time structure, Tenses are classified into three types,
+
 
 
 What are the 3 tenses?
