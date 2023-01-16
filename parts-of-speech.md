@@ -1345,7 +1345,381 @@ Ernest Hemingway is often held up as an example of a great writer who detested a
 
 
 
-# 6 
+# 6 Prepositions
+
+
+Prepositions: Definition and Examples
+
+
+    Prepositions indicate relationships between other words in a sentence.
+    Many prepositions tell you where something is or when something happened.
+    Most prepositions have several definitions, so the meaning changes quite a bit in different contexts.
+    Ending a sentence with a preposition is not a grammatical error.
+
+
+
+What is a preposition?
+
+“Vampires! Zombies! Werewolves!”
+
+“Where?!”
+
+“Behind you!”
+
+Thank goodness for prepositions. Imagine not knowing where the danger lay….
+
+Prepositions tell us where or when something is in relation to something else. When monsters are approaching, it’s good to have these special words to tell us where those monsters are. Are they behind us or in front of us? Will they be arriving in three seconds or at midnight?
+
+Prepositions often tell us where one noun is in relation to another (e.g., The coffee is on the table beside you). But they can also indicate more abstract ideas, such as purpose or contrast (e.g., We went for a walk despite the rain).
+
+Here’s a tip: Want to make sure your writing shines? Grammarly can check your spelling and save you from grammar and punctuation mistakes. It even proofreads your text, so your work is extra polished wherever you write.
+
+Types of prepositions
+
+Prepositions indicate direction, time, location, and spatial relationships, as well as other abstract types of relationships.
+
+Direction: Look to the left and you’ll see our destination.
+
+Time: We’ve been working since this morning.
+
+Location: We saw a movie at the theater.
+
+Space: The dog hid under the table.
+Preposition examples
+
+Unfortunately, there’s no reliable formula for determining which preposition to use with a particular combination of words. The best way to learn which prepositions go with which words is to read as much high-quality writing as you can and pay attention to which combinations sound right. Here are a few examples of the most common prepositions used in sentences.
+
+I should rewrite the introduction of my essay.
+
+Sam left his jacket in the car.
+
+Did you send that letter to your mother?
+
+We’re cooking for ten guests tonight.
+
+Dan ate lunch with his boss.
+
+You can also use tools like Google Ngrams to see which prepositions most commonly occur with particular words—but remember, this tool can’t explain the difference in meaning between different prepositional phrases like “pay for” (to purchase) and “pay off” (to bribe). For that, you may want to refer to a list of prepositions that includes the meanings of common combinations.
+Ending a sentence with a preposition
+
+The old claim that it’s wrong to end a sentence with a preposition has been utterly debunked. It’s not true and it never was true. Writers who always insist that a preposition can’t end a sentence often end up with stilted and unnatural sentences:
+
+There’s no one else to hide behind . (Grammatically correct and natural)
+
+There’s no one else behind whom to hide. (Grammatically correct, but unnatural)
+
+Where did you come from ? (Grammatically correct and natural)
+
+From where did you come? (Grammatically correct, but unnatural)
+
+That said, it is sometimes more elegant to move a preposition to an earlier spot in a sentence, especially in very serious and formal writing. But if you do move the preposition, remember to delete it from the end.
+
+This is something we must meditate on .
+
+This is something on which we must meditate.
+
+This is something on which we must meditate on .
+
+Unnecessary prepositions
+
+One of the most common preposition mistakes is adding an unnecessary at to the end of a question.
+
+Where is your brother at ?
+
+Although this is common in some English dialects, it’s considered an error in writing. You can fix the problem by simply deleting the at.
+
+Where is your brother?
+
+On the bright side, if you’re not sure which preposition to use, sometimes you can just get rid of it altogether. In fact, you should always get rid of unnecessary prepositional phrases. Too many prepositions can be a sign of flabby writing. Look at how many prepositions appear in the sentence below:
+
+For many people, the reality of an entry into a new area of employment is cause for a host of anxieties.
+
+Getting rid of the prepositions forces you to tighten up the sentence. The result is shorter, more direct, and easier to understand:
+
+Changing careers makes many people anxious.
+
+Here’s another example:
+
+Alex hit the baseball up over the fence.
+
+Get rid of the up. You don’t need it:
+
+Alex hit the baseball over the fence.
+
+Your writing, at its best.
+Works on all your favorite websites
+iPhone and iPad KeyboardAndroid KeyboardChrome BrowserSafari BrowserFirefox BrowserEdge BrowserWindows OSMicrosoft Office
+Related Articles
+
+
+# Conjunctions
+
+
+Without conjunctions, you’d be forced to express every complex idea in a series of short, simplistic sentences: I like cooking. I like eating. I don’t like washing dishes afterward.
+How do conjunctions work?
+
+Conjunctions are words that link other words, phrases, or clauses together.
+
+I like cooking and eating, but I don’t like washing dishes afterward.
+
+Sophie is clearly exhausted, yet she insists on dancing till dawn.
+
+Conjunctions allow you to form complex, elegant sentences and avoid the choppiness of multiple short sentences. Make sure that the phrases joined by conjunctions are parallel (share the same structure).
+
+I work quickly and careful.
+
+I work quickly and carefully.
+
+Here’s a tip: Want to make sure your writing shines? Grammarly can check your spelling and save you from grammar and punctuation mistakes. It even proofreads your text, so your work is extra polished wherever you write.
+
+Your writing, at its best
+Grammarly helps you communicate confidently
+
+Coordinating conjunctions
+
+Coordinating conjunctions allow you to join words, phrases, and clauses of equal grammatical rank in a sentence. The most common coordinating conjunctions are for, and, nor, but, or, yet, and so; you can remember them by using the mnemonic device FANBOYS.
+
+I’d like pizza or a salad for lunch.
+
+We needed a place to concentrate, so we packed up our things and went to the library.
+
+Jesse didn’t have much money, but she got by.
+
+Notice the use of the comma when a coordinating conjunction is joining two independent clauses.
+Correlative conjunctions
+
+Correlative conjunctions are pairs of conjunctions that work together. Some examples are either/or, neither/nor, and not only/but also.
+
+Not only am I finished studying for English, but I’m also finished writing my history essay.
+
+I am finished with both my English essay and my history essay.
+
+Subordinating conjunctions
+
+Subordinating conjunctions join independent and dependent clauses. A subordinating conjunction can signal a cause-and-effect relationship, a contrast, or some other kind of relationship between the clauses. Common subordinating conjunctions are because, since, as, although, though, while, and whereas. Sometimes an adverb, such as until, after, or before can function as a conjunction.
+
+I can stay out until the clock strikes twelve.
+
+Here, the adverb until functions as a subordinating conjunction to connect two ideas: I can stay out (the independent clause) and the clock strikes twelve (the dependent clause). The independent clause could stand alone as a sentence; the dependent clause depends on the independent clause to make sense.
+
+The subordinating conjunction doesn’t need to go in the middle of the sentence. It has to be part of the dependent clause, but the dependent clause can come before the independent clause.
+
+Before he leaves, make sure his room is clean.
+
+If the dependent clause comes first, use a comma before the independent clause.
+
+I drank a glass of water because I was thirsty.
+
+Because I was thirsty, I drank a glass of water.
+
+Starting a sentence with a conjunction
+
+Many of us were taught in school that it is an error to begin a sentence with a conjunction, but that rule is a myth. As mentioned above, a subordinating conjunction can begin a sentence if the dependent clause comes before the independent clause. It’s also correct to begin a sentence with a coordinating conjunction. Often, it’s a good way to add emphasis. Beginning too many sentences with conjunctions will cause the device to lose its force, however, so use this technique sparingly.
+
+Have a safe trip. And don’t forget to call when you get home.
+
+Gertie flung open the door. But there was no one on the other side.
+
+List of conjunctions
+Coordinating conjunctions
+
+for, and, nor, but, or, yet, so
+Correlative conjunctions
+
+both/and, either/or, neither/nor, not only/but, whether/or
+Subordinating conjunctions
+
+after, although, as, as if, as long as, as much as, as soon as, as though, because, before, by the time, even if, even though, if, in order that, in case, in the event that, lest , now that, once, only, only if, provided that, since, so, supposing, that, than, though, till, unless, until, when, whenever, where, whereas, wherever, whether or not, while
+Your writing, at its best.
+Works on all your favorite websites
+iPhone and iPad KeyboardAndroid KeyboardChrome BrowserSafari BrowserFirefox BrowserEdge BrowserWindows OSMicrosoft Office
+Related Articles
+
+  
+# 8 Articles
+
+What are articles?
+
+Articles are words that define a noun as specific or unspecific. Consider the following examples:
+
+After the long day, the cup of tea tasted particularly good.
+
+By using the article the, we’ve shown that it was one specific day that was long and one specific cup of tea that tasted good.
+
+After a long day, a cup of tea tastes particularly good.
+
+By using the article a, we’ve created a general statement, implying that any cup of tea would taste good after any long day.
+
+Here’s a tip: Want to make sure your writing shines? Grammarly can check your spelling and save you from grammar and punctuation mistakes. It even proofreads your text, so your work is extra polished wherever you write.
+
+Your writing, at its best
+Grammarly helps you communicate confidently
+
+English has two types of articles: definite and indefinite. Let’s discuss them now in more detail.
+The definite article
+
+The definite article is the word the. It limits the meaning of a noun to one particular thing. For example, your friend might ask, “Are you going to the party this weekend?” The definite article tells you that your friend is referring to a specific party that both of you know about. The definite article can be used with singular, plural, or uncountable nouns. Below are some examples of the definite article the used in context:
+
+Please give me the hammer.
+
+Please give me the red hammer; the blue one is too small.
+
+Please give me the nail.
+
+Please give me the large nail; it’s the only one strong enough to hold this painting.
+
+Please give me the hammer and the nail.
+
+The indefinite article
+
+The indefinite article takes two forms. It’s the word a when it precedes a word that begins with a consonant. It’s the word an when it precedes a word that begins with a vowel. The indefinite article indicates that a noun refers to a general idea rather than a particular thing. For example, you might ask your friend, “Should I bring a gift to the party?” Your friend will understand that you are not asking about a specific type of gift or a specific item. “I am going to bring an apple pie,” your friend tells you. Again, the indefinite article indicates that she is not talking about a specific apple pie. Your friend probably doesn’t even have any pie yet. The indefinite article only appears with singular nouns. Consider the following examples of indefinite articles used in context:
+
+Please hand me a book; any book will do.
+
+Please hand me an autobiography; any autobiography will do.
+
+Exceptions: choosing a or an
+
+There are a few exceptions to the general rule of using a before words that start with consonants and an before words that begin with vowels. The first letter of the word honor, for example, is a consonant, but it’s unpronounced. In spite of its spelling, the word honor begins with a vowel sound. Therefore, we use an. Consider the example sentence below for an illustration of this concept.
+
+My mother is a honest woman.
+
+My mother is an honest woman.
+
+Similarly, when the first letter of a word is a vowel but is pronounced with a consonant sound, use a, as in the sample sentence below:
+
+She is an United States senator.
+
+She is a United States senator.
+
+This holds true with acronyms and initialisms, too: an LCD display, a UK-based company, an HR department, a URL.
+Article before an adjective
+
+Sometimes an article modifies a noun that is also modified by an adjective. The usual word order is article + adjective + noun. If the article is indefinite, choose a or an based on the word that immediately follows it. Consider the following examples for reference:
+
+Eliza will bring a small gift to Sophie’s party.
+
+I heard an interesting story yesterday.
+
+Indefinite articles with uncountable nouns
+
+Uncountable nouns are nouns that are either difficult or impossible to count. Uncountable nouns include intangible things (e.g., information, air), liquids (e.g., milk, wine), and things that are too large or numerous to count (e.g., equipment, sand, wood). Because these things can’t be counted, you should never use a or an with them—remember, the indefinite article is only for singular nouns. Uncountable nouns can be modified by words like some, however. Consider the examples below for reference:
+
+Please give me a water.
+
+Water is an uncountable noun and should not be used with the indefinite article.
+
+Please give me some water.
+
+However, if you describe the water in terms of countable units (like bottles), you can use the indefinite article.
+
+Please give me a bottle of water.
+
+Please give me an ice.
+
+Please give me an ice cube.
+
+Please give me some ice .
+
+Note that depending on the context, some nouns can be countable or uncountable (e.g., hair, noise, time):
+
+We need a light in this room.
+
+We need some light in this room.
+
+Using articles with pronouns
+
+Possessive pronouns can help identify whether you’re talking about specific or nonspecific items. As we’ve seen, articles also indicate specificity. But if you use both a possessive pronoun and an article at the same time, readers will become confused. Possessive pronouns are words like his, my, our, its, her, and their. Articles should not be used with pronouns. Consider the examples below.
+
+Why are you reading the my book?
+
+The and my should not be used together since they are both meant to modify the same noun. Instead, you should use one or the other, depending on the intended meaning:
+
+Why are you reading the book?
+
+Why are you reading my book?
+
+Omission of articles
+
+Occasionally, articles are omitted altogether before certain nouns. In these cases, the article is implied but not actually present. This implied article is sometimes called a “zero article.” Often, the article is omitted before nouns that refer to abstract ideas. Look at the following examples:
+
+Let’s go out for a dinner tonight.
+
+Let’s go out for dinner tonight.
+
+The creativity is a valuable quality in children.
+
+Creativity is a valuable quality in children.
+
+Many languages and nationalities are not preceded by an article. Consider the example below:
+
+I studied the French in high school for four years.
+
+I studied French in high school for four years.
+
+Sports and academic subjects do not require articles. See the sentences below for reference:
+
+I like to play the baseball.
+
+I like to play baseball .
+
+My sister was always good at the math .
+
+My sister was always good at math .
+
+Article FAQs
+
+What is an article?
+
+An article is a word that comes before a noun to show if it’s specific or general. Specific nouns use the article the and general nouns use the article a (or an if the next word starts with a vowel sound). 
+
+What is an example of an article in grammar?
+
+“The hammer” refers to only one hammer, but “a hammer” refers to any hammer. 
+
+When should we not use articles?
+
+You don’t use articles with uncountable nouns or possessive pronouns. Certain nouns such as nationalities, school subjects, and sports don’t need articles, especially if they refer to abstract ideas. 
+
+What are definite and indefinite articles?
+
+Definite and indefinite articles refer to whether they describe something specific or general. “The” is the definite article and “a” and “an” are indefinite articles. 
+Your writing, at its best.
+Works on all your favorite websites
+iPhone and iPad KeyboardAndroid KeyboardChrome BrowserSafari BrowserFirefox BrowserEdge BrowserWindows OSMicrosoft Office
+Related Articles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
