@@ -6,9 +6,9 @@
 [English](all-english-links.md)
 
 
-<img src="https://wse-strapi-image-hosting-wse-dev.s3.eu-west-1.amazonaws.com/direct_indirect_speech_exercise_1_efc1ff2185.jpeg" width="400">
+<img src="https://wse-strapi-image-hosting-wse-dev.s3.eu-west-1.amazonaws.com/direct_indirect_speech_exercise_1_efc1ff2185.jpeg" width="500" height="400">
 
-<img src="https://wse-strapi-image-hosting-wse-dev.s3.eu-west-1.amazonaws.com/direct_indirect_speech_exercise_2_8cdd7c53b2.jpeg" width="400">
+<img src="https://wse-strapi-image-hosting-wse-dev.s3.eu-west-1.amazonaws.com/direct_indirect_speech_exercise_2_8cdd7c53b2.jpeg" width="500" height="400">
 
 
 
