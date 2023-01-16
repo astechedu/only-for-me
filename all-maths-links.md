@@ -1,4 +1,4 @@
-All Maths Links
+# All Maths Links
 
 [Home](all-files-links.md)
 
