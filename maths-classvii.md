@@ -6,11 +6,17 @@ Topics:
    [Unitary Method Class vii ](#unitary-method)
 
  [Integers Class vii ](#unitary-method)
+ 
  [Rational Numbers Class vii ](#unitary-method)
+ 
  [Fraction (Including Problems) Class vii](#unitary-method)
+ 
  [Fraction (Including Problems) ClassFraction (Including Problems) vii](#unitary-method)
+ 
  [Exponents (Including Laws of Exponents) Class vii ](#unitary-method)
+ 
  [6 Ratio and Proportion (Including Sharing in a Ratio) Class vii](#unitary-method)
+ 
  [Unitary Method Class vii ](#unitary-method)
  [Unitary Method Class vii ](#unitary-method)
  [Unitary Method Class vii ](#unitary-method)
