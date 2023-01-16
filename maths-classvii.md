@@ -6,6 +6,33 @@ Topics:
    [Unitary Method Class vii ](#unitary-method)
 
 
+Selina Solutions Concise Maths for Class 7 (Chapter-wise)
+Chapter-wise Solutions for Selina Solutions Class 7
+Selina Solutions Concise Maths for Class 7 Chapter 1 Integers
+Selina Solutions Concise Maths for Class 7 Chapter 2 Rational Numbers
+Selina Solutions Concise Maths for Class 7 Chapter 3 Fraction (Including Problems)
+Selina Solutions Concise Maths for Class 7 Chapter 4 Decimal Fractions (Decimals)
+Selina Solutions Concise Maths for Class 7 Chapter 5 Exponents (Including Laws of Exponents)
+Selina Solutions Concise Maths for Class 7 Chapter 6 Ratio and Proportion (Including Sharing in a Ratio)
+Selina Solutions Concise Maths for Class 7 Chapter 7 Unitary Method (Including Time and Work)
+Selina Solutions Concise Maths for Class 7 Chapter 8 Percent and Percentage
+Selina Solutions Concise Maths for Class 7 Chapter 9 Profit, Loss and Discount
+Selina Solutions Concise Maths for Class 7 Chapter 10 Simple Interest
+Selina Solutions Concise Maths for Class 7 Chapter 11 Fundamental Concepts (Including Fundamental Operations)
+Selina Solutions Concise Maths for Class 7 Chapter 12 Simple Linear Equations (Including Word Problems)
+Selina Solutions Concise Maths for Class 7 Chapter 13 Set Concepts
+Selina Solutions Concise Maths for Class 7 Chapter 14 Lines and Angles (Including Construction of Angles)
+Selina Solutions Concise Maths for Class 7 Chapter 15 Triangles
+Selina Solutions Concise Maths for Class 7 Chapter 16 Pythagoras Theorem
+Selina Solutions Concise Maths for Class 7 Chapter 17 Symmetry (Including Reflection and Rotation)
+Selina Solutions Concise Maths for Class 7 Chapter 18 Recognition of Solids (Representing 3-D and 2-D)
+Selina Solutions Concise Maths for Class 7 Chapter 19 Congruency: Congruent Triangles
+Selina Solutions Concise Maths for Class 7 Chapter 20 Mensuration (Perimeter and Area of Plane Figures)
+Selina Solutions Concise Maths for Class 7 Chapter 21 Data Handling
+Selina Solutions Concise Maths for Class 7 Chapter 22 Probability
+
+
+
 
 
 
