@@ -24,3 +24,220 @@
 
 
 
+
+
+        Common English words used in Daily Life with Hindi meaning इंग्लिश के अल्फ़ाबेट के अनुसार लाइन से दिए गए हैं :
+        Appendix 	Added in the end (परिशिष्ट)
+        Appetite 	Hunger (भूख)
+        Applaud 	To praise (प्रशंसा करना)
+        Apple of the eye 	The pupil (आँख का तारा)
+        Appliance 	Tools (साधन)
+        Applicable 	Fit to be used (काम में लाने योग्य)
+        Application 	Formal request (अर्जी)
+        Appoint 	To engage (काम में लगाना)
+        Appreciate 	To esteem highly (मान देना)
+        Apprehend 	To understand (समझना)
+        Approach 	Reach ( पहुँच)
+        Appropriate 	Fit (उचित)
+        Approval 	Sanction ( मंजूरी)
+        Approximate 	Nearest (लगभग)
+        Apt 	Fit (योग्य) 
+        Aqua 	Water (जल)
+        Architect 	Housemaker (घर बनाने वाला)
+        Ardent 	Keen (उत्सुक) 
+        Bold 	Daring (साहसी)
+        Bomb 	To drop explosive bomba (बम गिराना)
+        Bombastic 	Pompous (दिखावा)
+        Bonafide 	True (सत्य) 
+        Bond 	Agreement (बंधन)
+        Bondage 	Slavery (गुलामी)
+        Bone 	A piece of skeleton (हड्डी)
+        Bony 	Lean and thin (दुबला पतला)
+        Bonus 	Share in profits (लाभ में हिस्सा)
+        Bookish 	Fond of books (किताबों का शौकीन)
+        Book-maker 	Writer of books (लेखक)
+        Boom 	To roar (गरजना )
+        Boon 	Blessing ( वरदान)
+        Booth 	Hut (झोपड़ी)
+        Border 	Side, Limit (किनारा, सीमा)
+        Bore 	To tire (थकना)
+        Borrow 	To take on loan (उधार लेना)
+        Bosom-friend 	Close friend (खास दोस्त)
+        Cab 	Taxi (किराये की गाड़ी)
+        Cabin 	Small room (छोटा कमरा)
+        Cabinet 	Private room (गुप्त कमरा ) 
+        Cable 	Strong chain (मजबूत तार)
+        Cadet 	Military student (सेना का छात्र)
+        Cadre 	Centre (केन्द्र) 
+        Cage 	Wire-box (पिंजरा)
+        Cajole 	To cheat by flattery (चापलूसी से ठगना)
+        Calculate 	 To reckon (गणना करना )
+        Calf 	Young one of cow (बछड़ा)
+        Calibre 	Ability (योग्यता)
+        Call 	To summon (बुलाना) 
+        Calm 	Quietness (शांति)
+        Camp 	Tent (तंबू)
+        Campaign 	Organised warfare (नियमित युद्ध)
+        Campus 	School or college ground      (विद्यालय क्षेत्र) 
+        Canal 	Man-made water course (नहर)
+        Cancel 	To abolish (खत्म करना )
+        Dacoit 	A member of a robber band (डाकू)
+        Daft 	Foolish (मूर्ख)
+        Daggle 	To run through mud and water (कीचड़-पानी में दौड़ना)
+        Dairy 	A building for keeping milk and cream (दुग्धशाला)
+        Dally 	To delay (देर करना)
+        Dam 	Mother of animals (पशुओं की मां)
+        Damage 	Harm (हानि)
+        Dame 	A lady (स्त्री)
+        Damp 	Chill (ठंडक)
+        Dandle 	To pet (लाड करना)
+        Dandruff 	Scurf on the head (रूसी)
+        Danger 	Liability to harm ( भय)
+        Dazzle 	To surprise (चकित करना)
+        Dealer 	A trader (व्यापारी)
+        Dear 	Beloved (प्रिय)
+        Dearth 	Scarcity of food (कमी)
+        Each 	Every one (हर एक)
+        Eager 	Keen (उत्सुक)
+        Earmark 	To assign money for a definite work (पैसा सुरक्षित रखना)
+        Earn 	To gain by labour (कमाना)
+        Earnest 	Sincere (सच्चा)
+        Earth 	Soil (मिट्टी)
+        Earthquake 	Earth’s shaking (भूकंप)
+        Ease 	Comfort ( आराम)
+        Eat 	To take food (खाना)
+        Ebony 	Very black (बहुत काला)
+        Echo 	Sound reflection (गूंज)
+        Eclat 	Splendor ( शान)
+        Economical 	Frugal (कम खर्च )
+        Ecstasy 	Rapture ( परम आनंद)
+        Edge 	Border ( किनारा)
+        Edible 	To prepare for eatable (खाने योग्य) 
+        Edit 	Publication (संपादन करना)
+        Fabric 	A structure (रचना)
+        Fabricate 	To make ( बनाना)
+        Fabulous 	Amazing (आश्चर्यजनक)
+        Face 	To oppose with courage (साहस से सामना करना)
+        Facility 	Ease (सरलता)
+        Fact 	Anything actually true (सच्चाई)
+        Factory 	A building in which goods are manufactured (कारखाना)
+        Faculty 	Ability (योग्यता)
+        Fade 	To lose freshness ( धीरे-धीरे मुरझाना )
+        Fag 	To work hard (कठिन परिश्रम करना )
+        Fail 	Hindrance (रुकावट)
+        Failure 	Lack of success (असफलता)
+        Faint 	Lacking strength (दुर्बल)
+        Fainting 	Loss of consciousness (बेहोशी)
+        Fair 	Clear (स्पष्ट) 
+        Faith 	Belief(विश्वास) 
+        Gain 	Profit (लाभ)
+        Gamble 	To pay for money (जुआ खेलना)
+        Game 	Any sport (खेल)
+        Gaming 	Gambling (जुआ)
+        Gap 	Defect (त्रुटि) 
+        Garb 	Clothing (कपड़े)
+        Garden 	A piece of land used for the cultivation of flowers (बाग-बगीचा)
+        Garnish 	To decorate (सजाना)
+        Garment 	Any article of dress (वस्त्र)
+        Garish 	Bright (चमकीला)
+        Gate 	An opening in wall closable with barrier (दरवाजा)
+        Gather 	To bring together ( इकट्ठा करना)
+        Generally 	Usually (प्रायः) 
+        Gem 	Precious stone (मणि)
+        Generate 	To produce (उत्पन्न करना)
+        Habit 	Custom (रिवाज)
+        Habitude 	A habit (आदत)
+        Hail 	Frozen drops of rain (ओला)
+        Hale 	Healthy (स्वस्थ)
+        Halt 	To hesitate (हिचकिचाना)
+        Hand 	The extremity of the arm beyond the wrist (हाथ)
+        Handicraft 	Manual art (हस्तशिल्प)
+        Handkerchief 	A cloth for wiping the nose (रूमाल )
+        Handmade 	Made by hand (हाथ से बनाया हुआ)
+        Handsome 	Good looking (सुंदर)
+        Hang 	To suspend (लटकाना)
+        Happen 	To occur ( घटित होना)
+        Happy 	Fortunate (नाग्यवान)
+        Harass 	To trouble (परेशान करना)
+        Hard 	Difficult to endure (कटोर)
+        Hardly 	Scarcely ( कठिनता से)
+        Hardship 	ill-luck (दुर्भाग्य)
+        Hardwoking 	Industrious (परिश्रमी)
+        Identical 	Similar (समान) 
+        Ideology 	Ideas or beliefs (सिद्धान्त) 
+        Idiosyncrasy 	A particular and different way of thinking or behaviour (काम करने का अपना विशेष सिद्धान्त) 
+        Idle 	Useless (बेकार) 
+        Illuminate 	To fill with light (प्रकाशित करना) 
+        Illuminating 	Revealing or making something clear (स्पष्ट करने वाला) 
+        Imaginative 	Fanciful (काल्पनिक) 
+        Imbibe 	To adopt (knowledge quality) (ग्रहण करना) 
+        Immaterial 	Unimportant (महत्वहीन) 
+        Imminent 	Likely to occur very soon (जिसके तुरंत होने की सम्भावना हो) 
+        Immunity 	Protection against disease or punishment (रोग प्रतिरोधक) 
+        Impact 	To affect (प्रभाव) 
+        Impair 	To damage or weaken (growth vision) (नष्ट करना) 
+        Impart 	To provide (knowledge quality) (प्रदान करना) 
+        Impeach 	To bring charge against someone (आरोप लगाना) 
+        Impeachment 	Accusation of a serious crime (महाभियोग) 
+        Impede 	To obstruct (बाधित करना) 
+        Impediment 	Hindrance (in progress)
+        Impel 	To force someone do something (दबाव डालना, मजबूर करना) 
+        Imperative 	Necessary, Urgent (आवश्यक) 
+        Imperative need 	Urgent need (आवश्यक आवश्यकता) 
+        Imperishable 	Lasting for a long time (टिकाऊ, लंबे समय तक) 
+        Impetus 	Encouragement (प्रोत्साहन) 
+        Implacable 	(enemy opponent) that is difficult to pacify or satisfy जिसे शांत करना संमय नहीं है
+        Implicate 	To bring charge against someone (आरोप लगाना) 
+        Implication 	Indirect meaning or result (अप्रत्यक्ष अर्थ या आशय) 
+        Implicit 	Indirect and not clear (अस्पष्ट) 
+        Implicit faith 	Absolute or strong faith in something (दृढ विश्वास) 
+        Implore 	To request earne ‘tly (अनुरोध करना) 
+        Imply 	To suggest or mean something indirectly (किसी बात का परोक्ष रूप से संकेत करना) 
+        Imposing 	Impressive to look at (प्रभावशाली) 
+        Improvise 	To make changes in original to suit the condition (बदलाव करना) 
+        Impulse 	Sudden desire (बिना आधार के अचानकउत्पन्न इच्छा) 
+        Jeopardy 	Danger (खतरा) 
+        Jettison 	To reject or abandon something unwanted (principle responsibility) (त्याग देना) 
+        Join hand with 	To work together in a work (साथ देना) 
+        Judicious 	Sensible (decision, selection) (समझदारी भरा) 
+        Kick 	Strength and encouragement (प्रसन्नता या रोमांच) 
+        Kindle 	To make a feeling grow in someone (कोई इच्छा या भावना उत्पन्न करना) 
+        Kingpin 	Important (role, person) (महत्वपूर्ण) 
+        Kiosk 	Small shop (छोटी दुकान) 
+        Lethargic 	Dull, lazy 	आलसी, सुस्त
+        Lament  	To be sorry 	अफसोस करना
+        Lenient 	Not strict 	उदार
+        Liable 	Likely to cause something 	कुछ करने की संभावना से
+        Livid 	Extremely angry 	गुस्से से पागल
+        Lofty 	High, Proud 	ऊंचा
+        Loyalty 	Faithfulness 	ईमानदारी
+        Lurk 	To lie hidden 	घात लगाकर बैठना
+        Lukewarm 	Not interested or enthusiastic 	उत्साहविहीन
+        Luminous 	Shining brightly 	चमकीला
+
+
+
+Common English words used in Daily Life with Hindi meaning की लिस्ट नीचे दी गई है :
+
+        इंग्लिश वर्ड 	हिंदी मीनिंग
+        Move 	चाल
+        Old 	पुराना
+        Same 	वही
+        Your 	तुम्हारी
+        About 	के बारे में 
+        Many 	अनेक
+        Then 	फिर
+        Them 	उन्हें
+        Write 	लिखना
+        Would 	चाहेंगे
+        Like 	पसंद
+        So 	इसलिए
+        These 	इन
+        Her 	उसके
+        Him 	उसके
+        Long 	लंबा
+        Make 	बनाना
+        Thing 	चीज़
+        See 	देखना
+        Girl 	लड़की 
+
