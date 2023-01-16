@@ -99,12 +99,15 @@ Direct to Indirect speech Example:
 As, in the above sentence reporting verb is in the past tense so we have converted reported speech into past tense in indirect speech i.e, will-would.
 
 Read the following table to learn the conversion of tenses
+
 Direct Speech 	Indirect Speech
-Simple Present 	Simple Past
-Present Continuous 	Past Continuous
-Present Perfect 	Past Perfect
+
+Simple Present 	            Simple Past
+Present Continuous 	        Past Continuous
+Present Perfect 	        Past Perfect
 Present Perfect Continuous 	Past Perfect Continuous
-Simple Past 	Past Perfect
+
+Simple Past 	    Past Perfect
 Past Continuous 	Past Perfect Continuous
 Will 	Would
 May 	Might
