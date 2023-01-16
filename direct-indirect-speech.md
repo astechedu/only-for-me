@@ -100,19 +100,21 @@ As, in the above sentence reporting verb is in the past tense so we have convert
 
 Read the following table to learn the conversion of tenses
 
-Direct Speech 	Indirect Speech
 
-Simple Present 	            Simple Past
-Present Continuous 	        Past Continuous
-Present Perfect 	        Past Perfect
-Present Perfect Continuous 	Past Perfect Continuous
+    Direct Speech 	Indirect Speech
 
-Simple Past 	    Past Perfect
-Past Continuous 	Past Perfect Continuous
-Will 	Would
-May 	Might
-Can 	Could
-Shall 	Should
+    Simple Present 	            Simple Past
+    Present Continuous 	        Past Continuous
+    Present Perfect 	        Past Perfect
+    Present Perfect Continuous 	Past Perfect Continuous
+
+    Simple Past 	    Past Perfect
+    Past Continuous 	Past Perfect Continuous
+    Will 	            Would
+    May 	            Might
+    Can 	            Could
+    Shall 	            Should
+    
 
 Direct and Indirect Speech Rule 3. Change in Pronoun: The pronoun or subject of the reported speech is changed according to the subject or the pronoun of the reporting verb (first part) of the sentence. The possessive pronouns (his, hers, mine) are also changed sometimes according to the personal or object pronoun.
 
@@ -124,15 +126,18 @@ Direct to Indirect speech Example
 In the above example ‘I’ is changed into ‘he’ according to the reporting verb (first part) and the tense is also changed because reporting verb (first part) is in the past tense.
 
 Direct and Indirect Speech Rule 4. Change in Time: If the word related to time is given in the sentence then it will be changed in indirect speech. Some rules must be followed while doing this and those are given in the following table.
-Direct Speech 	Indirect Speech
-Today 	That day
-Tomorrow 	Next day or the following day
-Yesterday 	Previous day
-Now 	Then
-Tonight 	That night
-Yesterday night 	Previous night
-Tomorrow night 	Following night
-Here 	There
+
+
+    Direct Speech 	    Indirect Speech
+    Today 	            That day
+    Tomorrow 	        Next day or the following day
+    Yesterday 	        Previous day
+    Now 	            Then
+    Tonight 	        That night
+    Yesterday night 	Previous night
+    Tomorrow night 	    Following night
+    Here 	            There
+    
 
 Direct and Indirect Speech Rule 5. Interrogative sentences: No conjunction is used, if a sentence in direct speech starts with a question word (what/where/when)
 as the “question-word” itself acts as conjunction.
