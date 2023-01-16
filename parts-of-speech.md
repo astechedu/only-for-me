@@ -6,6 +6,9 @@
 [English Page](all-english-links.md)
 
 
+
+
+
 # Parts Of Speech
 
 
@@ -45,7 +48,7 @@
 
 
 
-
+# The 8 Parts of Speech
 
 Every word is a part of speech. The term “part of speech” refers to the role a word plays in a sentence. And like any workplace or TV show with an ensemble cast, these roles were designed to work together. 
 
