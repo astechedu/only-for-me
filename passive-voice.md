@@ -1,7 +1,6 @@
 # Passive Voice
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNoOLTKXCIqMianKF0vDtQ2bs1guelHdfq-A&usqp=CAU
-" width="">
+<img src="https://sedinfo.net/wp-content/uploads/2017/12/active-passive-tenses.jpg" width="">
 
 <img src="https://www.rbseguide.com/wp-content/uploads/2019/04/RBSE-Class-7-English-Grammar-Passive-Voice-1.png" width="400">
 
