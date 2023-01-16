@@ -6,7 +6,7 @@
 [English Page](all-english-links.md)
 
 
-
+<img src="https://compenglish.com/wp-content/uploads/2021/10/parts-of-speech.webp">
 
 
 
