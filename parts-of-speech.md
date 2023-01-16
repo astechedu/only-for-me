@@ -140,7 +140,7 @@ See how the implication is gone and you’re asking a much more general question
 
 
 
-# MOre
+# More
 
 
 # 1 Noun
@@ -357,6 +357,7 @@ Pronouns are the words you substitute for other nouns when your reader or listen
 
 
 Pronouns do a whole lot more than turn phrases into sentences. They provide context, make your sentences’ meanings clearer, and shape how we perceive people and things. Read on to learn about the different ways we use pronouns and how to use them to construct sentences. 
+
 Table of contents
 
     What is a pronoun?
@@ -1450,7 +1451,7 @@ iPhone and iPad KeyboardAndroid KeyboardChrome BrowserSafari BrowserFirefox Brow
 Related Articles
 
 
-# Conjunctions
+# 7 Conjunctions
 
 
 Without conjunctions, you’d be forced to express every complex idea in a series of short, simplistic sentences: I like cooking. I like eating. I don’t like washing dishes afterward.
