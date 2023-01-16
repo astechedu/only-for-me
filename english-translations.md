@@ -2159,3 +2159,381 @@ Exercise 69
     We should not be rude to our teachers.
     He fell from the bicycle.
     Prashant goes on foot from home to station.
+
+
+
+
+
+
+
+# More 
+
+
+Skip to content
+
+    UP Board Solutions Class 9
+        UP Board Solutions for Class 9 Maths
+        UP Board Solutions for Class 9 Science
+        UP Board Solutions for Class 9 Social Science
+        UP Board Solutions for Class 9 English
+        UP Board Solutions for Class 9 Hindi
+        UP Board Solutions for Class 9 Sanskrit
+        UP Board Solutions for Class 9 Home Science
+    UP Board Solutions Class 8
+        UP Board Solutions for Class 8 Maths
+        UP Board Solutions for Class 8 Science
+        UP Board Solutions for Class 8 English Rainbow
+        UP Board Solutions for Class 8 Hindi Manjari
+        UP Board Solutions for Class 8 Sanskrit Piyusham
+        UP Board Solutions for Class 8 History and Civics
+        UP Board Solutions for Class 8 Geography
+        UP Board Solutions for Class 8 Environment
+        UP Board Solutions for Class 8 Agricultural Science
+        UP Board Solutions for Class 8 Sports and Fitness
+        UP Board Solutions for Class 8 Home Craft
+        UP Board Solutions for Class 8 Computer Education
+    UP Board Solutions Class 7
+        UP Board Solutions for Class 7 Maths
+        UP Board Solutions for Class 7 Science
+        UP Board Solutions for Class 7 English Rainbow
+        UP Board Solutions for Class 7 Hindi Manjari
+        UP Board Solutions for Class 7 Sanskrit Piyusham
+        UP Board Solutions for Class 7 History and Civics
+        UP Board Solutions for Class 7 Geography
+        UP Board Solutions for Class 7 Environment
+        UP Board Solutions for Class 7 Agricultural Science
+        UP Board Solutions for Class 7 Sports and Fitness
+        UP Board Solutions for Class 7 Home Craft
+        UP Board Solutions for Class 7 Computer Education
+    UP Board Solutions Class 6
+        UP Board Solutions for Class 6 Maths
+        UP Board Solutions for Class 6 Science
+        UP Board Solutions for Class 6 English Rainbow
+        UP Board Solutions for Class 6 Hindi Manjari
+        UP Board Solutions for Class 6 Sanskrit Piyusham
+        UP Board Solutions for Class 6 History and Civics
+        UP Board Solutions for Class 6 Geography
+        UP Board Solutions for Class 6 Environment
+        UP Board Solutions for Class 6 Agricultural Science
+        UP Board Solutions for Class 6 Sports and Fitness
+        UP Board Solutions for Class 6 Home Craft
+        UP Board Solutions for Class 6 Computer Education
+    UP Board Solutions Class 5
+        UP Board Solutions for Class 5 Maths Gintara
+        UP Board Solutions for Class 5 Science Parakh
+        UP Board Solutions for Class 5 EVS Hamara Parivesh
+        UP Board Solutions for Class 5 English Rainbow
+        UP Board Solutions for Class 5 Hindi Kalrav
+        UP Board Solutions for Class 5 Sanskrit Piyusham
+        UP Board Class 5 Computer Education
+        UP Board Class 5 नैतिक शिक्षा एवं स्वास्थ्य शिक्षा
+    UP Board Solutions Class 4
+        UP Board Solutions for Class 4 Maths Gintara
+        UP Board Solutions for Class 4 Science Parakh
+        UP Board Solutions for Class 4 EVS Hamara Parivesh
+        UP Board Solutions for Class 4 English Rainbow
+        UP Board Solutions for Class 4 Hindi Kalrav
+        UP Board Solutions for Class 4 Sanskrit Piyusham
+        UP Board Class 4 नैतिक शिक्षा एवं स्वास्थ्य शिक्षा
+    UP Board Solutions Class 3
+        UP Board Solutions for Class 3 Maths Gintara
+        UP Board Solutions for Class 3 EVS Hamara Parivesh
+        UP Board Solutions for Class 3 English Rainbow
+        UP Board Solutions for Class 3 Hindi Kalrav
+        UP Board Solutions for Class 3 Sanskrit Piyusham
+        UP Board Class 3 नैतिक शिक्षा एवं स्वास्थ्य शिक्षा
+    UP Board Solutions Class 2
+        UP Board Solutions for Class 2 Maths Gintara
+        UP Board Solutions for Class 2 English
+        UP Board Solutions for Class 2 Hindi Kalrav
+        UP Board Class 2 नैतिक शिक्षा एवं स्वास्थ्य शिक्षा
+    UP Scholarship 2019-20
+
+UP Board Solutions
+
+UP Board TextBook Solutions for Class 12th, 11th, 10th, 9th, 8th, 7th, and 6th
+
+    Model Papers 2020
+        UP Board Model Papers 2020 Class 12
+        UP Board Model Papers 2020 Class 10
+    UP Board Books
+        UP Board Syllabus 2019
+        UP Board Time Table 2019 for Class 10
+        UP Board Time Table 2019 for Class 12
+    UP Board Solutions Class 12
+        UP Board Solutions for Class 12 Maths
+        UP Board Solutions for Class 12 Physics
+        UP Board Solutions for Class 12 Chemistry
+        UP Board Solutions for Class 12 Biology
+        UP Board Solutions for Class 12 English
+        UP Board Solutions for Class 12 Sahityik Hindi
+        UP Board Solutions for Class 12 Samanya Hindi
+        UP Board Solutions for Class 12 Sanskrit
+        UP Board Solutions for Class 12 Geography
+        UP Board Solutions for Class 12 History
+        UP Board Solutions for Class 12 Civics
+        UP Board Solutions for Class 12 Economics
+        UP Board Solutions for Class 12 Sociology
+        UP Board Solutions for Class 12 Psychology
+        UP Board Solutions for Class 12 Computer
+        UP Board Solutions for Class 12 Home Science
+        UP Board Solutions for Class 12 Pedagogy
+    UP Board Solutions Class 11
+        UP Board Solutions for Class 11 Physics
+        UP Board Solutions for Class 11 Maths
+        UP Board Solutions for Class 11 Chemistry
+        UP Board Solutions for Class 11 Biology
+        UP Board Solutions for Class 11 English
+        UP Board Solutions for Class 11 Sahityik Hindi
+        UP Board Solutions for Class 11 Samanya Hindi
+        UP Board Solutions for Class 11 Geography
+        UP Board Solutions for Class 11 History
+        UP Board Solutions for Class 11 Civics
+        UP Board Solutions for Class 11 Economics
+        UP Board Solutions for Class 11 Sociology
+        UP Board Solutions for Class 11 Psychology
+        UP Board Solutions for Class 11 Pedagogy
+    UP Board Solutions Class 10
+        UP Board Solutions for Class 10 Maths
+        UP Board Solutions for Class 10 Science
+        UP Board Solutions for Class 10 Social Science
+        UP Board Solutions for Class 10 English
+        UP Board Solutions for Class 10 Hindi
+        UP Board Solutions for Class 10 Sanskrit
+        UP Board Solutions for Class 10 Commerce
+        UP Board Solutions for Class 10 Home Science
+
+UP Board Solutions for Class 12 English Translation Chapter 7 Hindi to English Translation
+December 6, 2018 by Safia
+
+UP Board Solutions for Class 12 English Translation Chapter 7 Hindi to English Translation are part of UP Board Solutions for Class 12 English. Here we have given UP Board Solutions for Class 12 English Translation Chapter 7 Hindi to English Translation.
+Board 	UP Board
+Textbook 	NCERT
+Class 	Class 12
+Subject 	English Translation
+Chapter Name 	Hindi to English Translation
+Category 	UP Board Solutions
+UP Board Solutions for Class 12 English Translation Chapter 7 Hindi to English Translation
+
+Exercise 1.
+
+When Damyanti became of marriageable age, her father thought of her marriage. The king arranged a swayamvar. Kings and emperors from every corner of the country were invited. On the day of swayamvar, the area near by the palace, began to fill with royal chariots and began to echo with the trumpeting of elephants and neighing of horses. All the kings and princes began to come in swayamvar and began to occupy their seats. In the meanwhile Damyanti too came there. She had a garland of fresh roses. She moved in front of each and every king and prince. She was searching for Nala who was in disguise. She recognised Nala and garlanded him. She elected him her husband.
+
+Exercise 2
+
+Dr. Rajendra Prasad was born in an ordinary family. He got his primary education at home. One Maulvi taught him Urdu. After this he joined a school at Chhapra. There he had to work hard. He passed his matriculation examination with first division. After this he took admission in Presidency College. There too he got first division. He passed his M.A. examination and L.L.B. examination from Calcutta University. Rajendra Babu was the true follower of Mahatma Gandhi. He became the first President of India. Simple living and high thinking was the ideal of his life.
+
+Exercise 3
+
+As soon as July starts, wind begins to flow from east and the rainy season starts. When there are clouds in the sky, the weather looks very pleasant. When it rains, there is greenery everywhere. The frogs croak and songs of birds, full of joy begin to echo in the environment. In the night fireflies shine and entice the children. The thundering of clouds and flash of lightening move the hearts even of brave people. In October the sky becomes clear. In this season the moonlight has its own beauty.
+
+Exercise 4
+
+In the world there is hardly anyone who has not faced hardships in his life. The people who having faced the hurdles of life and overcome them, make progress and are safer than the people who have never faced them. Sometimes we are hopeless in face of failures. Everybody faces such situations in life. The man who faces the difficulties firmly succeeds in the end. Someone has truly said, “Life is a struggle.” In life sometimes we get joys of victory and sometimes sorrows of defeat. It depends on us how we face the defeat because it is certain that after defeat, victory may not achieved without struggle. The man who continuously struggles succeeds in his life.
+
+Exercise 5
+
+It was the month of July. It was very hot and suffocation. I started for school. All of a sudden the sky was covered with clouds. A cold wind began to flow. The sun hid behind thick clouds. The clouds thundered and the lightening began to flash. It started raining heavily. There was only water on the roads. Little children were enjoying the rain. After one hour it stopped raining. I was completely drenched. When I reached school, I came to know that the principal had declared it a rainy day.
+
+Exercise 6
+
+Once a rich merchant was found guilty of selling adultrated ghee. The local judge punished him and ordered him to drink a big pot of adultered ghee. But when the merchant filed an appeal before the governor, he decided that either the merchant should drink a pot full of adulterated ghee or he should accept to be lashed a hundred times. At this the merchant appealed before the king. The king showed mercy and said, “You can escape both the punishments by paying a fine of 1000/-.” The king believed that being very rich, the merchant would prefer to pay the fine happily. But that merchant preferred to drink ghee. He tried his best but he could drink half of the ghee. Then he asked to be lashed. But after having been lashed fifty times, he could not bear it anymore. In the end he paid the full fine.
+
+Exercise 7
+
+The sky was full of dark clouds. It was beginning to get dark. It was also raining cats and dogs. Tanmay had to go somewhere for some important work. But he had not shoes even on his feet. There was only mud on all sides. His clothes also had become wet. After some time it stopped raining and sun came out. Yet he was still irritated with mud and was depressed. He started towards the temple to complain to God. He was climbing the stairs murmuring, “God, you gave me neither shoes nor good clothes.” He had hardly climbed a few stairs when he saw a young man sitting on the stairs with no feet. He returned and realised his mistake. In his heart he began to thank God and began to think that he had given him much and he was indebted to him.
+
+Exercise 8
+
+There was a time when India was really the moral teacher of the world. Indian life, culture and moral values of knowledge were considered the medium of providing happiness and peace. At that time the man used to run after values and character while the man of today is running after money leaving every thing aside. The matter of values and moral reform has become dream. The situation is that the attraction of money has thrown the government officials even on the highest ranks into deep trench of fall where there is no hope of coming out. Only God knows where this storm of downfall will carry the country. But if we pay little attention towards the importance our moral, cultural and spiritual heritage and take an oath to mould our life according to those values, we can still achieve ancient glory.
+
+Exercise 9
+
+Once an Englishman and a Pathan were travelling in the same railway compartment. The Englishman did not like the company of the Pathan but he was helpless. When the train started, the Pathan went to urinate. In the meantime the Englishman threw his bedding out of the running train. When the Pathan came back, not finding his bedding, he enquired of the Englishman about it. He answered, “your bedding has gone out of the train for a walk. It will just come back.” The Pathan sat on his seat
+
+silently. In the meantime the Englishman went off to sleep. Now the Pathan threw out his suitcase and handbag. After sometime when the Englishman awoke, he asked the Pathan, “Where are my suitcase and handbag ?” The Pathan answered, “They both have gone to bring back my bedding.”
+
+Exercise 10
+
+It was a pleasant morning and cold wind was blowing. Akbar started with Birbal and prince Salim for a walk. After sometime they reached a pond. The water of the pond was clean. So Akbar decided to bathe in it. Prince Salim also became ready. Taking off his clothes, he gave them to Birbal who did not want to bathe that time. While bathing, Akbar told Birbal, “you have a load equal to a donkey.” Birbal answered at once, “No, my lord, not of one but of two donkeys.” Akbar laughed at the words of Birbal but prince Salim became angry.
+
+Exercise 11
+
+Gandhiji had no interest in exercise in his student life. As soon as the school used to over, he used to go home and serve his father. On Saturday it was morning school.
+
+Is to go to school for exercise at 4 P.M. He had no watch. Due to clouds, he could not know the exact time. So Gandhiji reached the school when other students had gone to their homes. Next day when the principal examined the register, he found Gandhiji absent when he was asked its reason he told what had happened. But the principal did not believe him and he fined Gandhiji.
+
+Exercise 12
+
+Once a painter was decorating a palace. When he was painting the walls, he desired to see his work from a distance. Moving backwards, he reached the edge of the platform. Had he moved one more step, he would have fallen down to the ground. His servant had seen him. He threw a container of paint upon the wall. At the behaviour of the servant, the painter became very angry. He came forward too punish him. The servant told him the reason of throwing the paint. Then being happy, the painter rewarded the servant.
+
+Exercise 13
+
+By waking up early in the morning one gets good health and happiness. The morning air is clean and fresh. Therefore a man feels fresh the whole day by walking in the open and fresh air. Besides this in the peaceful atmoshpere of morning, the mind works better. It is natural that the study done in such a period is more effective. Contrary to it the people who wake up late have to work late in the night. But keeping awake till late in the night is not good for health. Side by side the capacity of mind becomes less in the late hours of the night. There are very few people whose mind can work in the night without difficulty. Therefore from ancient time the great men of the world have been laying stress on waking up early in the morning.
+
+Exercise 14
+
+The natural structure of India is too strange. There is snow crown on the head of our Motherland, green clothes of dense forests on her organs; innumerable rivers like the Indus, the Ganga, the Yamuna, the Narmada, the Kaveri, the Godavari etc., are playing in her lap. The Golden Lanka is ever blossoming like a lotus under her feet. In the North great mountain the Himalayas, spreading both arms towards East and West, is giving us the gift of fearlessness. The snow clad mountain ranges, vast rivers, green meadows, the deserts clad in sheets of sand, dense forests, blazing sunlight during the day, but cool light of the moon in the night, all these things have made India the best playground of nature.
+
+Exercise 15
+
+One day two women were going together to the market. Each of them had a heavy fruit basket on her head. One of them looked distressed while the other laughed and made merriment. The former said to the latter, “Sister! the load of the both of us is equal. Then what’s the reason that you laugh heartily like this? Your load is not lighter than mine and you are not more powerful than I.” The latter answered, “I have a thing which makes my load lighter.” The former said, “If possible, please let me also have that thing.” The latter answered, “You already possess this thing.” The former said, “What is that and by what name do you call that?” The latter answered, “That is called contentment.” It’s true, contentment makes the load lighter.
+
+Exercise 16
+
+Our country is a great one. For centuries our history has been grand. Not only the Eastern countries but also all the Western countries bear the stamp of our ancient culture. Our philosophy and arts have influenced the Western thoughts and life too much. Today we are trying to lead in the race of progress. It is the duty of all of us to sacrifice everything of ours for the service of our country. We should be oblivious of the distinctions on the bases of caste, creed and provincialism. We should keep it in our mind if our country makes progress, our future will be grand.
+
+Exercise 17
+
+Once upon a time a young man asked Socrates about the secret of success, he took him to a river. Taking him into deep water, he drowned him. When he began to grow unconscious, all of a sudden he dragged him out. As soon as he came out, Socrates asked him, “What was the thing that you needed the most while inside the water?” He answered, “I wanted to breathe.” Then Socrates explained to him, “When you began to feel the necessity of success as breathing, nobody will be able to stop you from being successful. The longing for breathing is the unbreakable determination. Such a determination is needed to be successful.”.
+
+Exercise 18
+
+In the ancient times a king by the name Vikramaditya ruled over this country. He was a very just king. Even today the people praise his justice. One day some boys were playing in the forest along a village. There they saw a mound of mud which was covered with a stone. One of those boys sat upon the stone. He said to his companions, “Friends, now I have become Vikramaditya. Bring your suits to me. I will give you justice.” The description of his justice spread far and wide. Everybody was satisfied with the justice of that boy. When that mound of mud was dug up, me people came to know that it really was the sitting place of King Vikramaditya.
+
+Exercise 19
+
+The rules laid down by sages, spiritual teachers and erudites in the holy scriptures of India for the spiritual progress are second to none in world’s history. Indian literature abounds with the characters of great persons like Harishchandra, Yudhishtra and Dasharatha who sacrificed their life at the altar of truth. Having renounced the feeling of selfishness altogether, they adopted the great principle of the whole Earth is family’, the symbol of real civilization, it was the time when India used to oblige the whole world by not only its religious and spiritual teachings but also by science, art-skills and by business ventures. The plant of Indian erudition, which was nurtured by the ancient scholars through their diligence is getting sapped day-by-day.
+
+Exercise 20
+
+While in South Africa my principles were put to tests on many times. Often I knew that my opponents have made their witneses ready knavishly and if I had encouraged my party or his witneses to tell lies, we could have won the case. But I had always been putting restriction on this lure. I remember only one incidence when I respected after winning the case that my party has cheated me. From my inner soul I always wished that I should win the case only when my party’s case is just. I don’t remember if I ever while setting my fees, linked this with winning bet. I never desired for more or less than my fees irrespective of the fact whether my party won or lost.
+
+Exercise 21
+
+Walking in the morning is very useful for health. The fresh air of morning not only purifies lungs but also provides us with regeneration. Our heart also becomes jubilant. This is the reason why I regularly go for a walk everyday. Some people remain lying in bed for long. This is a bad habit. We all should avoid this. Due to sleeping for long time our body becomes tardy and laziness surrounds us for day long. Our mind does not take interest in any work. Our elders often say that “Who. goes to bed early, and rises early never falls ill.” The person who does not rise early from the sleep does not get real enjoyment of life.
+
+Exercise 22
+
+The children are often heard saying that they wish they had grown earlier likewise the elders wishing they had become young again. Every age has its own joys and sorrows and the person who instead of wasting time in useless repentance, enjoys the givings of every age is the most contented one. Childhood is such a stage when the responsibilities are less, when the things in our life always use to come before us in new form and when one gets joy in ordinary works like playing in rain or snow. But the child is not free to do anything according to its wish and always finds itself listening “Don’t do this, don’t do that.”
+
+Exercise 23
+
+These days the fashion is in full swing. Not to speak of the girls, even the boys in the finest clothes are seen strolling about. Every young man, whether he is rich or poor, wishes to live well. If you go to some hotel or cinema, you will see that every person is bragging like the rich or behaving as if he were a princes. The pocket may be empty but he will have a cigarette in his hand. Such young men get trapped in debt. So as far as possible, minimise your unnecessary needs. If anybody has unlimited needs, he will be compelled to earn money by fair or foul means.
+
+Exercise 24
+
+The climate of Hyderabad is very good. It is neither too hot nor too cold. Here is “ plenty of rainfall but no mud is seen on roads. It being a plateau region the water flows down and does not get collected anywhere on roads. Now due to increase in population it has grown a bit hot. On the advent of the spring the grace of nature increases. Cool shadow of trees fall on the paths. Fragrance of flowers continues to come from the gardens. Greenery is seen to a far distance. On seeing it heart becomes jubilant.
+
+Exercise 25
+
+Maharaja Ranjeet Singh had a servant named Khushal Singh. He was the bodyguard of her majesty as well. He was a brahmin by caste. He began serving first of all in Lahore for five rupees a month. Gradually he made progress and started working as a bodyguard in the Royal Palace. One day his majesty came out of his palace to see the condition of his town. It was too late into night when he returned. At that time Khushal Singh was on watch. He could not recognize his majesty so he did not allow him to enter the palace. Next day when he recognized his majesty he got nervous but his majesty gifted him a large state.
+
+Exercise 26
+
+Without courage the life of a man is like a lump of earth or lifeless. idol. In the dictionary of Napoleon there was no word like ‘impossible’. It may be a dust storm or storm, there may be mountains or dense forests on the way, making his way through all of them, it was the principle of Napoleon to reach the goal. On account of this, Napoleon became the great personality of the world. You must do the work in your hand. If you are firm determined, no power of the world can obstruct your way. The enterprising people have proved this. Nobody checked their way, if anybody has checked, he has to face failure.
+
+Exercise 27
+
+India is a dignified ancient nation. In the ancient time we were prosperous. In the country there was abundance of food grain and money. The trees were loaded with fruits and flowers and rivers were full of clean water. The people had love and sympathy. All shared the joys and sorrows of one another. Even after 68 years of independence we are not completely happy today. Our growing population and communal riots are the main problems. Only we are to solve them. Till every countryman does not try for it, problem cannot be solved. Come, let us take an oath that we shall try our best to bring peace, prosperity and happiness in the country and will again glorify India with the glory of ‘Vishwa Guru (World Teacher)’and ‘The bird of gold’.
+
+Exercise 28
+
+When you have to try, why then to pray? I have to try, therefore I need prayer, I am the doer of trying. But the result is not in may hand. Result depends on the will of God. How much I will do by trying? How low is my power? What can I do alone with out the help of God? I go on proceeding towards the truth even them I can’t reach my goal without the grace of God. I do try to cut the path, but in the end I will cut the path that in the middle my feet are about to be cut, who can say this. So on my own accord I will reach the goal, this type of ego is useless.
+
+Exercise 29
+
+Man has got power in the form of time from God. The man who uses this power properly, gets physical and spiritual pleasures. By the proper use of time an ignorant man gets knowledge, foolish man gets wisdom and weak man gets power. Proper use of time makes the man god. Time should be used like precious objects. The man who not doing so, wastes the wealth of time uselessly, remains idle and inactive, he suicides. Due to sitting idle, not only the time is wasted but also the thoughts of mind become polluted, soul becomes sinful, age falls down, and bliss of soul, peace and conteniment are not achieved. This is the statement of a famous English dramatist Shakespear, ‘Time is life’. It is really correct because the age can be measured by the time.
+
+Exercise 30
+
+Once Mahmood Gajnavi was sitting with his chiefs in a village near Delhi. The village was desolated. The people had started with their belongings few months ago. Finding no man and no animal there, Mahmood was wondering. After sometime he saw a pair of owls. They were sitting on a ruined building and seemed to be talking. Mahmood saw towards his minister and said, “Had you not told me one year ago that you understand talking of birds?” The minister answered, One of these owls is old and another is young. Young owl wants to marry his daughter with the son of the old owl and wants one hundred desolated villages in dowry.” In its reply the young owl is saying, “By the grace of Mahmood Gajnavi, I can give you one thousand desolated villages in dowry.” Hearing this Mahmood was very sorry and he at once departed from there.
+
+Exercise 31
+
+India is a great country. Its past has been very glorious. Foreign invaders tried to rob this country. They tried to destroy its culture, knowledge and science. But due to sacrifice and boldness of Indian patriots, they were not successful in it. Even today
+s no shortage of anything in the country. If population, growing by leaps and bounds, is controlled, the country will again become prosperous. Environmental pollution is a big problem of the country. Every lover of the country is needed to be awakened towards it. It is needed to develop mutual fraternity and feeling of togetherness. India was a great country, it is so even today and will always remain so.
+
+Exercise 32
+
+The night was dark. It was 12 o’clock by the the watch. Dogs were not barking too. I was sleeping soundly. Suddenly, I woke up on hearing the loud voice. I saw all the people running on one side. Some people were carrying water. Some people were carrying dust. Some people were carrying sticks while others were going empty handed. I could not understand the matter for sometime. I kept lying on the cot. After sometime lot of smoke and light appeared in the sky. It was known that a house was on fire and everyone had fled. But a mother was burning in her house with her child. And, who does not know the great love of mother. Mother’s love is the best example, of selfless love.
+
+Exercise 33
+
+We are living in the age of changes, but there are things whose existence, freshness and beauty could never be less. India is one such country. Archaic and new at the same time. There is a rich history of the universities like Nalanda, Takshashila and Vikramshila. Today, we have to re-establish the ancient glory of India by solving current problems through technology. We have to prove the superiority of Indian knowledge in the world again, and this is possible only when we can revert past the golden papers of the past and join them in the current context.
+
+Exercise 34
+
+We should never be disappointed with failure. Success and failure are like sisters. Failure opens up our eyes and exposes up our weaknesses. By overcoming them we can succeed again. Even the great scientists fail in their experiment. Big warriors are defeated in their battlefield. Great leaders loose their elections, but they constantly keep trying and definitely get success one day. We should never be disappointed by seeing the difficulties of the way. If we take a strong determination, then nothing is impossible. Life is the other name of struggle; it is not a bed of roses.
+
+Exercise 35
+
+India has a glorious history in nation-building. The people of India have empowered the nation with their own efforts. Ancestors like Vedic Rishi, Kapil, Buddha, Mahavira and Shankaracharya are notable for their philosophy and culture. The invention of ‘Zero’ in the field of mathematics, ‘Charak-Samhita’ in the field of medicine, Ashtadhyayi in the field of grammar, has already proved the superiority of Indian knowledge by contributing many things to the world. Chandragupta Maurya, Ashoka, Samudragupta and Harsha are well-known for the unification of whole nation by their strategic ruling of the state.
+
+Exercise 36
+
+Child labour is one of the painful truth of modern industrial society. Poverty can be the most important cause of child labour but this is not the only reason. Often children work because they do not have anything else to do. Schools are available but that are not ample or the quite expensive. The matter is getting serious on two doubts. Increasing migration, Urbanization and industrialization is create children’s insecurity and thereby giving birth to new and alarming threats and increasing the number of child labour in the irregular and unregulated areas of the economy. The condition of those children is very pathetic who are either bonded or forced to act as a slave.
+
+Exercise 37
+
+Munshi Premchand was a great literary writer. He was born in a village called Lamhi. Even after being born in a simple family, he was renowned throughout the world. He had equal command in both Hindi and Urdu languages. He was an expert in writing novels and story. His novels contain a unique description of Indian society. His books were translated into many languages in the world. That is why he is called the king of novel. He was also quite popular as a successful teacher. Even the less educated person takes much interest in reading his books.
+
+Exercise 38
+
+Diet for diabetic patients is not only the source to get rid of hunger, but is also maintains the sugar level in their body. It is very important for diabetic patient to maintain their sugar level because if their sugar level falls or increases, there could be trouble in both the situations. Since this disease remains the whole life with a person and does not ends, so the only way to overcome it is to keep the sugar level in control by taking the proper amount of food. This is the only way by which a healthy life can be lead with the disease like diabetes. Every bite of food taken in by a diabetic patient keeps importance.
+
+Exercise 39
+
+The Indian Civilization has been river-valleys’ civilization. It was on the sacred river banks that the sages’ eyes of enlightenment were opened and the Vedas, the Puranas and the Upanishads were authored. The rivers are the Indian people’s heart and soul, life’s-spring and the pivot of faith. By drinking their water ‘man remained healthy and long-lived. The rivers are the mile-stones of Indian culture, place of pilgrimages and indelible testimony of Indian history as well.
+
+Side by side the development of science, the industrial and physical development ushered in. Consequently the rivers began to be polluted. The river Ganga flowing from Gangotri to Ganga Sagar is getting polluted today. Demand is being made by the Indian common people for the restoration of the Ganga of that sacred, clear and incessantly flowing stream of water.
+
+Exercise 40
+
+An ideal student should abide by the principle of Simple Living and High Thinking’. He should refrain from fashionable garments, hair-cut and decoration of the body. The reason is : These things give birth to vicious thought in students mind, due to which not only the student life of the student spoiled but also the coming golden life is rushed. By keeping high thinking, purity comes in the mind. The body keeps on healthy-healthy mind lives in healthy body. If your mind is healthy, no work in the world is difficult for you.
+
+Exercise 41
+
+Today our life-style has become too much disordered and our habits have undergone a great change. The desire for earning more and more money has snatched our happiness, repose and peace from us. In the efforts to give shape to the dreams of a better tomorrow we are overlooking the today of ours. We are getting no time for ourselves. The inability to manage the time properly is disordering the life. For a lovely and happy life, the essential thing is sound health. Today in the case of most of the youths the timing of going to bed and leaving bed is not certain. Due to under-sleep we are falling a victim to so many diseases. Happiness will remain away from us until our life and daily routine is regular.
+
+We hope the UP Board Solutions for Class 12 English Translation Chapter 7 Hindi to English Translation help you. If you have any query regarding UP Board Solutions for Class 12 English Translation Chapter 7 Hindi to English Translation, drop a comment below and we will get back to you at the earliest.
+Categories Class 12
+Post navigation
+UP Board Solutions for Class 11 Sahityik Hindi प्रत्यय-प्रकरण
+UP Board Solutions for Class 11 Sahityik Hindi विभक्ति-प्रकरण
+Leave a Comment
+
+Comment
+Name
+Email
+Website
+
+Search for:
+UP Board Books | UP Board Solutions Class 6 to Class 12
+Video Player
+00:00
+04:33
+Recent Posts
+
+    UP Board Solutions for Class 8 Maths Chapter 1 परिमेय संख्याओं पर संक्रियाएँ
+    UP Board Solutions for Class 11 Maths Chapter 8 Binomial Theorem
+    CBSE Sample Papers for Class 10 Maths Paper 4
+    Balaji Class 9 Maths Solutions Chapter 6 Remainder Theorem and Factor Theorem Ex 6.2
+    UP Board Solutions for Class 9 Maths Chapter 2 Polynomials
+    Balaji Class 9 Maths Solutions Chapter 3 Rationalisation Ex 3.2
+    UP Board Solutions for Class 4 Maths गिनतारा Chapter 11 भिन्न
+    CBSE Sample Papers for Class 10 Maths Paper 11
+    UP Board Solutions for Class 10 Computer Science Chapter 4 Discrete Mathematics
+    UP Board Solutions for Class 6 English Chapter 8 Gulliver in Lilliput
+    UP Board Solutions for Class 9 English Prose Chapter 1 Tom Sawyer (Mark Twain) [Adapted]
+
+Copyright © 2023 UP Board Solutions	
+
+Get Personalized Updates
+Get notified when we find something interesting that you'll love!
+Powered by Feedify 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
