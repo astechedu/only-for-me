@@ -31,9 +31,11 @@ be, do and have
 
   Do is common for forming questions and making negatives.
 
-Did is used for do and does in the past tense. Do and does is never used for the past.
+  Did is used for do and does in the past tense. Do and does is never used for the past.
+
 
 In statements
+
 
   I do my homework.
 
@@ -45,7 +47,9 @@ In statements
 
   He/she does the cleaning.
 
+
 In questions
+
 
   Do I know you?
 
@@ -57,7 +61,9 @@ In questions
 
   Does he/she drive to work?
 
+
 In negative sentences
+
 
   I do not. (I don't)
 
@@ -67,9 +73,9 @@ In negative sentences
 
   They do not. (they don't)
 
-He/she does not. (he/she doesn't)
+  He/she does not. (he/she doesn't)
 
-Be = am / is / are
+  Be = am / is / are
 
 Be can be used as an auxiliary verb or the main verb in a sentence.
 
@@ -79,8 +85,10 @@ Be is also used to make passives.
 
 Are is used for they and we.
 
+
   Was is used for the past tense of am and is.
   Were is used for the past tense of you, we and they.
+
 
 In statements
 
@@ -94,7 +102,9 @@ In statements
 
   He/she is cool.
 
+
 In questions
+
 
   Am I in the right place?
 
@@ -102,7 +112,9 @@ In questions
 
   Are we nearly there?
 
+
 Are they the best players on the team?
+
 
   Is he/she old enough to go to bars?
 
@@ -124,9 +136,12 @@ Are they the best players on the team?
 
   Has is used for the third person singular.
 
+
 Had is used for past tenses especially the past perfect tense. It describes an action that began in the past and continues into the present or that occurred in the recent past.
 
+
 In statements
+
 
   I have a dog.
 
@@ -150,7 +165,9 @@ In statements
 
   He/she has not (he/she hasn't)
 
+
 Others
+
 
 Other common auxiliary verbs are:
 
@@ -158,19 +175,24 @@ can, could, may, might, must, ought, should, and would.
 
 These are also known as modal verbs. We use them to show obligation, possibility and necessity.
 
+
 For example:
 
   Jack is late. He might be sleeping. (possibility)
   I should clean my room today. (obligation)
   I must wear a tie to school. (necessity)
 
+
 Answering questions
+
 
 Auxiliary verbs are useful in giving short answers to questions.
 
 Basically, your answer can end with the auxiliary verb.
 
+
 The following examples are natural and completely acceptable ways to answer questions:
+
 
   Do you like reading?
 
