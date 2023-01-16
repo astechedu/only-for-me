@@ -1,3 +1,9 @@
+# Maths Class VII 
+
+
+Topics: 
+
+   [Unitary Method Class vii ](#unitary-method)
 
 
 
@@ -5,9 +11,7 @@
 
 
 
-
-
-
+<a name="unitary-method"></a>
 
 <img src="https://cdn1.byjus.com/wp-content/uploads/2020/04/selina-sol-concise-maths-class-7-ch7-ex-7c-3.jpg" width="600">
     
