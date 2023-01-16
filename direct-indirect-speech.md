@@ -8,28 +8,21 @@
 
 <img src="https://wse-strapi-image-hosting-wse-dev.s3.eu-west-1.amazonaws.com/direct_indirect_speech_exercise_1_efc1ff2185.jpeg">
 
-
 <img src="https://wse-strapi-image-hosting-wse-dev.s3.eu-west-1.amazonaws.com/direct_indirect_speech_exercise_2_8cdd7c53b2.jpeg">
 
 
 
-# Direct and Indirect Speech, Definition and Rules Chart PDF
+# Direct and Indirect Speech, Definition and Rules
 
 Direct and indirect speech is used in many situations while conversation. In this article, we will learn the rules of direct and indirect speech.
-Posted bynayanshi	
-Published On January 12th, 2023
 
-    Direct and Indirect Speech, Definition and Rules Chart PDF_30.1
 
-Direct and Indirect Speech, Definition and Rules Chart PDF_40.1
-
-Table of Contents
-Direct and Indirect Speech- Definition
+### Direct and Indirect Speech- Definition
 
 Direct and Indirect Speech: For some children, the difference between direct and indirect speech can be difficult. In order to explain an event or action, we frequently need to quote someone. This article will clear all your doubts regarding Direct and Indirect Speech. Direct and Indirect Speech are the two types of speech that are used to explain what other people say (or reported Speech).
 
-Class 12 Boards Live Classes By Adda247
-Direct Speech
+
+##### Direct Speech
 
 The exact same words are quoted using direct speech. When writing in direct speech, we enclose the said words in quotation marks (“”) and leave them alone. We might be writing in inverted commas what is being said (for instance, during a phone call) or subsequently enquiring about a past conversation.
 
@@ -39,7 +32,7 @@ For examples:
     They said, “We will go to the party.”
     She said, “I don’t know.”
 
-Indirect Speech
+##### Indirect Speech
 
 We use indirect speech when we don’t use the exact copy of the speaker’s words. In simple words, we can say that in indirect speech we convey what someone has said but in our own words. No inverted commas will be used in indirect speech. Instead of commas ‘that’ conjunction will be used.
 
