@@ -136,3 +136,40 @@ on the distant hill
 for the caged bird
 
 sings of freedom
+
+
+
+In her poem “Caged Bird,” Maya Angelou uses the extended metaphor of caged and free birds to display the difference between Black and White Americans.
+Antithesis in Beloved by Toni Morrison
+
+“Sethe,” he says, “me and you, we got more yesterday than anybody. We need some kind of tomorrow.”
+
+In this passage, Paul D. speaks to Sethe and insists she quit dwelling on her past. Morrison uses antithesis to contrast yesterday and tomorrow, which is much more effective than simply saying Sethe should stop focusing on the past.
+Personification in “Because I Could Not Stop for Death” by Emily Dickinson
+
+Because I could not stop for Death
+
+He kindly stopped for me.
+
+By writing that death “kindly stopped” for her, Emily Dickinson uses personification to make the concept of death more vivid and tangible. The thought of death stopping by gives it an ominous but cordial tone, as if Dickinson treats it as an acquaintance.
+Figures of speech FAQs
+What is a figure of speech?
+
+A figure of speech is a deliberate manipulation of ordinary language in order to create a literary effect.
+What are the different kinds of figures of speech?
+
+There are hundreds of figures of speech, which can be divid
+
+ed into schemes and tropes. Schemes are figures of speech that rearrange word order for a certain effect, while tropes use words in a way that differs from their literal meaning.
+How are figures of speech used in writing?
+
+Figures of speech are used in every type of writing to achieve different effects. Which figure of speech you use depends on what effect you want to have on the reader. For example, if you want to create more vivid imagery, you might use simile, metaphor, or antithesis. If you want to give them a laugh, you might try using a pun.
+
+
+
+
+
+
+
+
+
