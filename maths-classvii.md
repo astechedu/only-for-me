@@ -1,3 +1,15 @@
+
+
+
+
+
+
+
+
+
+
+# Unitary Method Class vii 
+
 Access Selina Solutions Concise Maths Class 7 Chapter 7: Unitary Method (Including Time and Work)
 Exercise 7A page: 88
 
