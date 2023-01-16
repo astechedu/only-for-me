@@ -1,6 +1,11 @@
 # Hindi Parts Of Speech
 
 
+
+[Hindi](all-hindi-links.md)
+
+
+
  What is Part of speech in english grammar with examples in hindi
 Er U G Pathak January 25, 2021
 Hello my dear friends, आज हम जानेंगें, What is part of speech in English Grammer with example in Hindi. दोस्तों Speech को हिंदी में वाक्य कहा जाता है। तो सबसे पहले हम Definition को समझेंगे। 
