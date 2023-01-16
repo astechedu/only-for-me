@@ -1,20 +1,6 @@
 # Active Voice
 
 
-<img src="https://d1avenlh0i1xmr.cloudfront.net/7636a1d8-f91e-48f2-b555-80f374dfa084/type-of-tenses.jpg">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.teachoo.com%2F6990%2F1883%2FSummary-of-different-Tenses%2Fcategory%2FVerbs-and-tenses%2F&psig=AOvVaw0RiAoyLbWGdnG037wt9WC1&ust=1673931225855000&source=images&cd=vfe&ved=2ahUKEwj3o4Typcv8AhXjUGwGHXobCKAQjRx6BAgAEAo">
-
-
-
-
-[![name](link to image on GH)](https://d1avenlh0i1xmr.cloudfront.net/7636a1d8-f91e-48f2-b555-80f374dfa084/type-of-tenses.jpg)
-
-[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
-
-[<img src="https://d1avenlh0i1xmr.cloudfront.net/7636a1d8-f91e-48f2-b555-80f374dfa084/type-of-tenses.jpg">](http://example.com/)
-
-
-
 
 
 # Types of Tenses with Examples and Formula
