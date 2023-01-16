@@ -9,8 +9,6 @@
 
 
 
-# Parts Of Speech
-
 
   i. Noun  
   
