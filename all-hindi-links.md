@@ -10,9 +10,9 @@ Topics:
 
    [Hindi Parts Of Speech](hindi-parts-of-speech.md)
    
-   [Hindi Tenses](hindi-tenses.md)
+   [Hindi Tenses (Active Voice)](hindi-tenses.md)
    
-   [वर्ण-विचार ]()
+   [Hindi Passive Voice](hindi-passive-voice.md)
    
    [हिन्दी व्याकरण ]()
    
