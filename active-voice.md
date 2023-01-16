@@ -13,22 +13,10 @@
 # Tenses in hindi
 
 
-Skip to content
-english speaking course
-Spoken English Guru
-
-Learn English at Home
-
-    Home
-    All Books & Videos Pendrive
-    Online Courses
-        Online English speaking course (6 Months)
-        Live Class Course (1 Month)
-        Online Computer Course with Certificate (6 Months)
-        Online Blogging Course (6 Months Free Tech Support)
-    Day-wise Videos’ Notes
-    Blogs
+   Tenses: 
+    
         Most Important Topics
+        
             Tenses {काल}
             Verbs {क्रियाएँ}
             Prepositions (पूर्वसर्ग)
@@ -37,7 +25,9 @@ Learn English at Home
             Causative Verbs
             Punctuation Marks
             Active & Passive Voice
+            
         Spoken English Tips
+        
         Grammar & Spoken Topics
         Practice Exercises
         Conversations in Hindi and English
@@ -50,29 +40,17 @@ Learn English at Home
         Interview Q&A
         Essays
         Speeches
-    Apply for Franchise
-    Log In
-        English Speaking Course
-        Computer Course
-        Excel Mastery Course
-        Blogging Course
-    More
-        Quiz
-        Students’ Doubts
-        English Charts
-        Team
-        Journey
-        Mission
-        Contact Us
+        
 
-Tense Chart
+
+Tense Chart:
+
 Tense in English Grammar in Hindi – Types, Rules, Charts, PDF
 217 Comments	/ Grammar & Spoken Topics / By Spoken English Guru
 
 Tense in English Grammar in Hindi – Types, Rules, Charts, PDF…
 इस आर्टिकल में सभी 12 Tense (काल) की Definition, Rules वो भी Tense Charts और PDF के साथ बिल्कुल सरल Hindi और English में उपलब्ध है। आईए, सबसे पहले Tenses की इस तीन घंटे की वीडियो को पहले पूरा देख लें क्योंकि जो बातें वीडियो देखकर समझ आ पायेंगी, वो केवल पढ़कर नहीं आयेंगी। उसके बाद लिखित में Tense के notes व practice exercise के माध्यम से समझिए। Practice Exercise सबसे नीचे दी गयी हैं।
 
-Tense Chart
 
 Tense Chart
 
@@ -176,6 +154,7 @@ Example: marry becomes marries, try becomes tries, etc.
 बाकी लगभग सभी verbs के साथ “s” लगा दिया जाता है।
 
     Sentences covered in the above video:
+    
 
 रवि इस कुर्सी को घसीटता है। (Affir.)
 (Ravi is kursi ko ghaseetata hai.)
