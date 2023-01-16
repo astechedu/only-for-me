@@ -6,11 +6,6 @@
 [English Page](all-english-links.md)
 
 
-
-<img src="https://compenglish.com/wp-content/uploads/2021/10/parts-of-speech.webp" style="width:400px;border-radius:50%;">
-
-
-
 <img src="https://compenglish.com/wp-content/uploads/2021/10/parts-of-speech.webp" width="300">
 
 
