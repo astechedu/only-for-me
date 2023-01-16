@@ -6,7 +6,7 @@
 [English Page](all-english-links.md)
 
 <style>
-	.image-rounded {
+	img image-rounded {
 		border-radius: 4px;
 		display: inline-block;
 	}
@@ -15,16 +15,7 @@
 		visibility: hidden;
 	}
 </style>
-<style>
-	.image-rounded {
-		border-radius: 4px;
-		display: inline-block;
-	}
-	
-	img {
-		visibility: hidden;
-	}
-</style>
+
 
 <img src="https://compenglish.com/wp-content/uploads/2021/10/parts-of-speech.webp" width="300">
 
