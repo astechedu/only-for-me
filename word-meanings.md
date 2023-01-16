@@ -11,16 +11,16 @@
 
 
 
+# Word Meaning
 
-
-मुद्दे की बात   – a matter of discussion
-मामूली       – Ordinary
-निर्णय        – Decision
-सातवें आसमान  – Seventh heaven/Cloud nine
-अनुमति       – Permission
-पर्याप्त        – Enough
-शर्त          – Condition
-विशाल        – Large
+    मुद्दे की बात   – a matter of discussion
+    मामूली       – Ordinary
+    निर्णय        – Decision
+    सातवें आसमान  – Seventh heaven/Cloud nine
+    अनुमति       – Permission
+    पर्याप्त        – Enough
+    शर्त          – Condition
+    विशाल        – Large
 
 
 
