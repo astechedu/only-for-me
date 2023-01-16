@@ -5,16 +5,9 @@
 
 [English Page](all-english-links.md)
 
-<style>
-	img image-rounded {
-		border-radius: 4px;
-		display: inline-block;
-	}
-	
-	img {
-		visibility: hidden;
-	}
-</style>
+<span class="image-rounded" style="background: [url] no-repeat 0 0;">
+	<img src="[url]" />
+</span>
 
 
 <img src="https://compenglish.com/wp-content/uploads/2021/10/parts-of-speech.webp" width="300">
