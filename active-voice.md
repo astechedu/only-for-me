@@ -8,9 +8,7 @@
 # Types of Tenses with Examples and Formula
 
 
-    Past Tense
     
-    Grammar
         Parts of Speech
         Nouns
         Pronouns
@@ -21,11 +19,10 @@
         Prepositions
         Interjections
         
-    Tenses
+        
+    Tenses:
   
 
-Home / Grammar / Tenses / 12 Types of Tenses
-Grammar / Tenses
 12 Types of Tenses with Examples and Formula
 
 In the English language, the tense is essential in English Grammar to speak appropriately.
@@ -56,9 +53,12 @@ What are the 12 types of tenses?
     Future Perfect Continuous tense
 
 type of tenses with examples
+
 Tenses in English Grammar with Examples
 
 Let us study all the twelve types of tenses in detail,
+
+
 #1. Present Tenses:
 
 A present tense describes any action that is commonly performed or is happening in a current situation.
@@ -79,6 +79,7 @@ Examples,
     I go to the gym daily.
 
 More: Examples of Simple Present Tense
+
 1.2: Present Continuous (progressive) Tense
 
 Present continuous tense is used to tell about the ongoing actions, events, or conditions and still not finished.
@@ -96,6 +97,7 @@ Examples,
     You are not coming with us to the picnic.
 
 More: Examples of Present Continuous Tense
+
 1.3: Present Perfect Tense
 
 The present perfect tense is used to express the situation or event which is completed but in a present consequence. It is a combination of the ideal aspect done in the present tense.
@@ -114,6 +116,7 @@ Examples,
     They have given three mock tests already.
 
 More: Examples of Present Perfect Tense
+
 1.4: Present perfect Continuous Tense
 
 The Present perfect continuous tense shows the situation which has been started in the past and continues in the present.
@@ -131,9 +134,11 @@ Examples,
     They have not been participating in cultural event for the previous five years.
 
 More: Examples of Present Perfect Continuous Tense
+
 #2. Past Tenses:
 
 Past tense is used to show the actions, events, or moments that have already happened or occurred in the past
+
 2.1: Past Simple Tense
 
 The simple past tense is used to describe any event, actions, moments which occurred in the past. The simple present tense is also called a preterite.
@@ -152,6 +157,7 @@ Examples,
     Joseph came from London yesterday.
 
 More: Examples of Simple Past Tense
+
 2.2: Past Continuous (progressive) Tense
 
 The past continuous tense is used to express the occurring circumstance or any continuing action that has happened in the past.
@@ -170,6 +176,7 @@ Examples,
     You were cleaning the hall yesterday after the party.
 
 More: Examples of Past Continuous Tense
+
 2.3: Past Perfect Tense
 
 The past perfect tense is used to tell the happened situation which occurred before a completed action in the past. It also shows the specific time when the action occurred.
@@ -188,6 +195,7 @@ Examples,
     The train had left the station by the time I reached there.
 
 More: Examples of Past Perfect Tense
+
 2.4: Past Perfect Continuous (progressive) Tense
 
 The past perfect continuous tense represents any action or event that started in the past and sometimes continued until another action or another time.
@@ -206,9 +214,11 @@ Examples,
     It had been raining fastly for the whole night, so he couldn’t go home.
 
 More: Examples of Past Perfect Continuous Tense
+
 #3. Future tenses:
 
 The future tense is used to express future activity or a state of being which has not happened yet and is expected to happen in the future.
+
 3.1: Future Simple Tense
 
 The simple future tense is used to predict or to forecast something that will happen in the future.
@@ -227,6 +237,7 @@ Examples,
     You shall not break this window glass by your hands.
 
 More: Examples of Simple Future Tense
+
 3.2 Future Continuous Tense
 
 The future continuous tense is used to explain the ongoing action at a particular instant in the future or happen in the future.
@@ -244,6 +255,7 @@ Examples,
     Malinga will be playing as a captain in this ICC cricket tournament.
 
 More: Examples of Future Continuous Tense
+
 3.3: Future Perfect Tense
 
 The future perfect tense is used to describe a future action that has a fixed date schedule.
@@ -262,6 +274,7 @@ Examples,
     I will have stopped looking at her when she comes near me.
 
 More: Examples of Future Perfect Tense
+
 3.4: Future Perfect Continuous Tense
 
 The future perfect continuous tense is used to explain certain activities and events that are continuing or happening and done after some expected time instant.
@@ -322,13 +335,6 @@ Search
     Vocabulary
     Ways to say
     Words
-
-DMCA.com Protection Status
-Copyright © 2023 OnlyMyEnglish
-
-Read more: https://onlymyenglish.com/tenses/
-
-
 
 
 
