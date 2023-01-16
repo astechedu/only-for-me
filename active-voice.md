@@ -292,24 +292,7 @@ Examples,
 
 # Tenses
 
-
-   Tenses: 
-    
-        Most Important Topics
-        
-            Tenses {काल}
-            Verbs {क्रियाएँ}
-            Prepositions (पूर्वसर्ग)
-            Conjunctions
-            Conditional Sentences
-            Causative Verbs
-            Punctuation Marks
-            Active & Passive Voice
-            
-
-        
-
-Tense Chart
+  
 
 Present Indefinite Tense
 
