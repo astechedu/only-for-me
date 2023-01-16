@@ -6,21 +6,11 @@
 
 
 # Types of Tenses with Examples and Formula
-
-
-    
-        Parts of Speech
-        Nouns
-        Pronouns
-        Verbs
-        Adverbs
-        Adjectives
-        Conjunctions
-        Prepositions
-        Interjections
+ 
+  
         
         
-    Tenses:
+   #### Tenses:
   
 
 12 Types of Tenses with Examples and Formula
@@ -59,14 +49,16 @@ Tenses in English Grammar with Examples
 Let us study all the twelve types of tenses in detail,
 
 
-#1. Present Tenses:
+# 1. Present Tenses:
 
 A present tense describes any action that is commonly performed or is happening in a current situation.
+
 1.1: Present Simple Tense
 
 Simple present tense speaks about the present actions, events, or conditions which are occurring in the current situation.
 
 Structural formula:
+
 Subject + verb (s/es) + object.
 
 Here, the verb is in its base form.
@@ -135,7 +127,7 @@ Examples,
 
 More: Examples of Present Perfect Continuous Tense
 
-#2. Past Tenses:
+# 2. Past Tenses:
 
 Past tense is used to show the actions, events, or moments that have already happened or occurred in the past
 
@@ -215,7 +207,7 @@ Examples,
 
 More: Examples of Past Perfect Continuous Tense
 
-#3. Future tenses:
+# 3. Future tenses:
 
 The future tense is used to express future activity or a state of being which has not happened yet and is expected to happen in the future.
 
@@ -291,24 +283,7 @@ Examples,
     They will have been watching movies on the laptop before he comes.
     Where will you have been waiting for me before I reach?
 
-More: Examples of Future Perfect Continuous Tense
-You might also like
-past perfect continuous tense worksheet
-Past Perfect Continuous Tense Exercises with Answers
-December 27, 2021
-present-perfect-tense.
-20 Examples of Present Perfect Tense Sentences
-January 3, 2022
-Simple Future Tense Exercises with Answers
-December 27, 2021
-future-continuous-tense.png
-20 Examples of Present Continuous Tense Sentences
-January 6, 2022
-Future Perfect Tense: Definition, Examples, Formula & Rules
-February 23, 2021
-The Figure of Speech in English
-March 7, 2022
-Search
+
 
     Adjectives
     Adverbs
