@@ -288,6 +288,80 @@ subject + doesn't have to + verb
 
 
 
+# Auxiliary Verbs "Be," "Do," "Have"
+An auxiliary verb helps the main (full) verb and is also called a "helping verb." With auxiliary verbs, you can write sentences in different tenses, moods, or voices. Auxiliary verbs are: be, do, have, will, shall, would, should, can, could, may, might, must, ought, etc.
+
+    I think I should study harder to master English.
+    I am having a cup of coffee.
+    You have been practicing hard.
+    It was written by a petitioner.
+    You may choose what you like.
+
+The verb forms of be, do, and have can be used either as a main (full) verb or an auxiliary verb. The following examples show these verbs used as auxiliary verbs.
+
+1. "Be" as an auxiliary verb
+
+a.Used in progressive sentences:
+
+    I am taking a bath.
+    She is preparing dinner for us.
+    They have been studying all night.
+
+b.Used in passive sentences:
+
+    I was given a free meal.
+    He was seen by fans at the airport.
+    This song has been sung by all nations.
+
+2."Do" as an auxiliary verb
+
+a. Used in negative sentences:
+
+    I do not know the truth.
+    She doesn’t agree with me.
+    They didn’t arrive here yet.
+
+b.Used in questions:
+
+    Do you want to have another one?
+    Did he finish his homework?
+    Do we need to keep going straight?
+
+3."Have" as an auxiliary verb
+
+a. Used in perfect sentences:
+
+    I have been following you for a mile.
+    We have done a lot so far.
+    She had been queen of the town.
+
+
+[Quiz 19.1]
+
+Identify all auxiliary verbs in the following paragraph.
+
+I have just heard that you didn’t attend the meeting yesterday. Did you have a conflict with that time? I must ask that you explain the reason.
+
+
+[Quiz 19.2]
+
+Which of the following sentences does not show any auxiliary verbs?
+
+1)I didn’t have any reason to go there.
+2)Have we practiced this song enough?
+3)Three seats have been reserved for us.
+4)I am a professor in the economics department.
+
+View Answers
+
+English Grammar Book 	FREE: : The English Grammar Book is now available in an App for FREE.
+Android: English Grammar Book
+iPhone/iPad: English Grammar Book
+	
+
+
+Copyright © 2005 - 2019 TALKENGLISH.COM
+TERMS OF USE   |   CONTACT   |   PRIVACY POLICY   |   FAQs
 
 
 
