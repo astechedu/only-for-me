@@ -5,6 +5,339 @@
 
 
 
+# Types of Tenses
+
+
+
+
+Skip to content
+OnlyMyEnglish
+
+    Past Tense
+    Grammar
+        Parts of Speech
+        Nouns
+        Pronouns
+        Verbs
+        Adverbs
+        Adjectives
+        Conjunctions
+        Prepositions
+        Interjections
+    Tenses
+    Contact Us
+
+Home / Grammar / Tenses / 12 Types of Tenses
+Grammar / Tenses
+12 Types of Tenses with Examples and Formula
+
+In the English language, the tense is essential in English Grammar to speak appropriately.
+A tense verb form describes any action, circumstance, event, or state of being in any sentence structure.
+According to the time structure, Tenses are classified into three types,
+
+Table of Contents
+What are the 3 tenses?
+
+    Present tense
+    Past tense
+    Future tense.
+
+Apart from it, each of these three tenses is again sub-categorized into twelve types,
+What are the 12 types of tenses?
+
+    Present Simple Tense
+    Present Continuous Tense
+    Present Perfect Tense
+    Present Perfect Continuous Tense
+    Past Simple Tense
+    Past Continuous Tense
+    Past Perfect Tense
+    Past Perfect Continuous Tense
+    Future Simple Tense
+    Future Continuous Tense
+    Future Perfect Tense
+    Future Perfect Continuous tense
+
+type of tenses with examples
+Tenses in English Grammar with Examples
+
+Let us study all the twelve types of tenses in detail,
+#1. Present Tenses:
+
+A present tense describes any action that is commonly performed or is happening in a current situation.
+1.1: Present Simple Tense
+
+Simple present tense speaks about the present actions, events, or conditions which are occurring in the current situation.
+
+Structural formula:
+Subject + verb (s/es) + object.
+
+Here, the verb is in its base form.
+
+Examples,
+
+    He plays the piano.
+    Romie loves to eat burgers.
+    We produce biogas from manure.
+    I go to the gym daily.
+
+More: Examples of Simple Present Tense
+1.2: Present Continuous (progressive) Tense
+
+Present continuous tense is used to tell about the ongoing actions, events, or conditions and still not finished.
+
+Structural formula:
+Subject + helping verb (is / am/ are) + main verb (ing) + object.
+
+Here, verb (ing) is the present participle form of the verb, and helping verbs (is/am/are) are used by a class of person as the first-person (am), second-person (is), and third-person (are) respectively.
+
+Examples,
+
+    I am dancing on the stage.
+    She is looking at him.
+    They are practicing on the ground.
+    You are not coming with us to the picnic.
+
+More: Examples of Present Continuous Tense
+1.3: Present Perfect Tense
+
+The present perfect tense is used to express the situation or event which is completed but in a present consequence. It is a combination of the ideal aspect done in the present tense.
+
+Structural formula:
+Subject + helping verb (have/has) + verb (ed) + object.
+
+Here, the modal verb “has” is being used for the second person (He, She, It, etc.), and “have” is used for the first-person and third-person (I, you, they, we, etc.) respectively.
+Verb(ed) is in the past participle form of the verb that shows the task’s completion.
+
+Examples,
+
+    He has completed the task.
+    She has gone for lunch with her friends.
+    I have submitted the thesis report in the HOD’s office.
+    They have given three mock tests already.
+
+More: Examples of Present Perfect Tense
+1.4: Present perfect Continuous Tense
+
+The Present perfect continuous tense shows the situation which has been started in the past and continues in the present.
+
+Structural formula:
+Subject + helping verb (have/has) + been + verb (ing) + object (optional) + since / for + time duration + object.
+
+Here, “been” is added with the modal verbs (have/has), and verb (ing) is in the present participle form of the verb. After time duration is added with since/for (optional)
+
+Examples,
+
+    He has been preparing for the MPSC examination.
+    You have been watching television for 2 hours.
+    I have been working on this project for the last two years.
+    They have not been participating in cultural event for the previous five years.
+
+More: Examples of Present Perfect Continuous Tense
+#2. Past Tenses:
+
+Past tense is used to show the actions, events, or moments that have already happened or occurred in the past
+2.1: Past Simple Tense
+
+The simple past tense is used to describe any event, actions, moments which occurred in the past. The simple present tense is also called a preterite.
+
+Structural formula:
+Subject + verb (2nd form) + object.
+
+Here, the verb V (2nd form) is in the past simple form.
+
+Examples,
+
+    I went to school in the morning.
+    He wrote a letter to his father.
+    They came to see my grandmother in the hospital.
+    She spent her most of the time here for refreshment.
+    Joseph came from London yesterday.
+
+More: Examples of Simple Past Tense
+2.2: Past Continuous (progressive) Tense
+
+The past continuous tense is used to express the occurring circumstance or any continuing action that has happened in the past.
+It is used to describe any action which is happening in the past.
+
+Structural formula:
+Subject + helping verb (was/were) + verb (ing) + object.
+
+Here, the helping verbs (was/were) are in the past form where “was” is used for the first person and second person and “were” is used for the third person. Verb V+ing is in the present participle form to show the continuation of the action.
+
+Examples,
+
+    I was traveling to Los Angeles to attend a business meeting.
+    They were playing an act in the annual gathering.
+    He was not listening to my words.
+    You were cleaning the hall yesterday after the party.
+
+More: Examples of Past Continuous Tense
+2.3: Past Perfect Tense
+
+The past perfect tense is used to tell the happened situation which occurred before a completed action in the past. It also shows the specific time when the action occurred.
+The past perfect tense is also called a pluperfect in English and combines the past tense and a perfect aspect.
+
+Structural formula:
+Subject + had + Verb (ed) + object.
+
+Here, the modal verb “had” is used with the main verb, and the verb V (3rd form) is in the past participle form that shows the completion of the task.
+
+Examples,
+
+    I had never imagined that you did that night.
+    She had gone to hang out with her boyfriend.
+    They had rescued the entire refugees from the flooded area.
+    The train had left the station by the time I reached there.
+
+More: Examples of Past Perfect Tense
+2.4: Past Perfect Continuous (progressive) Tense
+
+The past perfect continuous tense represents any action or event that started in the past and sometimes continued until another action or another time.
+It is the same as that of the past perfect tense, along with it highlights a time duration of the action that happened before something in the past.
+
+Structural formula:
+Subject + had been + Verb (ing) + object (optional) + time of action.
+
+Here, the modal verb had is used with been, and the verb V+ing, the present participle is used to indicate the continuous for a time duration until the action finished.
+
+Examples,
+
+    She had been waiting for her father for more than three hours and then left together when he appeared.
+    You had not only been sitting there for so long.
+    They had been dancing continuously for two hours at his wedding party.
+    It had been raining fastly for the whole night, so he couldn’t go home.
+
+More: Examples of Past Perfect Continuous Tense
+#3. Future tenses:
+
+The future tense is used to express future activity or a state of being which has not happened yet and is expected to happen in the future.
+3.1: Future Simple Tense
+
+The simple future tense is used to predict or to forecast something that will happen in the future.
+It is an imagination of the mind of our mind that we plan to do something.
+
+Structural formula,
+Subject + shall/will+ verb (s/es) + object.
+
+Here, the modal verbs shall/will are used to indicate prediction and the verb V (s/es) in a simple form.
+
+Examples,
+
+    I shall/will go to school today.
+    She will play the guitar at a cultural festival.
+    They will finish their work by tomorrow morning.
+    You shall not break this window glass by your hands.
+
+More: Examples of Simple Future Tense
+3.2 Future Continuous Tense
+
+The future continuous tense is used to explain the ongoing action at a particular instant in the future or happen in the future.
+
+Structural formula:
+Subject + shall/will be + Verb (ing) + object.
+
+Here, “be” is added with the modal verbs shall/will in a sentence, and a verb V+ing is in the present participle form to indicate the continuous action in the future.
+
+Examples,
+
+    Randy Orton will be fighting tonight with Roman Reigns.
+    He will be writing the answers to all the questions in an examination.
+    She will be singing at tonight’s concert.
+    Malinga will be playing as a captain in this ICC cricket tournament.
+
+More: Examples of Future Continuous Tense
+3.3: Future Perfect Tense
+
+The future perfect tense is used to describe a future action that has a fixed date schedule.
+This is a verb form that expresses an event planned to happen at a particular instant of time in the future.
+
+Structural formula:
+Subject + shall/will + have + verb (3rd form) + object.
+
+Here, the helping verb “have” comes along with modal verbs shall/will and is connected with the main verb V(3rd form) in the past participle form shows the completion of the task.
+
+Examples,
+
+    I shall have played cricket in college.
+    She will have baked a cake for tomorrow’s event.
+    They will have arrived in New York for their concert.
+    I will have stopped looking at her when she comes near me.
+
+More: Examples of Future Perfect Tense
+3.4: Future Perfect Continuous Tense
+
+The future perfect continuous tense is used to explain certain activities and events that are continuing or happening and done after some expected time instant.
+
+Structural formula:
+Subject + shall/will + have been + verb (ing) + object (optional) + time instant.
+
+Here, the helping verb “have been” is used along with the modal verbs shall/will, and the main verb is in the present participle form V+ing.
+
+Examples,
+
+    You shall have been coming to our wedding ceremony.
+    I will have been waiting for this moment for so long.
+    They will have been watching movies on the laptop before he comes.
+    Where will you have been waiting for me before I reach?
+
+More: Examples of Future Perfect Continuous Tense
+You might also like
+past perfect continuous tense worksheet
+Past Perfect Continuous Tense Exercises with Answers
+December 27, 2021
+present-perfect-tense.
+20 Examples of Present Perfect Tense Sentences
+January 3, 2022
+Simple Future Tense Exercises with Answers
+December 27, 2021
+future-continuous-tense.png
+20 Examples of Present Continuous Tense Sentences
+January 6, 2022
+Future Perfect Tense: Definition, Examples, Formula & Rules
+February 23, 2021
+The Figure of Speech in English
+March 7, 2022
+Search
+
+    Adjectives
+    Adverbs
+    Animals
+    Conjunctions
+    Essay
+    Examples & Sentences
+    General
+    Grammar
+    Interjections
+    Mathematics
+    Modals
+    Multiplication Table
+    Nouns
+    Parts of Speech
+    Past Tense
+    phrases
+    Prepositions
+    Pronouns
+    Sentence
+    Synonyms
+    Tenses
+    Verbs
+    Vocabulary
+    Ways to say
+    Words
+
+DMCA.com Protection Status
+Copyright © 2023 OnlyMyEnglish
+
+Read more: https://onlymyenglish.com/tenses/
+
+
+
+
+
+
+
+
 
 
 
