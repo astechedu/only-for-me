@@ -1,12 +1,10 @@
 # Causative Verbs 
 
 
-
 [Home](all-files-links.md)
 
 
 [English Page](all-english-links.md)
-
 
 
 <img src="https://s3.amazonaws.com/media.llb.re/pub/notes/let_get_make_have.jpg" width="600">
@@ -23,8 +21,12 @@
 The English verbs let, make, have, get, and help are called causative verbs because they cause something else to happen.
 
 Here are some specific examples of how causative verbs work in English sentences.
+
 How to use causative verbs in English
-LET = permit something to happen
+
+
+
+##### LET = permit something to happen
 
 Grammatical structure:
 
@@ -45,7 +47,8 @@ Note: The verbs allow and permit are more formal ways to say “let.” How
     I don’t allow my kids to watch violent movies.
     Our boss doesn’t permit us to eat lunch at our desks.
 
-MAKE = force or require someone to take an action
+
+##### MAKE = force or require someone to take an action
 
 Grammatical structure:
 
@@ -64,7 +67,10 @@ Note: When using the verbs force and require, we must use to + verb.
     The hijacker forced the pilots to take the plane in a different direction.
     “Force” often implies violence, threats, or extremely strong pressure
 
-HAVE = give someone else the responsibility to do something
+
+
+
+##### HAVE = give someone else the responsibility to do something
 
 Grammatical structure:
 
@@ -90,7 +96,8 @@ Note: In informal speech, we often use get in these cases:
     Bob got his teeth whitened; his smile looks great!
     My washing machine is broken; I need to get it repaired.
 
-GET = convince/encourage someone to do something
+
+#### GET = convince/encourage someone to do something
 
 Grammatical structure:
 
@@ -103,7 +110,10 @@ Examples:
     I was nervous about eating sushi, but my brother got me to try it at a Japanese restaurant.
     The non-profit got a professional photographer to take photos at the event for free.
 
-HELP = assist someone in doing something
+
+
+
+##### HELP = assist someone in doing something
 
 Grammatical structure:
 
