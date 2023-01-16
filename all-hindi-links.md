@@ -11,7 +11,7 @@ Topics:
    [Hindi Grammar - हिन्दी व्याकरण](hindi-grammar.md)
    
    
-   [Hindi Parts Of Speech](#hindi-parts-of-speech.md)
+   [Hindi Parts Of Speech](hindi-parts-of-speech.md)
    
    [हव्याकरण]()
    
