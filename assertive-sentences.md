@@ -10,7 +10,8 @@
 <img src="https://s3mn.mnimgs.com/img/shared/content_ck_images/ck_5eef6c1c34886.png" width="600">
 
 
-Assertive Sentence
+
+# Assertive Sentence
 
 Assertive sentence states a truth or a proposition. Let us learn about the Assertive sentence, Assertive sentence meaning, and assertive sentence in this article. We will look at the examples of assertive sentences too.
 Table of Content
@@ -20,13 +21,14 @@ Table of Content
     Types of Assertive Sentences
 
 Every day, we utter tens of thousands of words to convey our thoughts, feelings, and actions, and each one has a specific purpose depending on its context. In this, you must have heard about assertive sentences too. But what exactly is an Assertive Sentence, and how is it defined? The term “Assertive Sentence” refers to a sentence stating a truth or a proposition without equivocation. This article will examine Assertive Sentences of both their affirmative and negative types.
+
 What is an Assertive Sentence?
 
 An assertive sentence is a declaration of the claim. The word “assertive” alone conveys the message of the statement. Facts, history, views, events, feelings, and beliefs are all covered in one statement. This is a popular statement in books, papers, and reports, but it may also be found in essays. With a full stop, a forceful statement is complete (.) Assertive sentences make up the majority of English sentences.
 
 Simple statements are used in declarative phrases. There is no limit to how long a declarative phrase may be. Even if the length of the words fluctuates, the subject and predicate are always present. In the chapter ‘The sentence,’ we already saw this.
 
-Check out: CBSE 12th Result 2022
+
 Assertive Sentence: Example
 
 Some instances of declarative phrases are shown below. Take a look at this:
@@ -52,6 +54,7 @@ Declarative phrases may be positive or negative, depending on how they are worde
 Affirmative Assertive Sentence
 
 We utilise an affirmative tone in the affirmative assertive phrase.
+
 Affirmative Assertive Sentences: Examples
 
 Here are some examples of assertive phrases that are positive and confident. Look at this-
