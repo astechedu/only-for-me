@@ -6,8 +6,7 @@
 [English Page](all-english-links.md)
 
 
-<img src="https://compenglish.com/wp-content/uploads/2021/10/parts-of-speech.webp" width="300" style="-webkit-border-radius: 150px 150px 150px 150px; -moz-border-radius: 150px 150px 150px 150px; border-radius: 150px 150px 150px 150px;
-">
+<img src="https://compenglish.com/wp-content/uploads/2021/10/parts-of-speech.webp" width="300" style="display:none;">
 
 
 
