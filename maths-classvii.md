@@ -1842,7 +1842,7 @@ Hence, 70 will be the decrease in the number.
 
 
 
-# Chapter 2 
+# Chapter 2  Rational Numbers
 
 
 
@@ -5513,6 +5513,27 @@ Karthik - Your Academic Assistant - Staging
 
 
 
+# Chapter 3 Fraction (Including Problems)
+
+
+
+
+
+# Chapter 4 Decimal Fractions (Decimals)
+
+
+
+
+
+# Chapter 5 Exponents (Including Laws of Exponents)
+
+
+
+
+
+# Chapter 6 Ratio and Proportion (Including Sharing in a Ratio)
+
+
 
 
 
@@ -7596,7 +7617,22 @@ So we get
 = 22
 
 
-#
+
+
+
+
+# Chapter 8 Percent and Percentage
+
+#  Chapter 9 Profit, Loss and Discount
+
+# Chapter 10 Simple Interest
+
+# Chapter 11 Fundamental Concepts (Including Fundamental Operations)
+
+# Chapter 12 Simple Linear Equations (Including Word Problems)
+
+# Chapter 13 Set ConceptsChapter 6 Ratio and Proportion (Including Sharing in a Ratio)
+
 
 
 
