@@ -16,15 +16,18 @@ Topics:
  
  [Fraction (Including Problems) Class vii](#unitary-method)
  
- [Fraction (Including Problems) ClassFraction (Including Problems) vii](#unitary-method)
+ [Chapter 4 Decimal Fractions (Decimals) vii](#unitary-method)
  
- [Exponents (Including Laws of Exponents) Class vii ](#unitary-method)
+ [Chapter 5 Exponents (Including Laws of Exponents)](#unitary-method)
  
- [6 Ratio and Proportion (Including Sharing in a Ratio) Class vii](#unitary-method)
+ [Chapter 6 Ratio and Proportion (Including Sharing in a Ratio) Class vii](#unitary-method)
  
- [Unitary Method Class vii ](#unitary-method)
- [Unitary Method Class vii ](#unitary-method)
- [Unitary Method Class vii ](#unitary-method)
+ [Chapter 7 Unitary Method (Including Time and Work) Class vii ](#unitary-method)
+ 
+ [Chapter 8 Percent and Percentage Class vii ](#unitary-method)
+ 
+ [Chapter 9 Profit, Loss and Discount](#unitary-method)
+ 
  [Unitary Method Class vii ](#unitary-method)
  [Unitary Method Class vii ](#unitary-method)
  [Unitary Method Class vii ](#unitary-method)
