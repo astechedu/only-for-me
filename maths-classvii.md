@@ -1,9 +1,14 @@
 # Maths Class VII 
 
 
+
+
+
+
+
 Topics: 
 
-   [Unitary Method Class vii ](#unitary-method)
+ [Unitary Method Class vii ](#unitary-method)
 
  [Integers Class vii ](#unitary-method)
  
