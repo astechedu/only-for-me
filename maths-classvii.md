@@ -22,38 +22,45 @@ Topics:
  
  [Chapter 6 Ratio and Proportion (Including Sharing in a Ratio) Class vii](#unitary-method)
  
- [Chapter 7 Unitary Method (Including Time and Work) Class vii ](#unitary-method)
+ [Chapter 7 Unitary Method (Including Time and Work) Class vii](#unitary-method)
  
- [Chapter 8 Percent and Percentage Class vii ](#unitary-method)
+ [Chapter 8 Percent and Percentage Class vii](#unitary-method)
  
  [Chapter 9 Profit, Loss and Discount](#unitary-method)
  
- [Unitary Method Class vii ](#unitary-method)
- [Unitary Method Class vii ](#unitary-method)
- [Unitary Method Class vii ](#unitary-method)
- [Unitary Method Class vii ](#unitary-method)
- [Unitary Method Class vii ](#unitary-method)
- [Unitary Method Class vii ](#unitary-method)
+ [Class 7 Chapter 10 Simple Interest ](#unitary-method)
+ 
+ [Chapter 11 Fundamental Concepts (Including Fundamental Operations)](#unitary-method)
+ 
+ [Chapter 12 Simple Linear Equations (Including Word Problems)](#unitary-method)
+ 
+ [Class 7 Chapter 13 Set Concepts](#unitary-method)
+ 
+ [Chapter 14 Lines and Angles (Including Construction of Angles)](#unitary-method)
+ 
+ [Chapter 15 Triangles](#unitary-method)
+  
+ [Chapter 16 Pythagoras Theorem](#unitary-method)
               
+ [Chapter 17 Symmetry (Including Reflection and Rotation)](#unitary-method)
+              
+ [Chapter 18 Recognition of Solids (Representing 3-D and 2-D)](#unitary-method)
+
+ [Chapter 19 Congruency: Congruent Triangles](#unitary-method)
+ 
+ [Class 7 Chapter 20 Mensuration (Perimeter and Area of Plane Figures)](#unitary-method)
+              
+ [Class 7 Chapter 21 Data Handling](#unitary-method)
+ 
+ [Class 7 Chapter 22 Probability](#unitary-method)
+              
+   
+              
+                 
      
-Selina Solutions Concise Maths for Class 7 Chapter 5 
-Selina Solutions Concise Maths for Class 7 Chapter 
-Selina Solutions Concise Maths for Class 7 Chapter 7 Unitary Method (Including Time and Work)
-Selina Solutions Concise Maths for Class 7 Chapter 8 Percent and Percentage
-Selina Solutions Concise Maths for Class 7 Chapter 9 Profit, Loss and Discount
-Selina Solutions Concise Maths for Class 7 Chapter 10 Simple Interest
-Selina Solutions Concise Maths for Class 7 Chapter 11 Fundamental Concepts (Including Fundamental Operations)
-Selina Solutions Concise Maths for Class 7 Chapter 12 Simple Linear Equations (Including Word Problems)
-Selina Solutions Concise Maths for Class 7 Chapter 13 Set Concepts
-Selina Solutions Concise Maths for Class 7 Chapter 14 Lines and Angles (Including Construction of Angles)
-Selina Solutions Concise Maths for Class 7 Chapter 15 Triangles
-Selina Solutions Concise Maths for Class 7 Chapter 16 Pythagoras Theorem
-Selina Solutions Concise Maths for Class 7 Chapter 17 Symmetry (Including Reflection and Rotation)
-Selina Solutions Concise Maths for Class 7 Chapter 18 Recognition of Solids (Representing 3-D and 2-D)
-Selina Solutions Concise Maths for Class 7 Chapter 19 Congruency: Congruent Triangles
-Selina Solutions Concise Maths for Class 7 Chapter 20 Mensuration (Perimeter and Area of Plane Figures)
-Selina Solutions Concise Maths for Class 7 Chapter 21 Data Handling
-Selina Solutions Concise Maths for Class 7 Chapter 22 Probability
+ 
+
+
 
 
 
