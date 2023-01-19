@@ -9,11 +9,11 @@
 Topics: 
 
 
- [Integers Class vii ](#integers)
+ [Chapter 1 Class vii ](#integers)
  
- [Rational Numbers Class vii ](#rational_numbers)
+ [Chapter 2 Numbers Class vii ](#rational_numbers)
  
- [Fraction (Including Problems) Class vii](#fraction)
+ [Chapter 3 Fraction (Including Problems) Class vii](#fraction)
  
  [Chapter 4 Decimal Fractions (Decimals) vii](#decimal_fractions)
  
@@ -47,11 +47,11 @@ Topics:
 
  [Chapter 19 Congruency: Congruent Triangles](#congruency)
  
- [Class 7 Chapter 20 Mensuration (Perimeter and Area of Plane Figures)](#mensuration)
+ [ Chapter 20 Mensuration (Perimeter and Area of Plane Figures)](#mensuration)
               
- [Class 7 Chapter 21 Data Handling](#data_handling)
+ [Chapter 21 Data Handling](#data_handling)
  
- [Class 7 Chapter 22 Probability](#probability)
+ [Chapter 22 Probability](#probability)
               
    
               
