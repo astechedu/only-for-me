@@ -10,49 +10,49 @@ Topics:
 
  [Unitary Method Class vii ](#unitary-method)
 
- [Integers Class vii ](#unitary-method)
+ [Integers Class vii ](#integers)
  
- [Rational Numbers Class vii ](#unitary-method)
+ [Rational Numbers Class vii ](#rational_numbers)
  
- [Fraction (Including Problems) Class vii](#unitary-method)
+ [Fraction (Including Problems) Class vii](#fraction)
  
- [Chapter 4 Decimal Fractions (Decimals) vii](#unitary-method)
+ [Chapter 4 Decimal Fractions (Decimals) vii](#decimal_fractions)
  
- [Chapter 5 Exponents (Including Laws of Exponents)](#unitary-method)
+ [Chapter 5 Exponents (Including Laws of Exponents)](#exponents)
  
- [Chapter 6 Ratio and Proportion (Including Sharing in a Ratio) Class vii](#unitary-method)
+ [Chapter 6 Ratio and Proportion (Including Sharing in a Ratio) Class vii](#ratio_proportion)
  
- [Chapter 7 Unitary Method (Including Time and Work) Class vii](#unitary-method)
+ [Chapter 7 Unitary Method (Including Time and Work) Class vii](#unitary_method)
  
- [Chapter 8 Percent and Percentage Class vii](#unitary-method)
+ [Chapter 8 Percent and Percentage Class vii](#percent_percentage)
  
- [Chapter 9 Profit, Loss and Discount](#unitary-method)
+ [Chapter 9 Profit, Loss and Discount](#profit_and_loss)
  
- [Class 7 Chapter 10 Simple Interest ](#unitary-method)
+ [Class 7 Chapter 10 Simple Interest ](#simple_interest)
  
- [Chapter 11 Fundamental Concepts (Including Fundamental Operations)](#unitary-method)
+ [Chapter 11 Fundamental Concepts (Including Fundamental Operations)](#fundamental_concepts)
  
- [Chapter 12 Simple Linear Equations (Including Word Problems)](#unitary-method)
+ [Chapter 12 Simple Linear Equations (Including Word Problems)](#simple_linear_equation)
  
- [Class 7 Chapter 13 Set Concepts](#unitary-method)
+ [Class 7 Chapter 13 Set Concepts](#set_concept)
  
- [Chapter 14 Lines and Angles (Including Construction of Angles)](#unitary-method)
+ [Chapter 14 Lines and Angles (Including Construction of Angles)](#lines_and_angles)
  
- [Chapter 15 Triangles](#unitary-method)
+ [Chapter 15 Triangles](#triangles)
   
- [Chapter 16 Pythagoras Theorem](#unitary-method)
+ [Chapter 16 Pythagoras Theorem](#pythagoras_theorem)
               
- [Chapter 17 Symmetry (Including Reflection and Rotation)](#unitary-method)
+ [Chapter 17 Symmetry (Including Reflection and Rotation)](#symmetry)
               
- [Chapter 18 Recognition of Solids (Representing 3-D and 2-D)](#unitary-method)
+ [Chapter 18 Recognition of Solids (Representing 3-D and 2-D)](#recognition_of_solids)
 
- [Chapter 19 Congruency: Congruent Triangles](#unitary-method)
+ [Chapter 19 Congruency: Congruent Triangles](#congruency)
  
- [Class 7 Chapter 20 Mensuration (Perimeter and Area of Plane Figures)](#unitary-method)
+ [Class 7 Chapter 20 Mensuration (Perimeter and Area of Plane Figures)](#mensuration)
               
- [Class 7 Chapter 21 Data Handling](#unitary-method)
+ [Class 7 Chapter 21 Data Handling](#data_handling)
  
- [Class 7 Chapter 22 Probability](#unitary-method)
+ [Class 7 Chapter 22 Probability](#probability)
               
    
               
