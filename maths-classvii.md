@@ -1,14 +1,13 @@
 # Maths Class VII 
 
 
-
-
+[Home](maths_main_page)
+<a name="top"></a>
 
 
 
 Topics: 
 
- [Unitary Method Class vii ](#unitary-method)
 
  [Integers Class vii ](#integers)
  
@@ -68,6 +67,10 @@ Topics:
 
 
 
+
+
+[Go To Top](#top)
+<a name="integers"></a>
 # Chapter 1 Integers
 
 byjus.com
@@ -1849,6 +1852,9 @@ Hence, 70 will be the decrease in the number.
 
 
 
+
+[Go To Top](#top)
+<a name="rational_numbers"></a>
 # Chapter 2  Rational Numbers
 
 
@@ -5532,13 +5538,22 @@ Karthik - Your Academic Assistant - Staging
 
 
 
+
+
+
+[Go To Top](#top)
+<a name="exponents"></a>
 # Chapter 5 Exponents (Including Laws of Exponents)
 
 
 
 
-
+[Go To Top](#top)
+<a name="ratio_and_proportion"></a>
 # Chapter 6 Ratio and Proportion (Including Sharing in a Ratio)
+
+
+
 
 
 
@@ -5549,6 +5564,10 @@ Karthik - Your Academic Assistant - Staging
 <a name="unitary-method"></a>
 <img src="https://cdn1.byjus.com/wp-content/uploads/2020/04/selina-sol-concise-maths-class-7-ch7-ex-7c-3.jpg" width="600">
     
+    
+    
+[Go To Top](#top)
+<a name="unitary_method"></a>    
 # Chapter 7 Unitary Method Class vii 
 
 Access Selina Solutions Concise Maths Class 7 Chapter 7: Unitary Method (Including Time and Work)
@@ -6235,7 +6254,9 @@ Hence, C can finish the work in 24 days.
 
 
 
-# Chpter 5
+[Go To Top](#top)
+<a name="exponents"></a>
+# Chpter 5 Exponents
 
 Access Selina Solutions Concise Maths Class 7 Chapter 5: Exponents (Including Laws of Exponents)
 Exercise 5A page: 73
@@ -7627,17 +7648,51 @@ So we get
 
 
 
-
+[Go To Top](#top)
+<a name="percent_and_percentage"></a>
 # Chapter 8 Percent and Percentage
 
+
+
+
+
+
+
+[Go To Top](#top)
+<a name="profit_and_loss"></a>
 #  Chapter 9 Profit, Loss and Discount
 
+
+
+
+
+
+[Go To Top](#top)
+<a name="simple_interest"></a>
 # Chapter 10 Simple Interest
 
+
+
+
+
+[Go To Top](#top)
+<a name="fundamental_concepts"></a>
 # Chapter 11 Fundamental Concepts (Including Fundamental Operations)
 
+
+
+
+
+[Go To Top](#top)
+<a name="simple_linear_equation"></a>
 # Chapter 12 Simple Linear Equations (Including Word Problems)
 
+
+
+
+
+[Go To Top](#top)
+<a name="ratio_and-proportion"></a>
 # Chapter 13 Set ConceptsChapter 6 Ratio and Proportion (Including Sharing in a Ratio)
 
 
