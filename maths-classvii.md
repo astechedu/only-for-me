@@ -12608,9 +12608,4020 @@ Your Mobile number and Email id will not be published. Required fields are marke
 *
 
 
+Class 7 Chapter 14: Lines and Angles (Including Construction of Angles)
+Exercise 14A page: 162
+
+1. State, true or false:
+
+(i) A line segment 4 cm long can have only 2000 points in it.
+(ii) A ray has one end point and a line segment has two end-points.
+(iii) A line segment is the shortest distance between any two given points.
+(iv) An infinite number of straight lines can be drawn through a given point.
+(v) Write the number of end points in
+(a) a line segment AB (b) a ray AB (c) a line AB
+(vi) Out of  Selina Solutions Concise Maths Class 7 Chapter 14 Image 1 which one has a fixed length?
+(vii) How many rays can be drawn through a fixed point O?
+(viii) How many lines can be drawn through three
+(a) collinear points?
+(b) non-collinear points?
+(ix) Is 40° the complement of 60°?
+(x) Is 45° the supplement of 45°?
+
+Solution:
+
+(i) False.
+
+It contains infinite number of points.
+
+(ii) True.
+
+(iii) True.
+
+(iv) True.
+
+(v) (a) 2 (b) 1 (c) 0
+
+(vi) Selina Solutions Concise Maths Class 7 Chapter 14 Image 1ahas fixed length.
+
+(vii) Infinite rays can be drawn through a fixed point O.
+
+(viii) (a) 1 line can be drawn through three collinear points.
+
+(b) 3 lines can be drawn through three non-collinear points.
+
+(ix) False.
+
+40o is the complement of 50o as 40o + 50o = 90o
+
+(x) False.
+
+45o is the supplement of 135o not 45o.
+
+2. In which of the following figures, are ∠AOB and ∠AOC adjacent angles? Give, in each case, reason for your answer.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 2
+
+Solution:
+
+If ∠AOB and ∠AOC are adjacent angle, they have OA as their common arm.
+
+(i) From the figure
+
+OB is the common arm
+
+∠AOB and ∠AOC are not adjacent angles.
+
+(ii) From the figure
+
+OC is the common arm
+
+∠AOB and ∠AOC are not adjacent angles.
+
+(iii) From the figure
+
+OA is the common arm
+
+∠AOB and ∠AOC are adjacent angles.
+
+(iv) From the figure
+
+OB is the common arm
+
+∠AOB and ∠AOC are not adjacent angles.
+
+3. In the given figure, AOC is a straight line.
+Find: (i) x (ii) ∠AOB (iii) ∠BOC
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 3
+
+Solution:
+
+We know that
+
+∠AOB and ∠COB are linear pairs
+
+It can be written as
+
+∠AOB + ∠COB = 180o
+
+Substituting the values
+
+x + 25o + 3x + 15o = 180o
+
+By further calculation
+
+4x + 40o = 180o
+
+So we get
+
+4x = 180 – 40 = 140o
+
+(i) x = 140/4 = 35o
+
+(ii) ∠AOB = x + 25
+
+Substituting the value of x
+
+∠AOB = 25 + 35 = 60o
+
+(iii) ∠BOC = 3x + 15o
+
+Substituting the value of x
+
+∠BOC = (3 × 35) + 15
+
+∠BOC = 120o
+
+4. Find y in the given figure.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 4
+
+Solution:
+
+Here AOC is a straight line
+
+We can write it as
+
+∠AOB + ∠BOD + ∠DOC = 180o
+
+Substituting the values
+
+y + 150 – x + x = 180
+
+By further calculation
+
+y + 150 = 180
+
+So we get
+
+y = 180 – 150 = 30o
+
+5. In the given figure, find ∠PQR.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 5
+
+Solution:
+
+Here SQR is a straight line
+
+We can write it as
+
+∠SQT + ∠TQP + ∠PQR = 180o
+
+Substituting the values
+
+x + 70 + 20 – x + ∠PQR = 180o
+
+By further calculation
+
+90o + ∠PQR = 180o
+
+So we get
+
+∠PQR = 180o – 90o = 90o
+
+6. In the given figure, po = qo = ro, find each.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 6
+
+Solution:
+
+We know that
+
+po + qo + ro = 180o is a straight angle
+
+It is given that
+
+po = qo = ro
+
+We can write it as
+
+po + po + po = 180o
+
+3p = 180
+
+p = 180/3 = 60o
+
+Therefore, po = qo = ro = 60o
+
+7. In the given figure, if x = 2y, find x and y.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 7
+
+Solution:
+
+It is given that
+
+x = 2y
+
+For a straight angle
+
+xo + yo = 180o
+
+Substituting the values
+
+2y + y = 180
+
+By further calculation
+
+3y = 180
+
+y = 180/3 = 60o
+
+x = 2y = 2 × 60o = 120o
+
+8. In the adjoining figure, if bo = ao + co, find b.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 8
+
+Solution:
+
+It is given that
+
+bo = ao + co
+
+For a straight angle
+
+ao + bo + co = 180o
+
+Substituting the values
+
+bo + bo = 180o
+
+2bo = 180o
+
+bo = 180/2 = 90o
+
+9. In the given figure, AB is perpendicular to BC at B.
+Find : (i) the value of x.
+(ii) the complement of angle x.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 9
+
+Solution:
+
+(i) From the figure
+
+AB || BC at B
+
+Here ∠ABC = 90o
+
+Substituting the values
+
+x + 20 + 2x + 1 + 7x – 11 = 90
+
+By further calculation
+
+10x + 10 = 90
+
+10x = 90 – 10 = 80
+
+x = 80/10 = 8o
+
+(ii) The complement of angle x = 90 – x
+
+So we get
+
+= 90 – 8 = 82o
+
+10. Write the complement of:
+
+(i) 25o
+
+(ii) 90o
+
+(iii) ao
+
+(iv) (x + 5)o
+
+(v) (30 – a)o
+
+(vi) ½ of a right angle
+
+(vii) 1/3 of 180o
+
+(viii) 21o 17’
+
+Solution:
+
+(i) The complement of 25o = 90o – 25o = 65o
+
+(ii) The complement of 90o = 90o – 90o = 0
+
+(iii) The complement of ao = 90o – ao
+
+(iv) The complement of (x + 5)o = 90o – (x + 5)o
+
+By further calculation
+
+= 90o – x – 5o
+
+= 85o – x
+
+(v) The complement of (30 – a)o = 90o – (30 – a)o
+
+By further calculation
+
+= 90o – 30o + ao
+
+= 60o + ao
+
+(vi) The complement of ½ of a right angle = 90o – ½ of a right angle
+
+So we get
+
+= 90o – ½ × 90o
+
+= 90o – 45o
+
+= 45o
+
+(vii) The complement of 1/3 of 180o = 90o – 1/3 of 180o
+
+By further calculation
+
+= 90o – 60o
+
+= 30o
+
+(viii) The complement of 21o 17’ = 90o – 21o 17’
+
+So we get
+
+= 68o 43’
+
+11. Write the supplement of:
+
+(i) 100°
+(ii) 0°
+(iii) x°
+(iv) (x + 35)°
+(v) (90 +a + b)°
+(vi) (110 – x – 2y)°
+(vii) 1/5 of a right angle
+(viii) 80° 49′ 25″
+
+Solution:
+
+(i) The supplement of 100° = 180 – 100 = 800
+
+(ii) The supplement of 0° = 180 – 0 = 180o
+
+(iii) The supplement of x° = 1800 – x0
+
+(iv) The supplement of (x + 35)° = 1800 – (x + 35)0
+
+We can write it as
+
+= 180 – x – 35
+
+= 1450 – x0
+
+(v) The supplement of (90 + a + b)° = 1800 – (90 + a + b)0
+
+We can write it as
+
+= 180 – 90 – a – b
+
+So we get
+
+= 900 – a0 – b0
+
+= (90 – a – b)0
+
+(vi) The supplement of (110 – x – 2y)° = 1800 – (110 – x – 2y)°
+
+We can write it as
+
+= 180 – 110 + x + 2y
+
+= 700 + x0 + 2y0
+
+(vii) The supplement of 1/5 of a right angle = 1800 – 1/5 of a right angle
+
+We can write it as
+
+= 1800 – 1/5 × 900
+
+So we get
+
+= 1800 – 180
+
+= 1620
+
+(viii) The supplement of 80° 49′ 25″ = 1800 – 80° 49′ 25″
+
+We know that 10 = 60’ and 1’ = 60”
+
+So we get
+
+= 990 10’ 35”
+
+12. Are the following pairs of angles complementary?
+
+(i) 10° and 80°
+(ii) 37° 28′ and 52° 33′
+(iii) (x+ 16)°and (74 – x)°
+(iv) 54° and 2/5 of a right angle.
+
+Solution:
+
+(i) 10° and 80°
+
+Yes, they are complementary angles as their sum = 100 + 800 = 900
+
+(ii) 37° 28′ and 52° 33′
+
+No, they are not complementary angles as their sum is not equal to 900
+
+37° 28′ + 52° 33′ = 9001’
+
+(iii) (x+ 16)° and (74 – x)°
+
+Yes, they are complementary angles as their sum = x + 16 + 74 – x = 900
+
+(iv) 54° and 2/5 of a right angle
+
+We can write it as
+
+= 540 and 2/5 × 900
+
+= 540 and 360
+
+Yes, they are complementary angles as their sum = 54 + 36 = 900
+
+13. Are the following pairs of angles supplementary?
+
+(i) 139o and 39o
+
+(ii) 26o59’ and 153o1’
+
+(iii) 3/10 of a right angle and 4/15 of two right angles
+
+(iv) 2xo + 65o and 115o – 2xo
+
+Solution:
+
+(i) 139o and 39o
+
+No, they are not supplementary angles as their sum is not equal to 1800
+
+1390 + 390 = 1780
+
+(ii) 26o59’ and 153o1’
+
+Yes, they are supplementary angles as their sum = 26o59’ + 153o1’ = 1800
+
+(iii) 3/10 of a right angle and 4/15 of two right angles
+
+We can write it as
+
+= 3/10 of 900 and 4/15 of 1800
+
+= 270 and 480
+
+No, they are not supplementary angles as their sum is not equal to 1800
+
+270 + 480 = 750
+
+(iv) 2xo + 65o and 115o – 2xo
+
+Yes they are supplementary angles as their sum = 2x + 65 + 115 – 2x = 1800
+
+14. If 3x + 18° and 2x + 25° are supplementary, find the value of x.
+
+Solution:
+
+It is given that 3x + 18° and 2x + 25° are supplementary
+
+We can write it as
+
+3x + 18° + 2x + 25° = 1800
+
+By further calculation
+
+5x + 430 = 1800
+
+So we get
+
+5x = 180 – 43 = 1370
+
+x = 137/5 = 27.40 or 270 24’
+
+15. If two complementary angles are in the ratio 1:5, find them.
+
+Solution:
+
+It is given that two complementary angles are in the ratio 1:5
+
+Consider x and 5x as the angles
+
+We can write it as
+
+x + 5x = 900
+
+6x = 900
+
+So we get
+
+x = 90/6 = 150
+
+Here the angles will be 150 and 15 × 5 = 750
+Exercise 14B page: 166
+
+1. In questions 1 and 2, given below, identify the given pairs of angles as corresponding angles, interior alternate angles, exterior alternate angles, adjacent angles, vertically opposite angles or allied angles:
+
+(i) ∠3 and ∠6
+(ii) ∠2 and ∠4
+(iii) ∠3 and ∠7
+(iv) ∠2 and ∠7
+(v) ∠4 and∠6
+(vi) ∠1 and ∠8
+(vii) ∠1 and ∠5
+(viii) ∠1 and ∠4
+(ix) ∠5 and ∠7
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 10
+
+Solution:
+
+(i) ∠3 and ∠6 are interior alternate angles.
+
+(ii) ∠2 and ∠4 are adjacent angles.
+
+(iii) ∠3 and ∠7 are corresponding angles.
+
+(iv) ∠2 and ∠7 are exterior alternate angles.
+
+(v) ∠4 and∠6 are allied or co-interior angles.
+
+(vi) ∠1 and ∠8 are exterior alternate angles.
+
+(vii) ∠1 and ∠5 are corresponding angles.
+
+(viii) ∠1 and ∠4 are vertically opposite angles.
+
+(ix) ∠5 and ∠7 are adjacent angles.
+
+2. (i) ∠1 and ∠4
+(ii) ∠4 and ∠7
+(iii) ∠10 and ∠12
+(iv) ∠7 and ∠13
+(v) ∠6 and ∠8
+(vi) ∠11 and ∠8
+(vii) ∠7 and ∠9
+(viii) ∠4 and ∠5
+(ix) ∠4 and ∠6
+(x) ∠6 and ∠7
+(xi) ∠2 and ∠13
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 11
+
+Solution:
+
+(i) ∠1 and ∠4 are vertically opposite angles.
+
+(ii) ∠4 and ∠7 are interior alternate angles.
+
+(iii) ∠10 and ∠12 are vertically opposite angles.
+
+(iv) ∠7 and ∠13 are corresponding angles.
+
+(v) ∠6 and ∠8 are vertically opposite angles.
+
+(vi) ∠11 and ∠8 are allied or co-interior angles.
+
+(vii) ∠7 and ∠9 are vertically opposite angles.
+
+(viii) ∠4 and ∠5 are adjacent angles.
+
+(ix) ∠4 and ∠6 are allied or co-interior angles.
+
+(x) ∠6 and ∠7 are adjacent angles.
+
+(xi) ∠2 and ∠13 are allied or co-interior angles.
+
+3. In the following figures, the arrows indicate parallel lines. State which angles are equal. Give reasons.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 12
+
+Solution:
+
+(i) From the figure (i)
+
+a = b are corresponding angles
+
+b = c are vertically opposite angles
+
+a = c are alternate angles
+
+So we get
+
+a = b = c
+
+(ii) From the figure (ii)
+
+x = y are vertically opposite angles
+
+y = l are alternate angles
+
+x = l are corresponding angles
+
+1 = n are vertically opposite angles
+
+n = r are corresponding angles
+
+So we get
+
+x = y = l = n = r
+
+Similarly
+
+m = k are vertically opposite angles
+
+k = q are corresponding angles
+
+Hence, m = k = q.
+
+4. In the given figure, find the measure of the unknown angles:
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 13
+
+Solution:
+
+From the figure
+
+a = d are vertically opposite angles
+
+d = f are corresponding angles
+
+f = 1100 are vertically opposite angles
+
+So we get
+
+a = d = f = 1100
+
+We know that
+
+e + 1100 = 1800 are linear pair of angles
+
+e = 180 – 110 = 700
+
+b = c are vertically opposite angles
+
+b = e are corresponding angles
+
+e = g are vertically opposite angles
+
+So we get
+
+b = c = e = g = 700
+
+Therefore, a = 1100, b = 700, c = 700, d = 1100, e = 700, f = 1100 and g = 700.
+
+5. Which pair of the dotted line, segments, in the following figures, are parallel. Give reason:
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 14
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 15
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 16
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 17
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 18
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 19
+
+Solution:
+
+(i) From the figure (i)
+
+If the lines are parallel we get 1200 + 500 = 1800
+
+There are co-interior angles where 1700 ≠ 1800
+
+Therefore, they are not parallel lines.
+
+(ii) From the figure (ii)
+
+∠1 = 450 are vertically opposite angles
+
+We know that the lines are parallel if
+
+∠1 + 1350 = 1800 are co-interior angles
+
+Substituting the values
+
+450 + 1350 = 1800
+
+1800 = 1800 which is true
+
+Therefore, the lines are parallel.
+
+(iii) From the figure (iii)
+
+The lines are parallel if corresponding angles are equal
+
+Here 1200 ≠ 1300
+
+Hence, lines are not parallel.
+
+(iv) ∠1 = 1100 are vertically opposite angles
+
+We know that if lines are parallel
+
+∠1 + 700 = 1800 are co-interior angles
+
+Substituting the values
+
+1100 + 700 = 1800
+
+1800 = 1800 which is correct
+
+Therefore, the lines are parallel.
+
+(v) ∠1 + 1000 = 1800
+
+So we get
+
+∠1 = 1800 – 1000 = 800 which is a linear pair
+Here the lines l1 and l2 are parallel if ∠1 = 700
+But here ∠1 = 800 which is not equal to 700
+So the lines l1 and l2 are not parallel
+Now, l3 and l5 will be parallel if corresponding angles are equal
+But here, the corresponding angles 800 ≠ 700
+Hence, l3 and l5 are not parallel.
+We know that, in l2 and l4
+∠1 = 800 are alternate angles
+800 = 800 which is true
+Hence, l2 and l4 are parallel.
+
+(vi) Two lines are parallel if alternate angles are equal
+
+Here, 500 ≠ 400 which is not true
+
+Hence, the lines are not parallel.
+
+6. In the given figures, the directed lines are parallel to each other. Find the unknown angles.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 20
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 21
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 22
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 23
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 24
+
+Solution:
+
+(i) If the lines are parallel
+
+a = b are corresponding angles
+
+a = c are vertically opposite angles
+
+a = b = c
+
+Here b = 600 are vertically opposite angles
+
+Therefore, a = b = c = 600
+
+(ii) If the lines are parallel
+
+x = z are corresponding angles
+
+z + y = 1800 is a linear pair
+
+y = 550 are vertically opposite angles
+
+Substituting the values
+
+z + 550 = 1800
+
+z = 180 – 55 = 1250
+
+If x = z we get x = 1250
+
+Therefore, x = 1250, y = 550 and z = 1250.
+
+(iii) If the lines are parallel
+
+c = 1200 (corresponding angles)
+
+a + 1200 = 1800 are co-interior angles
+
+a = 180 – 120 = 600
+
+We know that a = b are vertically opposite angles
+
+So b = 600
+
+Therefore, a = b = 600 and c = 1200.
+
+(iv) If the lines are parallel
+
+x = 500 are alternate angles
+
+y + 1200 = 1800 are co-interior angles
+
+y = 180 – 120 = 600
+
+We know that
+
+x + y + z = 3600 are angles at a point
+
+Substituting the values
+
+50 + 60 + z = 360
+
+By further calculation
+
+110 + z = 360
+
+z = 360 – 110 = 2500
+
+Therefore, x = 500, y = 600 and z = 2500.
+
+(v) If the lines are parallel
+
+x + 900 = 1800 are co-interior angles
+
+x = 1800 – 900 = 900
+
+∠2 = x
+
+∠2 = 900
+
+We know that the sum of angles of a triangle
+
+∠1 + ∠2 + 300 = 1800
+
+Substituting the values
+
+∠1 + 900 + 300 = 1800
+
+By further calculation
+
+∠1 + 1200 = 1800
+
+∠1 = 180 – 120 = 600
+
+Here ∠1 = k are vertically opposite angles
+
+k = 600
+
+Here ∠1 = z are corresponding angles
+
+z = 600
+
+Here k + y = 1800 are co-interior angles
+
+Substituting the values
+
+600 + y = 1800
+
+y = 180 – 60 = 1200
+
+Therefore, x = 900, y = 1200, z = 600, k = 600.
+
+7. Find x, y and p is the given figures:
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 25
+
+Solution:
+
+(i) From the figure (i)
+
+The lines are parallel
+
+x = z are corresponding angles
+
+y = 400 are corresponding angles
+
+We know that
+
+x + 400 + 2700 = 3600 are the angles at a point
+
+So we get
+
+x + 3100 = 3600
+
+x = 360 – 310 = 500
+
+So z = x = 500
+
+Here p + z = 1800 is a linear pair
+
+By substituting the values
+
+p + 500 = 1800
+
+p = 180 – 50 = 1300
+
+Therefore, x = 500, y = 400, z = 500 and p = 1300.
+
+(ii) From the figure (ii)
+
+The lines are parallel
+
+y = 1100 are corresponding angles
+
+We know that
+
+250 + p + 1100 = 1800 are angles on a line
+
+p + 1350 = 1800
+
+p = 180 – 135 = 450
+
+We know that the sum of angles of a triangle
+
+x + y + 250 = 1800
+
+x + 1100 + 250 = 1800
+
+By further calculation
+
+x + 1350 = 1800
+
+x = 180 – 135 = 450
+
+Therefore, x = 450, y = 1100 and p = 450.
+
+8. Find x in the following cases:
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 26
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 27
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 28
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 29
+
+Solution:
+
+(i) From the figure (i)
+
+The lines are parallel
+
+2x + x = 1800 are co-interior angles
+
+3x = 1800
+
+x = 180/3 = 600
+
+(ii) From the figure (ii)
+
+The lines are parallel
+
+4x + ∠1 = 1800 are co-interior angles
+
+∠1 = 5x are vertically opposite angles
+
+Substituting the values
+
+4x + 5x = 1800
+
+So we get
+
+9x = 1800
+
+x = 180/9 = 200
+
+(iii) From the figure (iii)
+
+The lines are parallel
+
+∠1 + 4x = 1800 are co-interior angles
+
+∠1 = x are vertically opposite angles
+
+Substituting the values
+
+x + 4x = 1800
+
+5x = 1800
+
+So we get
+
+x = 180/5 = 360
+
+(iv) From the figure (iv)
+
+The lines are parallel
+
+2x + 5 + 3x + 55 = 1800 are co-interior angles
+
+5x + 600 = 1800
+
+By further calculation
+
+5x = 180 – 60 = 1200
+
+So we get
+
+x = 120/5 = 240
+
+(v) From the figure (v)
+
+The lines are parallel
+
+∠1 = 2x + 200 are alternate angles
+
+∠1 + 3x + 250 = 1800 is a linear pair
+
+Substituting the values
+
+2x + 200 + 3x + 250 = 1800
+
+5x + 450 = 1800
+
+So we get
+
+5x = 180 – 45 = 1350
+
+x = 135/5 = 270
+
+(vi) From the figure (vi)
+
+Construct a line parallel to the given parallel lines
+
+∠1 = 4x and ∠2 = 6x are corresponding angles
+
+∠1 + ∠2 = 1300
+
+Substituting the values
+
+4x + 6x = 1300
+
+10x = 1300
+
+So we get
+
+x = 130
+
+e + 1100 = 1800 are linear pair of angles
+
+e = 180 – 110 = 700
+
+b = c are vertically opposite angles
+
+b = e are corresponding angles
+
+e = g are vertically opposite angles
+
+So we get
+
+b = c = e = g = 700
+
+Therefore, a = 1100, b = 700, c = 700, d = 1100, e = 700, f = 1100 and g = 700.
+
+5. Which pair of the dotted line, segments, in the following figures, are parallel. Give reason:
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 14
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 15
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 16
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 17
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 18
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 19
+
+Solution:
+
+(i) From the figure (i)
+
+If the lines are parallel we get 1200 + 500 = 1800
+
+There are co-interior angles where 1700 ≠ 1800
+
+Therefore, they are not parallel lines.
+
+(ii) From the figure (ii)
+
+∠1 = 450 are vertically opposite angles
+
+We know that the lines are parallel if
+
+∠1 + 1350 = 1800 are co-interior angles
+
+Substituting the values
+
+450 + 1350 = 1800
+
+1800 = 1800 which is true
+
+Therefore, the lines are parallel.
+
+(iii) From the figure (iii)
+
+The lines are parallel if corresponding angles are equal
+
+Here 1200 ≠ 1300
+
+Hence, lines are not parallel.
+
+(iv) ∠1 = 1100 are vertically opposite angles
+
+We know that if lines are parallel
+
+∠1 + 700 = 1800 are co-interior angles
+
+Substituting the values
+
+1100 + 700 = 1800
+
+1800 = 1800 which is correct
+
+Therefore, the lines are parallel.
+
+(v) ∠1 + 1000 = 1800
+
+So we get
+
+∠1 = 1800 – 1000 = 800 which is a linear pair
+Here the lines l1 and l2 are parallel if ∠1 = 700
+But here ∠1 = 800 which is not equal to 700
+So the lines l1 and l2 are not parallel
+Now, l3 and l5 will be parallel if corresponding angles are equal
+But here, the corresponding angles 800 ≠ 700
+Hence, l3 and l5 are not parallel.
+We know that, in l2 and l4
+∠1 = 800 are alternate angles
+800 = 800 which is true
+Hence, l2 and l4 are parallel.
+
+(vi) Two lines are parallel if alternate angles are equal
+
+Here, 500 ≠ 400 which is not true
+
+Hence, the lines are not parallel.
+
+6. In the given figures, the directed lines are parallel to each other. Find the unknown angles.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 20
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 21
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 22
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 23
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 24
+
+Solution:
+
+(i) If the lines are parallel
+
+a = b are corresponding angles
+
+a = c are vertically opposite angles
+
+a = b = c
+
+Here b = 600 are vertically opposite angles
+
+Therefore, a = b = c = 600
+
+(ii) If the lines are parallel
+
+x = z are corresponding angles
+
+z + y = 1800 is a linear pair
+
+y = 550 are vertically opposite angles
+
+Substituting the values
+
+z + 550 = 1800
+
+z = 180 – 55 = 1250
+
+If x = z we get x = 1250
+
+Therefore, x = 1250, y = 550 and z = 1250.
+
+(iii) If the lines are parallel
+
+c = 1200 (corresponding angles)
+
+a + 1200 = 1800 are co-interior angles
+
+a = 180 – 120 = 600
+
+We know that a = b are vertically opposite angles
+
+So b = 600
+
+Therefore, a = b = 600 and c = 1200.
+
+(iv) If the lines are parallel
+
+x = 500 are alternate angles
+
+y + 1200 = 1800 are co-interior angles
+
+y = 180 – 120 = 600
+
+We know that
+
+x + y + z = 3600 are angles at a point
+
+Substituting the values
+
+50 + 60 + z = 360
+
+By further calculation
+
+110 + z = 360
+
+z = 360 – 110 = 2500
+
+Therefore, x = 500, y = 600 and z = 2500.
+
+(v) If the lines are parallel
+
+x + 900 = 1800 are co-interior angles
+
+x = 1800 – 900 = 900
+
+∠2 = x
+
+∠2 = 900
+
+We know that the sum of angles of a triangle
+
+∠1 + ∠2 + 300 = 1800
+
+Substituting the values
+
+∠1 + 900 + 300 = 1800
+
+By further calculation
+
+∠1 + 1200 = 1800
+
+∠1 = 180 – 120 = 600
+
+Here ∠1 = k are vertically opposite angles
+
+k = 600
+
+Here ∠1 = z are corresponding angles
+
+z = 600
+
+Here k + y = 1800 are co-interior angles
+
+Substituting the values
+
+600 + y = 1800
+
+y = 180 – 60 = 1200
+
+Therefore, x = 900, y = 1200, z = 600, k = 600.
+
+7. Find x, y and p is the given figures:
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 25
+
+Solution:
+
+(i) From the figure (i)
+
+The lines are parallel
+
+x = z are corresponding angles
+
+y = 400 are corresponding angles
+
+We know that
+
+x + 400 + 2700 = 3600 are the angles at a point
+
+So we get
+
+x + 3100 = 3600
+
+x = 360 – 310 = 500
+
+So z = x = 500
+
+Here p + z = 1800 is a linear pair
+
+By substituting the values
+
+p + 500 = 1800
+
+p = 180 – 50 = 1300
+
+Therefore, x = 500, y = 400, z = 500 and p = 1300.
+
+(ii) From the figure (ii)
+
+The lines are parallel
+
+y = 1100 are corresponding angles
+
+We know that
+
+250 + p + 1100 = 1800 are angles on a line
+
+p + 1350 = 1800
+
+p = 180 – 135 = 450
+
+We know that the sum of angles of a triangle
+
+x + y + 250 = 1800
+
+x + 1100 + 250 = 1800
+
+By further calculation
+
+x + 1350 = 1800
+
+x = 180 – 135 = 450
+
+Therefore, x = 450, y = 1100 and p = 450.
+
+8. Find x in the following cases:
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 26
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 27
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 28
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 29
+
+Solution:
+
+(i) From the figure (i)
+
+The lines are parallel
+
+2x + x = 1800 are co-interior angles
+
+3x = 1800
+
+x = 180/3 = 600
+
+(ii) From the figure (ii)
+
+The lines are parallel
+
+4x + ∠1 = 1800 are co-interior angles
+
+∠1 = 5x are vertically opposite angles
+
+Substituting the values
+
+4x + 5x = 1800
+
+So we get
+
+9x = 1800
+
+x = 180/9 = 200
+
+(iii) From the figure (iii)
+
+The lines are parallel
+
+∠1 + 4x = 1800 are co-interior angles
+
+∠1 = x are vertically opposite angles
+
+Substituting the values
+
+x + 4x = 1800
+
+5x = 1800
+
+So we get
+
+x = 180/5 = 360
+
+(iv) From the figure (iv)
+
+The lines are parallel
+
+2x + 5 + 3x + 55 = 1800 are co-interior angles
+
+5x + 600 = 1800
+
+By further calculation
+
+5x = 180 – 60 = 1200
+
+So we get
+
+x = 120/5 = 240
+
+(v) From the figure (v)
+
+The lines are parallel
+
+∠1 = 2x + 200 are alternate angles
+
+∠1 + 3x + 250 = 1800 is a linear pair
+
+Substituting the values
+
+2x + 200 + 3x + 250 = 1800
+
+5x + 450 = 1800
+
+So we get
+
+5x = 180 – 45 = 1350
+
+x = 135/5 = 270
+
+(vi) From the figure (vi)
+
+Construct a line parallel to the given parallel lines
+
+∠1 = 4x and ∠2 = 6x are corresponding angles
+
+∠1 + ∠2 = 1300
+
+Substituting the values
+
+4x + 6x = 1300
+
+10x = 1300
+
+So we get
+
+x = 130/10 = 130
+
+Exercise 14C PAGE: 172
+
+1. Using ruler and compasses, construct the following angles:
+(i)30°
+(ii)15°
+(iii) 75°
+(iv) 180°
+(v) 165°
+Solution:
+
+(i) 30°
+
+Steps of Construction:
+
+1. Construct a line segment BC.
+
+2. Taking B as centre and a suitable radius construct an arc which meets BC at the point P.
+
+3. Taking P as centre and same radius cut off the arc at the point Q.
+
+4. Consider P and Q as centre construct two arcs which intersect each other at the point R.
+
+5. Now join BR and produce it to point A forming ∠ABC = 300
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 30
+
+(ii) 150
+
+Steps of Construction:
+
+1. Construct a line segment BC.
+
+2. Taking B as centre and a suitable radius construct an arc which meets BC at the point P.
+
+3. Taking P as centre and same radius cut off the arc at the point Q.
+
+4. Consider P and Q as centres, construct two arcs which intersect each other at the point D and join BD.
+
+5. Taking P and R as centre construct two more arcs which intersect each other at the point S.
+
+6. Now join BS and produce it to point A.
+
+∠ABC = 150
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 31
+
+(iii) 75°
+
+Steps of Construction:
+
+1. Construct a line segment BC.
+
+2. Taking B as centre and suitable radius construct an arc and cut off PQ then QR of the same radius.
+
+3. Taking Q and R as centre, construct two arcs which intersect each other at the point S.
+
+4. Now join SB.
+
+5. Taking Q and D as centre construct two arcs which intersect each other at the point T.
+
+6. Now join BT and produce it to point A.
+
+∠ABC = 75°
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 32
+
+(iv) 180°
+
+Steps of Construction:
+
+1. Construct a line segment BC.
+
+2. Taking B as centre and some suitable radius construct an arc which meets BC at the point P.
+
+3. Taking P as centre and with same radius cut off the arcs PQ, QR and RS.
+
+4. Now join BS and produce it to point A.
+
+∠ABC = 180°
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 33
+
+(v) 165°
+
+Steps of Construction:
+
+1. Construct a line segment BC.
+
+2. Taking B as centre and some suitable radius construct an arc which meets BC at the point P.
+
+3. Taking P as centre and same radius cut off arcs at PQ, QR and then RS.
+
+4. Now join SB and produce it to point E.
+
+5. Taking R and S as centres construct two arcs which intersect each other at the point M.
+
+6. Taking T and S as centres construct two arcs which intersect each other at the point L.
+
+7. Now join BL and produce it to point A.
+
+∠ABC = 165°
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 34
+
+2. Draw ∠ABC = 120°. Bisect the angle using ruler and compasses only. Measure each angle so obtained and check whether the angles obtained on bisecting ∠ABC are equal or not.
+
+Solution:
+
+Steps of Construction:
+
+1. Construct a line segment BC.
+
+2. Taking B as centre and some suitable radius construct an arc which meets BC at the point P.
+
+3. Taking P as centre and with same radius cut off the arcs PQ and QR.
+
+4. Now join BR and produce it to point A
+
+∠ABC = 120°
+
+5. Taking P and R as centres construct two arcs which intersect each other at the point S.
+
+6. Now join BS and produce it to point D.
+
+Here BD is the bisector of ∠ABC
+
+By measuring each angle we get to know that is it 600
+
+Yes, both the angles are of equal measure.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 35
+
+3. Draw a line segment PQ = 6 cm. Mark a point A in PQ so that AP = 2 cm. At point A, construct angle QAR = 60°.
+
+Solution:
+
+Steps of Construction:
+
+1. Construct a line segment PQ = 6cm.
+
+2. Now mark point A on PQ so that AP = 2 cm.
+
+3. Taking A as centre and some suitable radius construct an arc which meets AQ at the point C.
+
+4. Taking C as centre and with same radius cut the arc CB.
+
+5. Now join AB and produce it to point R.
+
+∠QAR = 600.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 36
+
+4. Draw a line segment AB = 8 cm. Mark a point P in AB so that AP = 5 cm. At P, construct angle APQ = 30°.
+
+Solution:
+
+Steps of Construction:
+
+1. Construct a line segment AB = 8 cm.
+
+2. Now mark the point P on AB such that AP = 5 cm.
+
+3. Taking P as centre and some suitable radius construct an arc which meets AB at L.
+
+4. Taking L as centre and same radius cut the arc LM.
+
+5. Now bisect the arc LM at the point N.
+
+6. Join PN and produce it to point Q.
+
+∠APQ = 300
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 37
+
+5. Construct an angle of 75° and then bisect it.
+
+Solution:
+
+Steps of Construction:
+
+1. Construct a line segment BC.
+
+2. At the point B construct an angle ABC which is equal to 750.
+
+3. Taking P and T as centres construct arcs which intersect each other at the point L.
+
+4. Now join BL and produce it to point D.
+
+Here BD bisects ∠ABC.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 38
+
+6. Draw a line segment of length 6 .4 cm. Draw its perpendicular bisector.
+
+Solution:
+
+Steps of Construction:
+
+1. Construct a line segment AB = 6.4 cm.
+
+2. Taking A and B as centres and with some suitable radius construct arcs which intersect each other at the points S and R.
+
+3. Now join SR which intersects AB at the point Q.
+
+Here PQR is the perpendicular bisector of the line segment AB.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 39
+
+7. Draw a line segment AB = 5.8 cm. Mark a point P in AB such that PB = 3.6 cm. At P, draw perpendicular to AB.
+
+Solution:
+
+Steps of Construction:
+
+1. Construct a line segment AB = 5.8 cm.
+
+2. Now mark a point P on the line segment AB such that PB = 3.6 cm.
+
+3. Taking P as centre and some suitable radius construct an arc which meets AB at the point L.
+
+4. Taking L as centre and same radius cut off the arcs LM and  MN.
+
+5. Now bisect the arc MN at the point S.
+
+6. Join PS and produce it to point Q.
+
+Here PQ is perpendicular to the line segment AB at point P.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 40
+
+8. In each case, given below, draw a line through point P and parallel to AB:
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 41
+
+Solution:
+
+Steps of Construction:
+
+1. From the point P construct a line segment meeting AB
+
+2. Taking Q as centre and some suitable radius construct an arc CD.
+
+3. Taking P as centre and same radius construct another arc which meets PQ at the point E.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 42
+
+4. Taking E as centre and radius equal to CD cut this arc at the point F.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 43
+
+5. Now join PF and produce it to both sides to L and M.
+
+Here the line LM is parallel to the given line AB.
+
+Selina Solutions Concise Maths Class 7 Chapter 14 Image 44
+ICSE Related Links
+ICSE Last 10 Year Solved Papers 	ICSE Books
+ICSE Schools In Delhi 	ICSE Full Form
+CISCE 	ICSE Class 7 Maths Syllabus
+ICSE Biology Class 10 Book 	Top 10 ICSE Schools In Patna
+How To Score Good Marks In ICSE Chemistry 	Maths Questions For Class 8 ICSE With Answers
+Leave a Comment
+
+Your Mobile number and Email id will not be published. Required fields are marked *
+*
+*
+Comment is required.
 
 
 
+ Chapter 15: Triangles
+Exercise 15A page: 176
+
+1. State, if the triangles are possible with the following angles :
+(i) 20°, 70° and 90°
+(ii) 40°, 130° and 20°
+(iii) 60°, 60° and 50°
+(iv) 125°, 40° and 15°
+
+Solution:
+
+In a triangle, the sum of three angles is 1800
+
+(i) 20°, 70° and 90°
+
+Sum = 200 + 700 + 900 = 1800
+
+Here the sum is 1800 and therefore it is possible.
+
+(ii) 40°, 130° and 20°
+
+Sum = 40° + 130° + 20° = 1900
+
+Here the sum is not 1800 and therefore it is not possible.
+
+(iii) 60°, 60° and 50°
+
+Sum = 60° + 60° + 50° = 1700
+
+Here the sum is not 1800 and therefore it is not possible.
+
+(iv) 125°, 40° and 15°
+
+Sum = 125° + 40° + 15° = 1800
+
+Here the sum is 1800 and therefore it is possible.
+
+2. If the angles of a triangle are equal, find its angles.
+
+Solution:
+
+In a triangle, the sum of three angles is 1800
+
+So each angle = 1800/3 = 600
+
+3. In a triangle ABC, ∠A = 45° and ∠B = 75°, find ∠C.
+
+Solution:
+
+In a triangle, the sum of three angles is 1800
+
+∠A + ∠B + ∠C = 1800
+
+Substituting the values
+
+450 + 750 + ∠C = 1800
+
+By further calculation
+
+1200 + ∠C = 1800
+
+So we get
+
+∠C = 1800 – 1200 = 600
+
+4. In a triangle PQR, ∠P = 60° and ∠Q = ∠R, find ∠R.
+
+Solution:
+
+Consider ∠Q = ∠R = x
+
+∠P = 60°
+
+We can write it as
+
+∠P + ∠Q + ∠R = 1800
+
+Substituting the values
+
+600 + x + x = 1800
+
+By further calculation
+
+600 + 2x = 1800
+
+2x = 1800 – 600 = 1200
+
+So we get
+
+x = 1200/2 = 600
+
+∠Q = ∠R = 600
+
+Therefore, ∠R = 600.
+
+5. Calculate the unknown marked angles in each figure:
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 1
+
+Solution:
+
+In a triangle, the sum of three angles is 1800
+
+(i) From figure (i)
+
+900 + 300 + x = 1800
+
+By further calculation
+
+1200 + x = 1800
+
+So we get
+
+x = 1800 – 1200 = 600
+
+Therefore, x = 600.
+
+(ii) From figure (ii)
+
+y + 800 + 200 = 1800
+
+By further calculation
+
+y + 1000 = 1800
+
+So we get
+
+y = 1800 – 1000 = 800
+
+Therefore, y = 800.
+
+(iii) From figure (iii)
+
+a + 900 + 400 = 1800
+
+By further calculation
+
+a + 1300 = 1800
+
+So we get
+
+a = 1800 – 1300 = 500
+
+Therefore, a = 500.
+
+6. Find the value of each angle in the given figures:
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 2
+
+Solution:
+
+(i) From the figure (i)
+
+∠A + ∠B + ∠C = 1800
+
+Substituting the values
+
+5x0 + 4x0 + x0 = 1800
+
+By further calculation
+
+10x0 = 1800
+
+x = 180/10 = 180
+
+So we get
+
+∠A = 5x0 = 5 × 180 = 900
+
+∠B = 4x0 = 4 × 180 = 720
+
+∠C = x = 180
+
+(ii) From the figure (ii)
+
+∠A + ∠B + ∠C = 1800
+
+Substituting the values
+
+x0 + 2x0 + 2x0 = 1800
+
+By further calculation
+
+5x0 = 1800
+
+x0 = 1800/5 = 360
+
+So we get
+
+∠A = x0 = 360
+
+∠B = 2x0 = 2 × 360 = 720
+
+∠C = 2x0 = 2 × 360 = 720
+
+7. Find the unknown marked angles in the given figure:
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 3
+
+Solution:
+
+(i) From the figure (i)
+
+∠A + ∠B + ∠C = 1800
+
+Substituting the values
+
+b0 + 500 + b0 = 1800
+
+By further calculation
+
+2b0 = 1800 – 500 = 1300
+
+b0 = 1300/2 = 650
+
+Therefore, ∠A = ∠C = b0 = 650.
+
+(ii) From the figure (ii)
+
+∠A + ∠B + ∠C = 1800
+
+Substituting the values
+
+x0 + 900 + x0 = 1800
+
+By further calculation
+
+2x0 = 1800 – 900 = 900
+
+x0 = 900/2 = 450
+
+Therefore, ∠A = ∠C = x0 = 450.
+
+(iii) From the figure (iii)
+
+∠A + ∠B + ∠C = 1800
+
+Substituting the values
+
+k0 + k0 + k0 = 1800
+
+By further calculation
+
+3k0 = 1800
+
+k0 = 1800/3 = 600
+
+Therefore, ∠A = ∠B = ∠C = 600.
+
+(iv) From the figure (iv)
+
+∠A + ∠B + ∠C = 1800
+
+Substituting the values
+
+(m0 – 50) + 600 + (m0 + 50) = 1800
+
+By further calculation
+
+m0 – 50 + 600 + m0 + 50 = 1800
+
+2m0 = 1800 – 600 = 1200
+
+m0 = 1200/2 = 600
+
+Therefore, ∠A = m0 – 50 = 600 – 50 = 550
+
+∠C = m0 + 50 = 600 + 50 = 650
+
+8. In the given figure, show that: ∠a = ∠b + ∠c
+
+(i) If ∠b = 60° and ∠c = 50°; find ∠a.
+(ii) If ∠a = 100° and ∠b = 55°; find ∠c.
+(iii) If ∠a = 108° and ∠c = 48°; find ∠b.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 4
+
+Solution:
+
+From the figure
+
+AB || CD
+
+b = ∠C and ∠A = c are alternate angles
+
+In triangle PCD
+
+Exterior ∠APC = ∠C + ∠D
+
+a = b + c
+
+(i) If ∠b = 60° and ∠c = 50°
+
+∠a = ∠b + ∠c
+
+Substituting the values
+
+∠a = 60 + 50 = 1100
+
+(ii) If ∠a = 100° and ∠b = 55°
+
+∠a = ∠b + ∠c
+
+Substituting the values
+
+∠c = 100 – 55 = 450
+
+(iii) If ∠a = 108° and ∠c = 48°
+
+∠a = ∠b + ∠c
+
+Substituting the values
+
+∠b = 108 – 48 = 600
+
+9. Calculate the angles of a triangle if they are in the ratio 4 : 5 : 6.
+
+Solution:
+
+In a triangle, the sum of angles of a triangle is 1800
+
+∠A + ∠B + ∠C = 1800
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 5
+
+It is given that
+
+∠A: ∠B: ∠C = 4: 5: 6
+
+Consider ∠A = 4x, ∠B = 5x and ∠C = 6x
+
+Substituting the values
+
+4x + 5x + 6x = 1800
+
+By further calculation
+
+15x = 1800
+
+x = 1800/15 = 120
+
+So we get
+
+∠A = 4x = 4 × 120 = 480
+
+∠B = 5x = 5 × 120 = 600
+
+∠C = 6x = 6 × 120 = 720
+
+10. One angle of a triangle is 60°. The, other two angles are in the ratio of 5 : 7. Find the two angles.
+
+Solution:
+
+From the triangle ABC
+
+Consider ∠A = 600, ∠B: ∠C = 5:7
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 6
+
+In a triangle
+
+∠A + ∠B + ∠C = 1800
+
+Substituting the values
+
+600 + ∠B + ∠C = 1800
+
+By further calculation
+
+∠B + ∠C = 1800 – 600 = 1200
+
+Take ∠B = 5x and ∠C = 7x
+
+Substituting the values
+
+5x + 7x = 1200
+
+12x = 1200
+
+x = 1200/12 = 100
+
+So we get
+
+∠B = 5x = 5 × 100 = 500
+
+∠C = 7x = 7 × 100 = 700
+
+11. One angle of a triangle is 61° and the other two angles are in the ratio 1 ½ : 1 1/3. Find these angles.
+
+Solution:
+
+From the triangle ABC
+
+Consider ∠A = 610
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 7
+
+In a triangle
+
+∠A + ∠B + ∠C = 1800
+
+Substituting the values
+
+610 + ∠B + ∠C = 1800
+
+By further calculation
+
+∠B + ∠C = 1800 – 610 = 1190
+
+∠B: ∠C = 1 ½: 1 1/3 = 3/2: 4/3
+
+Taking LCM
+
+∠B: ∠C = 9/6: 8/ 6
+
+∠B: ∠C = 9: 8
+
+Consider ∠B = 9x and ∠C = 8x
+
+Substituting the values
+
+9x + 8x = 1190
+
+17x = 1190
+
+x = 1190/ 17 = 70
+
+So we get
+
+∠B = 9x = 9 × 70 = 630
+
+∠C = 8x = 8 × 70 = 560
+
+12. Find the unknown marked angles in the given figures:
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 8
+
+Solution:
+
+In a triangle, if one side is produced
+
+Exterior angle is the sum of opposite interior angles
+
+(i) From the figure (i)
+
+1100 = x0 + 300
+
+By further calculation
+
+x0 = 1100 – 300 = 800
+
+(ii) From the figure (ii)
+
+1200 = y0 + 600
+
+By further calculation
+
+y0 = 1200 – 600 = 600
+
+(iii) From the figure (iii)
+
+1220 = k0 + 350
+
+By further calculation
+
+k0 = 1220 – 350 = 870
+
+(iv) From the figure (iv)
+
+1350 = a0 + 730
+
+By further calculation
+
+a0 = 1350 – 730 = 620
+
+(v) From the figure (v)
+
+1250 = a + c …… (1)
+
+1400 = a + b …… (2)
+
+By adding both the equations
+
+a + c + a + b = 1250 + 1400
+
+On further calculation
+
+a + a + b + c = 2650
+
+We know that a + b + c = 1800
+
+Substituting it in the equation
+
+a + 1800 = 2650
+
+So we get
+
+a = 265 – 180 = 850
+
+If a + b = 1400
+
+Substituting it in the equation
+
+850 + b = 1400
+
+So we get
+
+b = 140 – 85 = 550
+
+If a + c = 1250
+
+Substituting it in the equation
+
+850 + c = 1250
+
+So we get
+
+c = 125 – 85 = 400
+
+Therefore, a = 850, b = 550 and c = 400.
+Exercise 15B page: 180
+
+1. Find the unknown angles in the given figures:
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 9
+
+Solution:
+
+(i) From the figure (i)
+
+x = y as the angles opposite to equal sides
+
+In a triangle
+
+x + y + 800 = 1800
+
+Substituting the values
+
+x + x + 800 = 1800
+
+By further calculation
+
+2x = 1800 – 800 = 1000
+
+x = 1000/2 = 500
+
+Therefore, x = y = 500.
+
+(ii) From the figure (ii)
+
+b = 400 as the angles opposite to equal sides
+
+In a triangle
+
+a + b + 400 = 1800
+
+Substituting the values
+
+a + 400 + 400 = 1800
+
+By further calculation
+
+a = 180 – 80 = 1000
+
+Therefore, a = 1000 and b = 400.
+
+(iii) From the figure (iii)
+
+x = y as the angles opposite to equal sides
+
+In a triangle
+
+x + y + 900 = 1800
+
+Substituting the values
+
+x + x + 900 = 1800
+
+By further calculation
+
+2x = 180 – 90 = 900
+
+x = 90/2 = 450
+
+Therefore, x = y = 450.
+
+(iv) From the figure (iv)
+
+a = b as the angles opposite to equal sides are equal
+
+In a triangle
+
+a + b + 800 = 1800
+
+Substituting the values
+
+a + a + 800 = 1800
+
+By further calculation
+
+2a = 180 – 80 = 1000
+
+a = 1000/2 = 500
+
+Here a = b = 500
+
+We know that in a triangle the exterior angle is equal to sum of its opposite interior angles
+
+x = a + 800
+
+So we get
+
+x = 50 + 80 = 1300
+
+Therefore, a = 500, b = 500 and x = 1300.
+
+(v) From the figure (v)
+
+In an isosceles triangle consider each equal angle = x
+
+x + x = 860
+
+2x = 860
+
+So we get
+
+x = 860/2 = 430
+
+For a linear pair
+
+p + x = 1800
+
+Substituting the values
+
+p + 430 = 1800
+
+By further calculation
+
+p = 180 – 43 = 1370
+
+Therefore, p = 1370.
+
+2. Apply the properties of isosceles and equilateral triangles to find the unknown angles in the given figures:
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 10
+
+Solution:
+
+(i) a = 700 as the angles opposite to equal sides are equal
+
+In a triangle
+
+a + 700 + x = 1800
+
+Substituting the values
+
+700 + 700 + x = 1800
+
+By further calculation
+
+x = 180 – 140 = 400
+
+y = b as the angles opposite to equal sides are equal
+
+Here a = y + b as the exterior angle is equal to sum of interior opposite angles
+
+700 = y + y
+
+So we get
+
+2y = 700
+
+y = 700/2 = 350
+
+Therefore, x = 400 and y = 350.
+
+(ii) From the figure (ii)
+
+Each angle is 600 in an equilateral triangle
+
+In an isosceles triangle
+
+Consider each base angle = a
+
+a + a + 1000 = 1800
+
+By further calculation
+
+2a = 180 – 100 = 800
+
+So we get
+
+a = 800/2 = 400
+
+x = 600 + 400 = 1000
+
+y = 600 + 400 = 1000
+
+(iii) From the figure (iii)
+
+1300 = x + p as the exterior angle is equal to the sum of interior opposite angles
+
+It is given that the lines are parallel
+
+Here p = 600 is the alternate angles and y = a
+
+In a linear pair
+
+a + 1300 = 1800
+
+By further calculation
+
+a = 180 – 130 = 500
+
+Here x + p = 1300
+
+Substituting the values
+
+x + 600 = 1300
+
+By further calculation
+
+x = 130 – 60 = 700
+
+Therefore, x = 700, y = 500 and p = 600.
+
+(iv) From the figure (iv)
+
+x = a + b
+
+Here b = y and a = c as the angles opposite to equal sides are equal
+
+a + c + 300 = 1800
+
+Substituting the values
+
+a + a + 300 = 1800
+
+By further calculation
+
+2a = 180 – 30 = 1500
+
+a = 150/2 = 750
+
+We know that
+
+b + y = 900
+
+Substituting the values
+
+y + y = 900
+
+2y = 900
+
+y = 90/2 = 450
+
+where b = 450
+
+Therefore, x = a + b = 75 + 45 = 1200 and y = 450.
+
+(v) From the figure (v)
+
+a + b + 400 = 1800
+
+So we get
+
+a + b = 180 – 40 = 1400
+
+The angles opposite to equal sides are equal
+
+a = b = 140/2 = 700
+
+x = b + 400 = 700 + 400= 1100
+
+Here the exterior angle of a triangle is equal to the sum of its interior opposite angles
+
+In the same way
+
+y = a + 400
+
+Substituting the values
+
+y = 700 + 400 = 1100
+
+Therefore, x = y = 1100.
+
+3. The angle of vertex of an isosceles triangle is 100°. Find its base angles.
+
+Solution:
+
+Consider ∆ ABC
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 11
+
+Here AB = AC and ∠B = ∠C
+
+We know that
+
+∠A = 1000
+
+In a triangle
+
+∠A + ∠B + ∠C = 1800
+
+Substituting the values
+
+1000 + ∠B + ∠B = 1800
+
+By further calculation
+
+2∠B = 1800 – 1000 = 800
+
+∠B = 80/2 = 400
+
+Therefore, ∠B = ∠C = 400.
+
+4. One of the base angles of an isosceles triangle is 52°. Find its angle of vertex.
+
+Solution:
+
+It is given that the base angles of isosceles triangle ABC = 520
+
+Here ∠B = ∠C = 520
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 12
+
+In a triangle
+
+∠A + ∠B + ∠C = 1800
+
+Substituting the values
+
+∠A + 520 + 520 = 1800
+
+By further calculation
+
+∠A = 180 – 104 = 760
+
+Therefore, ∠A = 760.
+
+5. In an isosceles triangle, each base angle is four times of its vertical angle. Find all the angles of the triangle.
+
+Solution:
+
+Consider the vertical angle of an isosceles triangle = x
+
+So the base angle = 4x
+
+In a triangle
+
+x + 4x + 4x = 1800
+
+By further calculation
+
+9x = 1800
+
+x = 180/9 = 200
+
+So the vertical angle = 200
+
+Each base angle = 4x = 4 × 200 = 800
+
+6. The vertical angle of an isosceles triangle is 15° more than each of its base angles. Find each angle of the triangle.
+
+Solution:
+
+Consider the angle of the base of isosceles triangle = x0
+
+So the vertical angle = x + 150
+
+In a triangle
+
+x + x + x + 150 = 1800
+
+By further calculation
+
+3x = 180 – 15 = 1650
+
+x = 165/3 = 550
+
+Therefore, the base angle = 550
+
+Vertical angle = 55 + 15 = 700.
+
+7. The base angle of an isosceles triangle is 15° more than its vertical angle. Find its each angle.
+
+Solution:
+
+Consider the vertical angle of the isosceles triangle = x0
+
+Here each base angle = x + 150
+
+In a triangle
+
+x + 150 + x + 150 + x = 1800
+
+By further calculation
+
+3x + 300 = 1800
+
+3x = 180 – 30 = 1500
+
+x = 150/3 = 500
+
+Therefore, vertical angle = 500 and each base angle = 50 + 15 = 650.
+
+8. The vertical angle of an isosceles triangle is three times the sum of its base angles. Find each angle.
+
+Solution:
+
+Consider each base angle of an isosceles triangle = x
+
+Vertical angle = 3 (x + x) = 3 (2x) = 6x
+
+In a triangle
+
+6x + x + x = 1800
+
+By further calculation
+
+8x = 1800
+
+x = 180/8 = 22.50
+
+Therefore, each base angle = 22.50 and vertical angle = 3 (22.5 + 22.5) = 3 × 45 = 1350.
+
+9. The ratio between a base angle and the vertical angle of an isosceles triangle is 1 : 4. Find each angle of the triangle.
+
+Solution:
+
+It is given that the ratio between a base angle and the vertical angle of an isosceles triangle = 1: 4
+
+Consider base angle = x
+
+Vertical angle = 4x
+
+In a triangle
+
+x + x + 4x = 1800
+
+By further calculation
+
+6x = 1800
+
+x = 180/6 = 300
+
+Therefore, each base angle = x = 300 and vertical angle = 4x = 4 × 300 = 1200.
+
+10. In the given figure, BI is the bisector of ∠ABC and CI is the bisector of ∠ACB. Find ∠BIC.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 13
+
+Solution:
+
+In ∆ ABC
+
+BI is the bisector of ∠ABC and CI is the bisector of ∠ACB
+
+Here AB = AC
+
+∠B = ∠C as the angles opposite to equal sides are equal
+
+We know that ∠A = 400
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 14
+
+In a triangle
+
+∠A + ∠B + ∠C = 1800
+
+Substituting the values
+
+400 + ∠B + ∠B = 1800
+
+By further calculation
+
+400 + 2∠B = 1800
+
+2∠B = 180 – 40 = 1400
+
+∠B = 140/2 = 700
+
+Here BI and CI are the bisectors of ∠ABC and ∠ACB
+
+∠IBC = ½ ∠ABC = ½ × 700 = 350
+
+∠ICB = ½ ∠ACB = ½ × 700 = 350
+
+In ∆ IBC
+
+∠BIC + ∠IBC + ∠ICB = 1800
+
+Substituting the values
+
+∠BIC + 350 + 350 = 1800
+
+By further calculation
+
+∠BIC = 180 – 70 = 1100
+
+Therefore, ∠BIC = 1100.
+
+11. In the given figure, express a in terms of b.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 15
+
+Solution:
+
+From the ∆ ABC
+
+BC = BA
+
+∠BCA = ∠BAC
+
+Here the exterior ∠CBE = ∠BCA + ∠BAC
+
+a = ∠BCA + ∠BCA
+
+a = 2∠BCA …… (1)
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 16
+
+Here ∠ACB = 1800 – b
+
+Where ∠ACD and ∠ACB are linear pair
+
+∠BCA = 1800 – b ……. (2)
+
+We get
+
+a = 2 ∠BCA
+
+Substituting the values
+
+a = 2 (1800 – b)
+
+a = 3600 – 2b
+
+12. (a) In Figure (i) BP bisects ∠ABC and AB = AC. Find x.
+(b) Find x in Figure (ii) Given: DA = DB = DC, BD bisects ∠ABC and ∠ADB = 70°.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 17
+
+Solution:
+
+(a) From the figure (i)
+
+AB = AC and BP bisects ∠ABC
+
+AP is drawn parallel to BC
+
+Here PB is the bisector of ∠ABC
+
+∠PBC = ∠PBA
+
+∠APB = ∠PBC are alternate angles
+
+x = ∠PBC ….. (1)
+
+In ∆ ABC
+
+∠A = 600
+
+Since AB = AC we get ∠B = ∠C
+
+In a triangle
+
+∠A + ∠B + ∠C = 1800
+
+Substituting the values
+
+600 + ∠B + ∠C = 1800
+
+We get
+
+600 + ∠B + ∠B = 1800
+
+By further calculation
+
+2∠B = 180 – 60 = 1200
+
+∠B = 120/2 = 600
+
+½ ∠B = 60/2 = 300
+
+∠PBC = 300
+
+So from figure (i) x = 300
+
+(b) From the figure (ii)
+
+DA = DB = DC
+
+Here BD bisects ∠ABC and ∠ADB = 700
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 18
+
+In a triangle
+
+∠ADB + ∠DAB + ∠DBA = 1800
+
+Substituting the values
+
+700 + ∠DBA + ∠DBA = 1800
+
+By further calculation
+
+700 + 2∠DBA = 1800
+
+2∠DBA = 180 – 70 = 1100
+
+∠DBA = 110/2 = 550
+
+Here BD is the bisector of ∠ABC
+
+So ∠DBA = ∠DBC = 550
+
+In ∆ DBC
+
+DB = DC
+
+∠DCB = ∠DBC
+
+Hence, x = 550.
+
+13. In each figure, given below, ABCD is a square and ∆ BEC is an equilateral triangle.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 19
+
+Find, in each case: (i) ∠ABE (ii) ∠BAE
+
+Solution:
+
+The sides of a square are equal and each angle is 900
+
+In an equilateral triangle all three sides are equal and all angles are 600
+
+In figure (i) ABCD is a square and ∆ BEC is an equilateral triangle
+
+(i) ∠ABE = ∠ABC + ∠CBE
+
+Substituting the values
+
+∠ABE = 900 + 600= 1500
+
+(ii) In ∆ ABE
+
+∠ABE + ∠BEA + ∠BAE = 1800
+
+Substituting the values
+
+1500 + ∠BAE + ∠BAE = 1800
+
+By further calculation
+
+2∠BAE = 180 – 150 = 300
+
+∠BAE = 30/2 = 150
+
+In figure (ii) ABCD is a square and ∆ BEC is an equilateral triangle
+
+(i) ∠ABE = ∠ABC – ∠CBE
+
+Substituting the values
+
+∠ABE = 900 – 600 = 300
+
+(ii) In ∆ ABE
+
+∠ABE + ∠BEA + ∠BAE = 1800
+
+Substituting the values
+
+300 + ∠BAE + ∠BAE = 1800
+
+By further calculation
+
+2∠BAE = 180 – 30 = 1500
+
+∠BAE = 150/2 = 750
+
+14. In ∆ ABC, BA and BC are produced. Find the angles a and h. if AB = BC.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 20
+
+Solution:
+
+In ∆ ABC, BA and BC are produced
+
+∠ABC = 540 and AB = BC
+
+In ∆ ABC
+
+∠BAC + ∠BCA + ∠ABC = 1800
+
+Substituting the values
+
+∠BAC + ∠BAC + 540 = 1800
+
+2∠BAC = 180 – 54 = 1260
+
+∠BAC = 126/2 = 630
+
+∠BCA = 630
+
+In a linear pair
+
+∠BAC + b = 1800
+
+Substituting the value
+
+630 + b = 1800
+
+So we get
+
+b = 180 – 63 = 1170
+
+In a linear pair
+
+∠BCA + a = 1800
+
+Substituting the value
+
+630 + a = 1800
+
+So we get
+
+a = 180 – 63 = 1170
+
+Therefore, a = b = 1170.
+Exercise 15C page: 185
+
+1. Construct a ∆ABC such that:
+(i) AB = 6 cm, BC = 4 cm and CA = 5.5 cm
+(ii) CB = 6.5 cm, CA = 4.2 cm and BA = 51 cm
+(iii) BC = 4 cm, AC = 5 cm and AB = 3.5 cm
+
+Solution:
+
+(i) Steps of Construction
+
+1. Construct a line segment BC = 4 cm.
+
+2. Taking B as centre and 6 cm as radius construct an arc.
+
+3. Taking C as centre and 5.5 cm as radius construct another arc which intersects the first arc at the point A.
+
+4. Now join AB and AC.
+
+Therefore, ∆ABC is the required triangle.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 21
+
+(ii) Steps of Construction
+
+1. Construct a line segment CB = 6.5 cm
+
+2. Taking C as centre and 4.2 cm as radius construct an arc.
+
+3. Taking B as centre and 5.1 cm as radius construct another arc which intersects the first arc at the point A.
+
+4. Now join AC and AB.
+
+Therefore, ∆ABC is the required triangle.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 22
+
+(iii) Steps of Construction
+
+1. Construct a line segment BC = 4 cm
+
+2. Taking B as centre and 3.5 cm as radius construct an arc.
+
+3. Taking C as centre and 5 cm as radius construct another arc which intersects the first arc at the point A.
+
+4. Now join AB and AC.
+
+Therefore, ∆ABC is the required triangle.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 23
+
+2. Construct a ∆ ABC such that:
+(i) AB = 7 cm, BC = 5 cm and ∠ABC = 60°
+(ii) BC = 6 cm, AC = 5.7 cm and ∠ACB = 75°
+(iii) AB = 6.5 cm, AC = 5.8 cm and ∠A = 45°
+
+Solution:
+
+(i) Steps of Construction
+
+1. Construct a line segment AB = 7 cm.
+
+2. At the point B construct a ray which makes an angle 600 and cut off BC = 5cm.
+
+3. Now join AC.
+
+Therefore, ∆ABC is the required triangle.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 24
+
+(ii) Steps of Construction
+
+1. Construct a line segment BC = 6 cm.
+
+2. At the point C construct a ray which makes an angle 750 and cut off CA = 5.7 cm.
+
+3. Now join AB.
+
+Therefore, ∆ABC is the required triangle.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 25
+
+(iii) Steps of Construction
+
+1. Construct a line segment AB = 6.5 cm.
+
+2. At the point A construct a ray which makes an angle 450 and cut off AC = 5.8 cm.
+
+3. Now join CB.
+
+Therefore, ∆ABC is the required triangle.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 26
+
+3. Construct a ∆ PQR such that :
+(i) PQ = 6 cm, ∠Q = 60° and ∠P = 45°. Measure ∠R.
+(ii) QR = 4.4 cm, ∠R = 30° and ∠Q = 75°. Measure PQ and PR.
+(iii) PR = 5.8 cm, ∠P = 60° and ∠R = 45°.
+Measure ∠Q and verify it by calculations
+
+Solution:
+
+(i) Steps of Construction
+
+1. Construct a line segment PQ = 6 cm.
+
+2. At point P construct a ray which makes an angle 450.
+
+3. At point Q construct another ray which makes an angle 600 which intersect the first ray at point R.
+
+Therefore, ∆ PQR is the required triangle.
+
+By measuring ∠R = 750.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 27
+
+(ii) Steps of Construction
+
+1. Construct a line segment QR = 4.4 cm.
+
+2. At point Q construct a ray which makes an angle 750.
+
+3. At point R construct another ray which makes an angle 300 which intersect the first ray at point R.
+
+Therefore, ∆ PQR is the required triangle.
+
+By measuring the length, PQ = 2.1 cm and PR = 4.4 cm.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 28
+
+(iii) Steps of Construction
+
+1. Construct a line segment PR = 5.8 cm.
+
+2. At point P construct a ray which makes an angle 600.
+
+3. At point R construct another ray which makes an angle 450 which intersect the first ray at point Q.
+
+Therefore, ∆ PQR is the required triangle.
+
+By measuring ∠Q = 750.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 29
+
+Verification –
+
+∠P + ∠Q + ∠R = 1800
+
+Substituting the values
+
+600 + ∠Q + 450 = 1800
+
+By further calculation
+
+∠Q = 180 – 105 = 750
+
+4. Construct an isosceles ∆ ABC such that:
+(i) base BC = 4 cm and base angle = 30°
+(ii) base AB = 6.2 cm and base angle = 45°
+(iii) base AC = 5 cm and base angle = 75°.
+Measure the other two sides of the triangle.
+
+Solution:
+
+(i) Steps of Construction
+
+In an isosceles triangle the base angles are equal
+
+1. Construct a line segment BC = 4 cm.
+
+2. At the points B and C construct rays which makes an angle 300 intersecting each other at the point A.
+
+Therefore, ∆ ABC is the required triangle.
+
+By measuring the equal sides, each is 2.5 cm in length approximately.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 30
+
+(ii) Steps of Construction
+
+In an isosceles triangle the base angles are equal
+
+1. Construct a line segment AB = 6.2 cm.
+
+2. At the points A and B construct rays which makes an angle 450 intersecting each other at the point C.
+
+Therefore, ∆ ABC is the required triangle.
+
+By measuring the equal sides, each is 4.3 cm in length approximately.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 31
+
+(iii) Steps of Construction
+
+In an isosceles triangle the base angles are equal
+
+1. Construct a line segment AC = 5 cm.
+
+2. At the points A and C construct rays which makes an angle 750 intersecting each other at the point B.
+
+Therefore, ∆ ABC is the required triangle.
+
+By measuring the equal sides, each is 9.3 cm in length approximately.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 32
+
+5. Construct an isosceles ∆ABC such that:
+(i) AB = AC = 6.5 cm and ∠A = 60°
+(ii) One of the equal sides = 6 cm and vertex angle = 45°. Measure the base angles.
+(iii) BC = AB = 5-8 cm and ZB = 30°. Measure ∠A and ∠C.
+
+Solution:
+
+(i) Steps of Construction
+
+1. Construct a line segment AB = 6.5 cm.
+
+2. At point A construct a ray which makes an angle 600.
+
+3. Now cut off AC = 6.5cm
+
+4. Join BC.
+
+Therefore, ∆ ABC is the required triangle.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 33
+
+(ii) Steps of Construction
+
+1. Construct a line segment AB = 6 cm.
+
+2. At point A construct a ray which makes an angle 450.
+
+3. Now cut off AC = 6cm
+
+4. Join BC.
+
+Therefore, ∆ ABC is the required triangle.
+
+By measuring ∠B and ∠C, both are equal to 67 ½ 0.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 34
+
+(iii) Steps of Construction
+
+1. Construct a line segment BC = 5.8 cm.
+
+2. At point B construct a ray which makes an angle 300.
+
+3. Now cut off BA = 5.8cm
+
+4. Join AC.
+
+Therefore, ∆ ABC is the required triangle.
+
+By measuring ∠C and ∠A is equal to 750.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 35
+
+6. Construct an equilateral triangle ABC such that:
+(i) AB = 5 cm. Draw the perpendicular bisectors of BC and AC. Let P be the point of intersection of these two bisectors. Measure PA, PB and PC.
+(ii) Each side is 6 cm.
+
+Solution:
+
+(i) Steps of Construction
+
+1. Construct a line segment AB = 5cm.
+
+2. Taking A and B as centres and 5 cm radius, construct two arcs which intersect each other at the point C.
+
+3. Now join AC and BC where ∆ ABC is the required triangle.
+
+4. Construct perpendicular bisectors of sides AC and BC which intersect each other at the point p.
+
+5. Join PA, PB and PC.
+
+By measuring each is 2.8 cm.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 36
+
+(ii) Steps of Construction
+
+1. Construct a line segment AB = 6cm.
+
+2. Taking A and B as centres and 6 cm radius, construct two arcs which intersect each other at the point C.
+
+3. Now join AC and BC
+
+Therefore, ∆ ABC is the required triangle.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 37
+
+7. (i) Construct a ∆ ABC such that AB = 6 cm, BC = 4.5 cm and AC = 5.5 cm. Construct a circumcircle of this triangle.
+(ii) Construct an isosceles ∆PQR such that PQ = PR = 6.5 cm and ∠PQR = 75°. Using ruler and compasses only construct a circumcircle to this triangle.
+(iii) Construct an equilateral triangle ABC such that its one side = 5.5 cm.
+Construct a circumcircle to this triangle.
+
+Solution:
+
+(i) Steps of Construction
+
+1. Construct a line segment BC = 4.5 cm.
+
+2. Taking B as centre and 6 cm radius construct an arc.
+
+3. Taking C as centre and 5.5 cm radius construct another arc which intersects the first arc at point A.
+
+4. Now join AB and AC
+
+Therefore, ∆ ABC is the required triangle.
+
+5. Construct a perpendicular bisector of AB and AC which intersect each other at the point O.
+
+6. Now join OB, OC and OA.
+
+7. Taking O as centre and radius OA construct a cirlce which passes through the points A, B and C.
+
+This is the required circumcircle of ∆ ABC.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 38
+
+(ii) Steps of Construction
+
+1. Construct a line segment PQ = 6.5 cm.
+
+2. At point Q, construct an arc which makes an angle 750.
+
+3. Taking P as centre and radius 6.5 cm construct an arc which intersects the angle at point R.
+
+4. Join PR.
+
+∆ PQR is the required triangle.
+
+4. Construct the perpendicular bisector of sides PQ and PR which intersects each other at the point O.
+
+5. Join OP, OQ and OR.
+
+6. Taking O as centre and radius equal to OP or OQ or OR construct a circle which passes through P, Q and R.
+
+This is the required circumcircle of ∆ PQR.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 39
+
+(iii) Steps of Construction
+
+1. Construct a line segment AB = 5.5 cm.
+
+2. Taking A and B as centres and radius 5.5 cm construct two arcs which intersect each other at point C.
+
+3. Now join AC and BC.
+
+∆ ABC is the required triangle.
+
+4. Construct perpendicular bisectors of sides AC and BC which intersect each other at the point O.
+
+5. Now join OA, OB and OC.
+
+6. Taking O as centre and OA or OB or OC as radius construct a circle which passes through A, B and C.
+
+This is the required circumcircle.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 40
+
+8. (i) Construct a ∆ABC such that AB = 6 cm, BC = 5.6 cm and CA = 6.5 cm. Inscribe a circle to this triangle and measure its radius.
+(ii) Construct an isosceles ∆ MNP such that base MN = 5.8 cm, base angle MNP = 30°. Construct an incircle to this triangle and measure its radius.
+(iii) Construct an equilateral ∆DEF whose one side is 5.5 cm. Construct an incircle to this triangle.
+(iv) Construct a ∆ PQR such that PQ = 6 cm, ∠QPR = 45° and angle PQR = 60°. Locate its incentre and then draw its incircle.
+
+Solution:
+
+(i) Steps of Construction
+
+1. Construct a line segment AB = 6 cm.
+
+2. Taking A as centre and 6.5 cm as radius and B as centre and 5.6 cm as radius construct arcs which intersect each other at point C.
+
+3. Now join AC and BC.
+
+4. Construct the angle bisector of ∠A and ∠B which intersect each other at point I.
+
+5. From the point I construct IL which is perpendicular to AB.
+
+6. Taking I as centre and IL as radius construct a circle which touches the sides of ∆ABC internally.
+
+By measuring the required incircle the radius is 1.6 cm.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 41
+
+(ii) Steps of Construction
+
+1. Construct a line segment MN = 5.8 cm.
+
+2. At points M and N construct two rays which make an angle 300 each intersecting each other at point P.
+
+3. Construct the angle bisectors of ∠M and ∠N which intersect each other at point I.
+
+4. From the point I draw perpendicular IL on MN.
+
+5. Taking I as centre and IL as radius construct a circle which touches the sides of ∆ PMB internally.
+
+By measuring the required incircle the radius is 0.6 cm.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 42
+
+(iii) Steps of Construction
+
+1. Construct a line segment BC = 5.5 cm.
+
+2. Taking B and C as centres and 5.5 cm radius construct two arcs which intersect each other at point A.
+
+3. Now join AB and AC.
+
+4. Construct the perpendicular bisectors of ∠B and ∠C which intersect each other at the point I.
+
+5. From the point I construct IL which is perpendicular to BC.
+
+6. Taking I as centre and IL as radius construct a circle which touches the sides of ∆ABC internally.
+
+This is the required incircle.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 43
+
+(iv) Steps of Construction
+
+1. Construct a line segment PQ = 6 cm.
+
+2. At the point P construct rays which make an angle of 450 and at point Q which makes an angle 600 thats intersects each other at point R.
+
+3. Construct the bisectors of ∠P and ∠Q which intersect each other at point I.
+
+4. From the point I construct IL which is perpendicular to PQ.
+
+5. Taking I as centre and IL as radius construct a circle which touches the sides of ∆PQR internally.
+
+This is the required incircle where the point I is incentre.
+
+Selina Solutions Concise Maths Class 7 Chapter 15 Image 44
+ICSE Related Links
+ICSE Class 9 Chemistry Selina Solutions Chapter 6 	ICSE Class 9 Chemistry Selina Solutions Chapter 1
+ICSE Class 9 Maths Selina Solutions Chapter 24 	ICSE Class 9 Biology Selina Solutions Chapter 6
+ICSE Class 9 Maths Selina Solutions Chapter 25 	ICSE Class 9 Biology Selina Solutions Chapter 13
+ICSE Class 8 Maths Selina Solutions Chapter 11 	ICSE Class 9 Maths Selina Solutions Chapter 16
+ICSE Class 9 Biology Selina Solutions Chapter 16 	ICSE Class 8 Maths Selina Solutions Chapter 5
+Leave a Comment
+
+Your Mobile number and Email id will not be published. Required fields are marked *
+*
+*
+
+
+
+Chapter 16: Pythagoras Theorem
+
+Exercise 16 page: 189
+
+1. Triangle ABC is right-angled at vertex A. Calculate the length of BC, if AB = 18 cm and AC = 24 cm.
+
+Solution:
+
+It is given that
+
+Triangle ABC is right-angled at vertex A
+
+AB = 18 cm and AC = 24 cm
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 1
+
+Using Pythagoras Theorem
+
+BC2 = AB2 + AC2
+
+Substituting the values
+
+BC2 = 182 + 242
+
+By further calculation
+
+BC2 = 324 + 576 = 900
+
+BC = √900 = √ (30 × 30)
+
+So we get
+
+BC = 30 cm
+
+2. Triangle XYZ is right-angled at vertex Z. Calculate the length of YZ, if XY = 13 cm and XZ = 12 cm.
+
+Solution:
+
+It is given that
+
+Triangle XYZ is right-angled at vertex Z
+
+XY = 13 cm and XZ = 12 cm
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 2
+
+Using Pythagoras Theorem
+
+XY2 = XZ2 + YZ2
+
+Substituting the values
+
+132 = 122 + YZ2
+
+By further calculation
+
+YZ2 = 132 – 122
+
+YZ2 = 169 – 144 = 25
+
+YZ = √25 = √ (5 × 5)
+
+So we get
+
+YZ = 5 cm
+
+3. Triangle PQR is right-angled at vertex R. Calculate the length of PR, if:
+PQ = 34 cm and QR = 33.6 cm.
+
+Solution:
+
+It is given that
+
+Triangle PQR is right-angled at vertex R
+
+PQ = 34 cm and QR = 33.6 cm
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 3
+
+Using Pythagoras Theorem
+
+PQ2 = PR2 + QR2
+
+Substituting the values
+
+342 = PR2 + 33.62
+
+By further calculation
+
+1156 = PR2 + 1128.96
+
+PR2 = 1156 – 1128.96
+
+PR = √27.04
+
+So we get
+
+PR = 5.2 cm
+
+4. The sides of a certain triangle are given below. Find, which of them is right-triangle
+
+(i) 16 cm, 20 cm and 12 cm
+
+(ii) 6 m, 9 m and 13 m
+
+Solution:
+
+(i) 16 cm, 20 cm and 12 cm
+The triangle will be right angled if square of the largest side is equal to the sum of the squares of the other two sides.
+
+Here we have 202, 162 and 122
+
+We can write it as
+
+202 = 162 + 122
+
+By further calculation
+
+400 = 256 + 144
+
+So we get
+
+400 = 400
+
+Hence, the given triangle is right angled.
+
+(ii) 6 m, 9 m and 13 m
+
+The triangle will be right angled if square of the largest side is equal to the sum of the squares of the other two sides.
+
+Here 132 = 92 + 62
+
+By further calculation
+
+169 = 81 + 36
+
+So we get
+
+169 ≠ 117
+
+Hence, the given triangle is not right angled.
+
+5. In the given figure, angle BAC = 90°, AC = 400 m and AB = 300 m. Find the length of BC.
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 4
+
+Solution:
+
+It is given that
+
+BAC = 90°, AC = 400 m and AB = 300 m
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 5
+
+Using Pythagoras Theorem
+
+BC2 = AB2 + AC2
+
+Substituting the values
+
+BC2 = 3002 + 4002
+
+By further calculation
+
+BC2 = 90000 + 160000 = 250000
+
+BC = √250000
+
+So we get
+
+BC = 500 m
+
+6. In the given figure, angle ACP = ∠BDP = 90°, AC = 12 m, BD = 9 m and PA= PB = 15 m. Find:
+(i) CP
+(ii) PD
+(iii) CD
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 6
+
+Solution:
+
+It is given that
+
+ACP = ∠BDP = 90°
+
+AC = 12 m
+
+BD = 9 m
+
+PA= PB = 15 m
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 7
+
+(i) In the right angled triangle ACP
+
+AP2 = AC2 + CP2
+
+Substituting the values
+
+152 = 122 + CP2
+
+By further calculation
+
+225 = 144 + CP2
+
+CP2 = 225 – 144 = 81
+
+So we get
+
+CP = √81 = 9 m
+
+(ii) In the right angled triangle BPD
+
+PB2 = BD2 + PD2
+
+Substituting the values
+
+152 = 92 + PD2
+
+By further calculation
+
+225 = 81 + PD2
+
+PD2 = 225 – 81 = 144
+
+So we get
+
+PD = √144 = 12 m
+
+(iii) We know that
+
+CP = 9 m
+
+PD = 12 m
+
+So we get
+
+CD = CP + PD
+
+Substituting the values
+
+CD = 9 + 12 = 21 m
+
+7. In triangle PQR, angle Q = 90°, find:
+(i) PR, if PQ = 8 cm and QR = 6 cm
+(ii) PQ, if PR = 34 cm and QR = 30 cm
+
+Solution:
+
+(i) It is given that
+
+PQ = 8 cm and QR = 6 cm
+
+∠PQR = 900
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 8
+
+Using Pythagoras Theorem
+
+PR2 = PQ2 + QR2
+
+Substituting the values
+
+PR2 = 82 + 62
+
+By further calculation
+
+PR2 = 64 + 36 = 100
+
+PR = √100
+
+So we get
+
+PR = 10 cm
+
+(ii) It is given that
+
+PR = 34 cm and QR = 30 cm
+
+∠PQR = 900
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 9
+
+Using Pythagoras Theorem
+
+PR2 = PQ2 + QR2
+
+Substituting the values
+
+342 = PQ2 + 302
+
+By further calculation
+
+1156 = PQ2 + 900
+
+PQ2 = 1156 – 900 = 256
+
+PQ = √256
+
+So we get
+
+PQ = 16 cm
+
+8. Show that the triangle ABC is a right-angled triangle; if:
+
+AB = 9 cm, BC = 40 cm and AC = 41 cm
+
+Solution:
+
+It is given that
+
+AB = 9 cm
+
+BC = 40 cm
+
+AC = 41 cm
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 10
+
+The triangle will be right angled if square of the largest side is equal to the sum of the squares of the other two sides.
+
+Using Pythagoras Theorem
+
+AC2 = BC2 + AB2
+
+Substituting the values
+
+412 = 402 + 92
+
+By further calculation
+
+1681 = 1600 + 81
+
+So we get
+
+1681 = 1681
+
+Therefore, ABC is a right-angled triangle.
+
+9. In the given figure, angle ACB = 90° = angle ACD. If AB = 10 cm, BC = 6 cm and AD = 17 cm, find:
+
+(i) AC
+
+(ii) CD
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 11
+
+Solution:
+
+It is given that
+
+angle ACB = 90° = angle ACD
+
+AB = 10 cm, BC = 6 cm and AD = 17 cm
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 12
+
+(i) In the right angled triangle ABC
+
+BC = 6 cm and AB = 10cm
+
+Using Pythagoras Theorem
+
+AB2 = AC2 + BC2
+
+Substituting the values
+
+102 = AC2 + 62
+
+By further calculation
+
+100 = AC2 + 36
+
+AC2 = 100 – 36 = 64
+
+AC = √64 = √ (8 × 8)
+
+So we get
+
+AC = 8 cm
+
+(ii) In the right angled triangle ACD
+
+AD = 17 cm and AC = 8cm
+
+Using Pythagoras Theorem
+
+AD2 = AC2 + CD2
+
+Substituting the values
+
+172 = 82 + CD2
+
+By further calculation
+
+289 = 64 + CD2
+
+CD2 = 289 – 64 = 225
+
+CD = √225 = √ (15 × 15)
+
+So we get
+
+CD = 15 cm
+
+10. In the given figure, angle ADB = 90°, AC = AB = 26 cm and BD = DC. If the length of AD = 24 cm; find the length of BC.
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 13
+
+Solution:
+
+It is given that
+
+angle ADB = 90°
+
+AC = AB = 26 cm
+
+BD = DC
+
+Using Pythagoras Theorem
+
+AC2 = AD2 + DC2
+
+Substituting the values
+
+262 = 242 + DC2
+
+By further calculation
+
+676 = 576 + DC2
+
+DC2 = 676 – 576 = 100
+
+DC = √100
+
+So we get
+
+DC = 10 cm
+
+Here the length of BC = BD + DC
+
+Substituting the values
+
+Length of BC = 10 + 10 = 20 cm
+
+11. In the given figure, AD = 13 cm, BC = 12 cm, AB = 3 cm and angle ACD = angle ABC = 90°. Find the length of DC.
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 14
+
+Solution:
+
+It is given that
+
+AD = 13 cm
+
+BC = 12 cm
+
+AB = 3 cm
+
+angle ACD = angle ABC = 90°
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 15
+
+(i) In a right angled triangle ABC
+
+AB = 3 cm and BC = 12 cm
+
+Using Pythagoras Theorem
+
+AC2 = AB2 + BC2
+
+Substituting the values
+
+AC2 = 32 + 122
+
+By further calculation
+
+AC2 = 9 + 144 = 153
+
+So we get
+
+AC = √153 cm
+
+(ii) In a right angled triangle ACD
+
+AD = 13 cm and AC = √153 cm
+
+Using Pythagoras Theorem
+
+DC2 = AD2 – AC2
+
+Substituting the values
+
+DC2 = 132 + √1532
+
+By further calculation
+
+DC2 = 169 – 153 = 16
+
+So we get
+
+DC = √16 = 4 cm
+
+Hence, the length of DC is 4 cm.
+
+12. A ladder, 6.5 m long, rests against a vertical wall. If the foot of the ladder is 2.5 m from the foot of the wall, find upto how much height does the ladder reach?
+
+Solution:
+
+It is given that
+
+Length of ladder = 6.5 m
+
+Length of foot of the wall = 2.5m
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 16
+
+Using Pythagoras Theorem
+
+BC2 = AB2 + AC2
+
+Substituting the values
+
+6.52 = 2.52 + AC2
+
+By further calculation
+
+AC2 = 42.25 – 6.25 = 36
+
+So we get
+
+AC = √36 = 6 m
+
+Hence, the ladder reaches upto 6 m.
+
+13. A boy first goes 5 m due north and then 12 m due east. Find the distance between the initial and the final position of the boy.
+
+Solution:
+
+It is given that
+
+Direction of north AC = 5 m
+
+Direction of east AB = 12 m
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 17
+
+Using Pythagoras Theorem
+
+BC2 = AC2 + AB2
+
+Substituting the values
+
+BC2 = 52 + 122
+
+By further calculation
+
+BC2 = 25 + 144 = 169
+
+BC = √169 = √ (13 × 13)
+
+So we get
+
+BC = 13 m
+
+14. Use the information given in the figure to find the length AD.
+
+Selina Solutions Concise Maths Class 7 Chapter 16 Image 18
+
+Solution:
+
+It is given that
+
+AB = 20 cm
+
+AO = AB/2 = 20/2 = 10 cm
+
+BC = OD = 24 cm
+
+Using Pythagoras Theorem
+
+AD2 = AO2 + OD2
+
+Substituting the values
+
+AD2 = 102 + 242
+
+By further calculation
+
+AD2 = 100 + 576 = 676
+
+AD = √676 = √ (26 × 26)
+
+So we get
+
+AD = 26 cm
+ICSE Related Links
+ICSE Vs Cbse 	ISC Class 12 Question Papers
+Concise Physics Class 9 ICSE 	ISC
+ICSE Class 8 Physics Syllabus 	ICSE Chemistry Class 9 Syllabus
+Concise Chemistry Class 9 Icse Selina Solutions 	ICSE Class 10 Chemistry Book Pdf
+ICSE Class 9 Maths Book 	Best ICSE Schools In Hyderabad
+Leave a Comment
+
+Your Mobile number and Email id will not be published. Required fields are marked *
+*
+*
 
 
 
