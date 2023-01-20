@@ -8514,12 +8514,3156 @@ Your Mobile number and Email id will not be published. Required fields are marke
 # Chapter 11 Fundamental Concepts (Including Fundamental Operations)
 
 
+Exercise 11A page: 121
+
+1. Separate constant terms and variable terms from the following:
+
+8, x, 6xy, 6 + x, – 5xy2, 15az2, 32z/ xy, y2/ 3x
+
+Solution:
+
+The constant term is 8.
+
+The variable terms are x, 6xy, 6 + x, – 5xy2, 15az2, 32z/ xy, y2/ 3x.
+
+2. For each expression, given below, state whether it is a monomial, binomial or trinomial:
+
+(i) 2x ÷ 15
+
+(ii) ax + 9
+
+(iii) 3x2 × 5x
+
+(iv) 5 + 2x – 3b
+
+(v) 2y – 7z/3 ÷ x
+
+(vi) 3p × q ÷ z
+
+(vii) 12z ÷ 5x + 4
+
+(viii) 12 – 5z – 4
+
+(ix) a3 -3ab2 × c
+
+Solution:
+
+(i) 2x ÷ 15 = 2x/15
+
+It has one term and hence it is a monomial.
+
+(ii) ax + 9
+
+It has two terms and hence it is a binomial.
+
+(iii) 3x2 × 5x = 15x3
+
+It has one term and hence it is a monomial.
+
+(iv) 5 + 2x – 3b
+
+It has three terms and hence it is a trinomial.
+
+(v) 2y – 7z/3 ÷ x = 2y – 7z/3x
+
+It has two terms and hence it is a binomial.
+
+(vi) 3p × q ÷ z = 3pq/z
+
+It has one term and hence it is a monomial.
+
+(vii) 12z ÷ 5x + 4 = 12z/5x + 4
+
+It has two terms and hence it is a binomial.
+
+(viii) 12 – 5z – 4 = 8 – 5z
+
+It has two terms and hence it is a binomial.
+
+(ix) a3 -3ab2 × c = a3 – 3ab2c
+
+It has two terms and hence it is a binomial.
+
+3. Write the coefficient of:
+
+(i) xy in -3axy
+
+(ii) z2 in p2yz2
+
+(iii) mn in – mn
+
+(iv) 15 in -15p2
+
+Solution:
+
+(i) xy in -3axy
+
+The coefficient of xy in -3axy = -3a
+
+(ii) z2 in p2yz2
+
+The coefficient of z2 in p2yz2 = p2y
+
+(iii) mn in – mn
+
+The coefficient of mn in – mn = -1
+
+(iv) 15 in -15p2
+
+The coefficient of 15 in -15p2 = -p2
+
+4. For each of the following monomials, write its degree:
+
+(i) 7y
+
+(ii) –x2y
+
+(iii) xy2z
+
+(iv) -9y2z3
+
+(v) 3m3n4
+
+(vi) -2p2q3r4
+
+Solution:
+
+(i) The degree of 7y is 1.
+
+(ii) The degree of –x2y = 2 + 1 = 3
+
+(iii) The degree of xy2z = 1 + 2 + 1 = 4
+
+(iv) The degree of -9y2z3 = 2 + 3 = 5
+
+(v) The degree of 3m3n4 = 3 + 4 = 7
+
+(vi) The degree of -2p2q3r4 = 2 + 3 + 4 = 9
+
+5. Write the degree of each of the following polynomials:
+
+(i) 3y3 – x2y2 + 4x
+
+(ii) p3q2 – 6p2q5 + p4q4
+
+(iii) -8mn6 + 5m3n
+
+(iv) 7 – 3x2y + y2
+
+(v) 3x – 15
+
+(vi) 2y2z + 9yz3
+
+Solution:
+
+(i) The degree of 3y3 – x2y2 + 4x is 4
+
+x2y2 is the term which has the highest degree.
+
+(ii) The degree of p3q2 – 6p2q5 + p4q4 is 8
+
+p4q4 is the term which has the highest degree.
+
+(iii) The degree of -8mn6 + 5m3n is 7
+
+-8mn6 is the term which has the highest degree.
+
+(iv) The degree of 7 – 3x2y + y2 is 3
+
+– 3x2y is the term which has the highest degree.
+
+(v) The degree of 3x – 15 is 1
+
+3x is the term which has the highest degree.
+
+(vi) The degree of 2y2z + 9yz3 is 4
+
+9yz3 is the term which has the highest degree.
+
+6. Group the like terms together:
+
+(i) 9x2, xy, -3x2, x2 and -2xy
+
+(ii) ab, -a2b, -3ab, 5a2b and -8a2b.
+
+(iii) 7p, 8pq, -5pq, -2p and 3p
+
+Solution:
+
+(i) 9x2, xy, -3x2, x2 and -2xy
+
+9x2, -3x2 and x2 are like terms
+
+xy and -2xy are like terms.
+
+(ii) ab, -a2b, -3ab, 5a2b and -8a2b
+
+-a2b, 5a2b and -8a2b are like terms
+
+ab and – 3ab are like terms.
+
+(iii) 7p, 8pq, -5pq, -2p and 3p
+
+7p, -2p and 3p are like terms
+
+8pq and -5pq are like terms.
+
+7. Write the numerical coefficient of each of the following:
+
+(i) y
+
+(ii) – y
+
+(iii) 2x2y
+
+(iv) -8xy3
+
+(v) 3py2
+
+(vi) -9a2b3
+
+Solution:
+
+(i) The numerical coefficient of y is 1.
+
+(ii) The numerical coefficient of – y is – 1.
+
+(iii) The numerical coefficient of 2x2y is 2.
+
+(iv) The numerical coefficient of -8xy3 is -8.
+
+(v) The numerical coefficient of 3py2 is 3.
+
+(vi) The numerical coefficient of -9a2b3 is -9.
+
+8. In -5x3y2z4; write the coefficient of:
+
+(i) z2
+
+(ii) y2
+
+(iii) yz2
+
+(iv) x3y
+
+(v) –xy2
+
+(vi) -5xy2z
+
+Also, write the degree of the given algebraic expression.
+
+Solution:
+
+(i) The coefficient of z2 is -5x3y2z2.
+
+(ii) The coefficient of y2 is -5x3z4.
+
+(iii) The coefficient of yz2 is -5x3yz2.
+
+(iv) The coefficient of x3y is -5yz4.
+
+(v) The coefficient of –xy2 is 5x2z4.
+
+(vi) The coefficient of -5xy2z is x2z3.
+
+So the degree of the given algebraic expression = 3 + 2 + 4 = 9.
+Exercise 11B page: 125
+
+1. Fill in the blanks:
+
+(i) 8x + 5x = …….
+
+(ii) 8x – 5x = ……
+
+(iii) 6xy2 + 9xy2 = …….
+
+(iv) 6xy2 – 9xy2 = …….
+
+(v) The sum of 8a, 6a and 5b = …….
+
+(vi) The addition of 5, 7xy, 6 and 3xy = ……..
+
+(vii) 4a + 3b – 7a + 4b = ……….
+
+(viii) – 15x + 13x + 8 = ……..
+
+(ix) 6x2y + 13xy2 – 4x2y + 2xy2 = ………
+
+(x) 16x2 – 9x2 = ……. and 25xy2 – 17xy2 = ………
+
+Solution:
+
+(i) 8x + 5x = 13x
+
+(ii) 8x – 5x = 3x
+
+(iii) 6xy2 + 9xy2 = 15xy2
+
+(iv) 6xy2 – 9xy2 = -3xy2
+
+(v) The sum of 8a, 6a and 5b = 14a + 5b
+
+It can be written as
+
+8a + 6a + 5b = 14a + 5b
+
+(vi) The addition of 5, 7xy, 6 and 3xy = 11 + 10xy
+
+It can be written as
+
+5 + 7xy + 6 + 3xy = 11 + 10xy
+
+(vii) 4a + 3b – 7a + 4b = 7b – 3a
+
+It can be written as
+
+4a + 3b – 7a + 4b = (4 – 7)a + (3 + 4)b
+
+= -3a + 7b
+
+(viii) – 15x + 13x + 8 = 8 – 2x
+
+It can be written as
+
+-15x + 13x + 8 = (-15 + 13) x + 8 = -2x + 8
+
+(ix) 6x2y + 13xy2 – 4x2y + 2xy2 = 2x2y + 15xy2
+
+It can be written as
+
+6x2y + 13xy2 – 4x2y + 2xy2 = (6 – 4) x2y + (13 + 2) xy2
+
+= 2x2y + 15xy2
+
+(x) 16x2 – 9x2 = 7x2 and 25xy2 – 17xy2 = 8xy2
+
+2. Add:
+
+(i) -9x, 3x and 4x
+
+(ii) 23y2, 8y2 and – 12y2
+
+(iii) 18pq, -15pq and 3pq
+
+Solution:
+
+(i) -9x, 3x and 4x
+
+It can be written as
+
+= -9x + 3x + 4x
+
+So we get
+
+= -9x + 7x
+
+= -2x
+
+(ii) 23y2, 8y2 and – 12y2
+
+It can be written as
+
+= 23y2 + 8y2 – 12y2
+
+So we get
+
+= 31y2 – 12y2
+
+= 19y2
+
+(iii) 18pq, -15pq and 3pq
+
+It can be written as
+
+= 18pq – 15pq + 3pq
+
+So we get
+
+= 3pq + 3pq
+
+= 6pq
+
+3. Simplify:
+
+(i) 3m + 12m – 5m
+
+(ii) 7n2 – 9n2 + 3n2
+
+(iii) 25zy – 8zy – 6zy
+
+(iv) -5ax2 + 7ax2 – 12ax2
+
+(v) – 16am + 4mx + 4am – 15mx + 5am
+
+Solution:
+
+(i) 3m + 12m – 5m
+
+It can be written as
+
+= 15m – 5m
+
+So we get
+
+= 10m
+
+(ii) 7n2 – 9n2 + 3n2
+
+It can be written as
+
+= (7 + 3) n2 – 9n2
+
+So we get
+
+= 10n2 – 9n2
+
+= n2
+
+(iii) 25zy – 8zy – 6zy
+
+It can be written as
+
+= 25zy – 14zy
+
+So we get
+
+= 11zy
+
+(iv) -5ax2 + 7ax2 – 12ax2
+
+It can be written as
+
+= (-5 – 12) ax2 + 7ax2
+
+So we get
+
+= -17ax2 + 7ax2
+
+= -10ax2
+
+(v) – 16am + 4mx + 4am – 15mx + 5am
+
+It can be written as
+
+= (-16 + 4 + 5) am + (4 – 15) mx
+
+So we get
+
+= – 7am – 11mx
+
+4. Add:
+
+(i) a + b and 2a + 3b
+
+(ii) 2x + y and 3x – 4y
+
+(iii) -3a + 2b and 3a + b
+
+(iv) 4 + x, 5 – 2x and 6x
+
+Solution:
+
+(i) a + b and 2a + 3b
+
+It can be written as
+
+= a + b + 2a + 3b
+
+So we get
+
+= a + 2a + b + 3b
+
+= 3a + 4b
+
+(ii) 2x + y and 3x – 4y
+
+It can be written as
+
+= 2x + y + 3x – 4y
+
+So we get
+
+= 2x + 3x + y – 4y
+
+= 5x – 3y
+
+(iii) -3a + 2b and 3a + b
+
+It can be written as
+
+= -3a + 2b + 3a + b
+
+So we get
+
+= -3a + 3a + 2b + b
+
+= 3b
+
+(iv) 4 + x, 5 – 2x and 6x
+
+It can be written as
+
+= 4 + x + 5 – 2x + 6x
+
+So we get
+
+= x – 2x + 6x + 4 + 5
+
+= 5x + 9
+
+5. Find the sum of:
+
+(i) 3x + 8y + 7z, 6y + 4z – 2x and 3y – 4x + 6z
+
+(ii) 3a + 5b + 2c, 2a + 3b – c and a + b + c
+
+(iii) 4x2 + 8xy – 2y2 and 8xy – 5y2 + x2
+
+(iv) 9x2 – 6x + 7, 5 – 4x and 6 – 3x2
+
+(v) 5x2 – 2xy + 3y2, -2x2 + 5xy + 9y2 and 3x2 – xy – 4y2
+
+Solution:
+
+(i) 3x + 8y + 7z, 6y + 4z – 2x and 3y – 4x + 6z
+
+It can be written as
+
+= 3x + 8y + 7z + 6y + 4z – 2x + 3y – 4x + 6z
+
+By further calculation
+
+= 3x – 2x – 4x + 8y + 6y + 3y + 7z + 4z + 6z
+
+So we get
+
+= 3x – 6x + 17y + 17z
+
+= -3x + 17y + 17z
+
+(ii) 3a + 5b + 2c, 2a + 3b – c and a + b + c
+
+It can be written as
+
+= 3a + 5b + 2c + 2a + 3b – c + a + b + c
+
+By further calculation
+
+= 3a + 2a + a + 5b + 3b + b + 2c – c + c
+
+So we get
+
+= 6a + 9b + 3c – c
+
+= 6a + 9b + 2c
+
+(iii) 4x2 + 8xy – 2y2 and 8xy – 5y2 + x2
+
+It can be written as
+
+= 4x2 + 8xy – 2y2 + 8xy – 5y2 + x2
+
+By further calculation
+
+= 4x2 + x2 + 8xy + 8xy – 2y2 – 5y2
+
+So we get
+
+= 5x2 + 16xy – 7y2
+
+(iv) 9x2 – 6x + 7, 5 – 4x and 6 – 3x2
+
+It can be written as
+
+= 9x2 – 6x + 7 + 5 – 4x + 6 – 3x2
+
+By further calculation
+
+= 9x2 – 3x2 – 6x – 4x + 7 + 5 + 6
+
+So we get
+
+= 6x2 – 10x + 18
+
+(v) 5x2 – 2xy + 3y2, -2x2 + 5xy + 9y2 and 3x2 – xy – 4y2
+
+It can be written as
+
+= 5x2 – 2xy + 3y2 – 2x2 + 5xy + 9y2 + 3x2 – xy – 4y2
+
+By further calculation
+
+= 5x2 – 2x2 + 3x2 – 2xy + 5xy – xy + 3y2 + 9y2 – 4y2
+
+So we get
+
+= 6x2 + 2xy + 8y2
+
+6. Find the sum of:
+
+(i) x and 3y
+
+(ii) -2a and +5
+
+(iii) -4x2 and + 7x
+
+(iv) +4a and -7b
+
+(v) x3, 3x2y and 2y2
+
+(vi) 11 and –by
+
+Solution:
+
+(i) x and 3y
+
+The sum of x and 3y is x + 3y.
+
+(ii) -2a and +5
+
+The sum of -2a and + 5 is -2a + 5.
+
+(iii) -4x2 and + 7x
+
+The sum of -4x2 and + 7x is -4x2 + 7x.
+
+(iv) +4a and -7b
+
+The sum of +4a and -7b is + 4a – 7b.
+
+(v) x3, 3x2y and 2y2
+
+The sum of x3, 3x2y and 2y2 is x3 + 3x2y + 2y2.
+
+(vi) 11 and –by
+
+The sum of 11 and -by is 11 – by.
+
+7. The sides of a triangle are 2x + 3y, x + 5y and 7x -2y. Find its perimeter.
+
+Solution:
+
+It is given that
+
+Sides of a triangle are 2x + 3y, x + 5y and 7x -2y
+
+We know that
+
+Perimeter = Sum of all three sides of a triangle
+
+Substituting the values
+
+= 2x + 3y + x + 5y + 7x – 2y
+
+By further calculation
+
+= 2x + x + 7x + 3y + 5y – 2y
+
+So we get
+
+= 10x + 8y – 2y
+
+= 10x + 6y
+
+8. The two adjacent sides of a rectangle are 6a + 9b and 8a – 4b. Find its perimeter.
+
+Solution:
+
+It is given that
+
+Sides of a rectangle are 6a + 9b and 8a – 4b
+
+So length = 6a + 9b and breadth = 8a – 4b
+
+We know that
+
+Perimeter = 2 (length + breadth)
+
+Substituting the values
+
+= 2 (6a + 9b + 8a – 4b)
+
+By further calculation
+
+= 2 (14a + 5b)
+
+So we get
+
+= 28a + 10b
+
+9. Subtract the second expression from the first:
+
+(i) 2a + b, a + b
+
+(ii) -2b + 2c, b + 3c
+
+(iii) 5a + b, -6b + 2a
+
+(iv) a3 – 1 + a, 3a – 2a2
+
+(v) p + 2, 1
+
+Solution:
+
+(i) 2a + b, a + b
+
+It can be written as
+
+= (2a + b) – (a + b)
+
+So we get
+
+= 2a + b – a – b
+
+= 2a – a + b – b
+
+= a
+
+(ii) -2b + 2c, b + 3c
+
+It can be written as
+
+= (-2b + 2c) – (b + 3c)
+
+So we get
+
+= -2b + 2c – b – 3c
+
+= -2b – b + 2c – 3c
+
+= -3b – c
+
+(iii) 5a + b, -6b + 2a
+
+It can be written as
+
+= (5a + b) – (-6b + 2a)
+
+So we get
+
+= 5a + b + 6b – 2a
+
+= 5a – 2a + b + 6b
+
+= 3a + 7b
+
+(iv) a3 – 1 + a, 3a – 2a2
+
+It can be written as
+
+= (a3 – 1 + a) – (3a – 2a2)
+
+So we get
+
+= a3 – 1 + a – 3a + 2a2
+
+= a3 + 2a2 + a – 3a – 1
+
+= a3 + 2a2 – 2a – 1
+
+(v) p + 2, 1
+
+It can be written as
+
+= p + 2 – 1
+
+So we get
+
+= p + 1
+
+10. Subtract:
+
+(i) 4x from 8 – x
+
+(ii) -8c from c + 3d
+
+(iii) – 5a – 2b from b + 6c
+
+(iv) 4p + p2 from 3p2 – 8p
+
+(v) 5a – 3b + 2c from 4a – b – 2c
+
+Solution:
+
+(i) 4x from 8 – x
+
+It can be written as
+
+= (8 – x) – 4x
+
+By further calculation
+
+= 8 – x – 4x
+
+= 8 – 5x
+
+(ii) -8c from c + 3d
+
+It can be written as
+
+= (c + 3d) – (-8c)
+
+By further calculation
+
+= c + 3d + 8c
+
+= 9c + 3d
+
+(iii) – 5a – 2b from b + 6c
+
+It can be written as
+
+= (b + 6c) – (-5a – 2b)
+
+By further calculation
+
+= b + 6c + 5a + 2b
+
+= 5a + 3b + 6c
+
+(iv) 4p + p2 from 3p2 – 8p
+
+It can be written as
+
+= (3p2 – 8p) – (4p + p2)
+
+By further calculation
+
+= 3p2 – 8p – 4p – p2
+
+= 2p2 – 12p
+
+(v) 5a – 3b + 2c from 4a – b – 2c
+
+It can be written as
+
+= (4a – b – 2c) – (5a – 3b + 2c)
+
+By further calculation
+
+= 4a – b – 2c – 5a + 3b – 2c
+
+= -a + 2b – 4c
+
+11. Subtract -5a2 – 3a + 1 from the sum of 4a2 + 3 – 8a and 9a – 7.
+
+Solution:
+
+We know that
+
+Sum of 4a2 + 3 – 8a and 9a – 7 can be written as
+
+= 4a2 + 3 – 8a + 9a – 7
+
+By further calculation
+
+= 4a2 + a – 4
+
+Here
+
+(4a2 + a – 4) – (-5a2 – 3a + 1) = 4a2 + a – 4 + 5a2 + 3a – 1
+
+By further calculation
+
+= 4a2 + 5a2 + a + 3a – 4 – 1
+
+So we get
+
+= 9a2 + 4a – 5
+
+12. By how much does 8x3 – 6x2 + 9x – 10 exceed 4x3 + 2x2 + 7x – 3?
+
+Solution:
+
+We know that
+
+8x3 – 6x2 + 9x – 10 exceed 4x3 + 2x2 + 7x – 3
+
+It can be written as
+
+= (8x3 – 6x2 + 9x – 10) – (4x3 + 2x2 + 7x – 3)
+
+By further calculation
+
+= 8x3 – 6x2 + 9x – 10 – 4x3 – 2x2 -7x + 3
+
+So we get
+
+= 8x3 – 4x3 – 6x2 – 2x2 + 9x – 7x – 10 + 3
+
+= 4x3 – 8x2 + 2x – 7
+
+13. What must be added to 2a3 + 5a – a2 – 6 to get a2 – a – a3 + 1?
+
+Solution:
+
+The answer can be obtained by subtracting 2a3 + 5a – a2 – 6 from a2 – a – a3 + 1
+
+= (-a3 + a2 – a + 1) – (2a3 + 5a – a2 – 6)
+
+It can be written as
+
+= -a3 + a2 – a + 1 – 2a3 – 5a + a2 + 6
+
+By further calculation
+
+= – a3 – 2a3 + a2 + a2 – a – 5a + 1 + 6
+
+= -3a3 + 2a2 – 6a + 7
+
+14. What must be subtracted from a2 + b2 + 2ab to get – 4ab + 2b2?
+
+Solution:
+
+The answer can be obtained by subtracting – 4ab + 2b2 from a2 + b2 + 2ab
+
+= a2 + b2 + 2ab – (– 4ab + 2b2)
+
+It can be written as
+
+= a2 + b2 + 2ab + 4ab – 2b2
+
+By further calculation
+
+= a2 + b2 – 2b2 + 2ab + 4ab
+
+= a2 – b2 + 6ab
+
+15. Find the excess of 4m2 + 4n2 + 4p2 over m2 + 3n2 – 5p2.
+
+Solution:
+
+The answer can be obtained by subtracting m2 + 3n2 – 5p2 from 4m2 + 4n2 + 4p2
+
+= (4m2 + 4n2 + 4p2) – (m2 + 3n2 – 5p2)
+
+It can be written as
+
+= 4m2 + 4n2 + 4p2 – m2 – 3n2 + 5p2
+
+By further calculation
+
+= 4m2 – m2 + 4n2 – 3n2 + 4p2 + 5p2
+
+= 3m2 + n2 + 9p2
+Exercise 11C page: 129
+
+1. Multiply:
+
+(i) 3x, 5x2y and 2y
+
+(ii) 5, 3a and 2ab2
+
+(iii) 5x + 2y and 3xy
+
+(iv) 6a – 5b and – 2a
+
+(v) 4a + 5b and 4a – 5b
+
+Solution:
+
+(i) 3x, 5x2y and 2y
+
+Product = 3x × 5x2y × 2y
+
+We can write it as
+
+= 3 × 5 × 2 × x × x2 × y × y
+
+So we get
+
+= 30x3y2
+
+(ii) 5, 3a and 2ab2
+
+Product = 5 × 3a × 2ab2
+
+We can write it as
+
+= 5 × 3 × 2 × a × ab2
+
+So we get
+
+= 30a2b2
+
+(iii) 5x + 2y and 3xy
+
+Product = 3xy (5x + 2y)
+
+We can write it as
+
+= 3xy × 5x + 3xy × 2y
+
+So we get
+
+= 15x2y + 6xy2
+
+(iv) 6a – 5b and – 2a
+
+Product = – 2a (6a – 5b)
+
+We can write it as
+
+= -2a × 6a + 2a × 5b
+
+So we get
+
+= -12a2 + 10ab
+
+(v) 4a + 5b and 4a – 5b
+
+Product = (4a + 5b) (4a – 5b)
+
+So we get
+
+= 16a2 – 25b2
+
+Selina Solutions Concise Maths Class 7 Chapter 11 Image 1
+
+2. Copy and complete the following multiplications:
+
+Selina Solutions Concise Maths Class 7 Chapter 11 Image 2
+
+Solution:
+
+Selina Solutions Concise Maths Class 7 Chapter 11 Image 3
+
+Selina Solutions Concise Maths Class 7 Chapter 11 Image 4
+
+Selina Solutions Concise Maths Class 7 Chapter 11 Image 5
+
+Selina Solutions Concise Maths Class 7 Chapter 11 Image 6
+
+Selina Solutions Concise Maths Class 7 Chapter 11 Image 7
+
+3. Evaluate:
+
+(i) (c + 5) (c – 3)
+
+(ii) (3c – 5d) (4c – 6d)
+
+(iii) (1/2a + 1/2b) (1/2a – 1/2b)
+
+(iv) (a2 + 2ab + b2) (a + b)
+
+(v) (3x – 1) (4x3 – 2x2 + 6x – 3)
+
+Solution:
+
+(i) (c + 5) (c – 3)
+
+It can be written as
+
+= c (c – 3) + 5 (c – 3)
+
+By further calculation
+
+= c2 – 3c + 5c – 15
+
+= c2 + 2c – 15
+
+(ii) (3c – 5d) (4c – 6d)
+
+It can be written as
+
+= 3c (4c – 6d) – 5d (4c – 6d)
+
+By further calculation
+
+= 12c2 – 18cd – 20cd + 30d2
+
+= 12c2 – 38cd + 30d2
+
+(iii) (1/2a + 1/2b) (1/2a – 1/2b)
+
+It can be written as
+
+= 1/2a (1/2a – 1/2b) + 1/2b (1/2a – 1/2b)
+
+By further calculation
+
+= 1/4a2 – 1/4ab + 1/4ab – 1/4b2
+
+= 1/4a2 – 1/4b2
+
+(iv) (a2 + 2ab + b2) (a + b)
+
+It can be written as
+
+= a (a2 + 2ab + b2) + b (a2 + 2ab + b2)
+
+By further calculation
+
+= a3 + 2a2b + ab2 + a2b + 2ab2 + b3
+
+= a3 + b3 + 3a2b + 3ab2
+
+(v) (3x – 1) (4x3 – 2x2 + 6x – 3)
+
+It can be written as
+
+= 3x (4x3 – 2x2 + 6x – 3) – 1 (4x3 – 2x2 + 6x – 3)
+
+By further calculation
+
+= 12x4 – 6x3 + 18x2 – 9x – 4x3 + 2x2 – 6x + 3
+
+= 12x4 – 6x3 – 4x3 + 18x2 + 2x2 – 9x – 6x + 3
+
+So we get
+
+= 12x4 – 10x3 + 20x2 – 15x + 3
+
+4. Evaluate:
+
+(i) (a + b) (a – b).
+
+(ii) (a2 + b2) (a + b) (a – b), using the result of (i).
+
+(iii) (a4 + b4) (a2 + b2) (a + b) (a – b), using the result of (ii).
+
+Solution:
+
+(i) (a + b) (a – b).
+
+It can be written as
+
+= a (a – b) + b (a – b)
+
+By further calculation
+
+= a2 – ab + ab – b2
+
+= a2 – b2
+
+(ii) (a2 + b2) (a + b) (a – b)
+
+Substituting the result of (i)
+
+= (a2 + b2) (a2 – b2)
+
+It can be written as
+
+= a2 (a2 – b2) + b2 (a2 – b2)
+
+So we get
+
+= a4 – a2b2 + a2b2 – b4
+
+= a4 – b4
+
+(iii) (a4 + b4) (a2 + b2) (a + b) (a – b)
+
+Substituting the result of (ii)
+
+= (a4 + b4) (a4 – b4)
+
+It can be written as
+
+= a4 (a4 – b4) + b4 (a4 – b4)
+
+By further calculation
+
+= a8 – a4b4 + a4b4 – b8
+
+= a8 – b8
+
+5. Evaluate:
+
+(i) (3x – 2y) (4x + 3y)
+
+(ii) (3x – 2y) (4x + 3y) (8x – 5y)
+
+(iii) (a + 5) (3a – 2) (5a + 1)
+
+(iv) (a + 1) (a2 – a + 1) and (a – 1) (a2 + a + 1); and then: (a + 1) (a2 – a + 1) + (a – 1) (a2 + a + 1)
+
+(v) (5m – 2n) (5m + 2n) (25m2 + 4n2)
+
+Solution:
+
+(i) (3x – 2y) (4x + 3y)
+
+It can be written as
+
+= 3x (4x + 3y) – 2y (4x + 3y)
+
+By further calculation
+
+= 12x2 + 9xy – 8xy – 6y2
+
+So we get
+
+= 12x2 + xy – 6y2
+
+(ii) (3x – 2y) (4x + 3y) (8x – 5y)
+
+Substituting result of (i)
+
+= (12x2 + xy – 6y2) (8x – 5y)
+
+It can be written as
+
+= 8x (12x2 + xy – 6y2) – 5y (12x2 + xy – 6y2)
+
+By further calculation
+
+= 96x3 + 8x2y – 48xy2 – 60x2y – 5xy2 + 30y3
+
+So we get
+
+= 96x3 + 8x2y – 60x2y – 48xy2 – 5xy2 + 30y3
+
+= 96x3 – 52 x2y – 53xy2 + 30y3
+
+(iii) (a + 5) (3a – 2) (5a + 1)
+
+It can be written as
+
+= a (3a – 2) + 5 (3a – 2) (5a + 1)
+
+By further calculation
+
+= (3a2 – 2a + 15a – 10) (5a + 1)
+
+So we get
+
+= (3a2 + 13a – 10) (5a + 1)
+
+We can write it as
+
+= 5a (3a2 + 13a – 10) + 1 (3a2 + 13a – 10)
+
+By further calculation
+
+= 15a3 + 65a2 – 50a + 3a2 + 13a – 10
+
+= 15a3 + 68a2 – 37a – 10
+
+(iv) (a + 1) (a2 – a + 1) and (a – 1) (a2 + a + 1); and then: (a + 1) (a2 – a + 1) + (a – 1) (a2 + a + 1)
+
+Consider
+
+(a + 1) (a2 – a + 1)
+
+It can be written as
+
+= a (a2 – a + 1) + 1 (a2 – a + 1)
+
+By further calculation
+
+= a3 – a2 + a + a2 – a + 1
+
+So we get
+
+= a3 + 1
+
+(a – 1) (a2 + a + 1)
+
+It can be written as
+
+= a (a2 + a + 1) – 1 (a2 + a + 1)
+
+By further calculation
+
+= a3 + a2 + a – a2 – a – 1
+
+So we get
+
+= a3 – 1
+
+Here
+
+(a + 1) (a2 – a + 1) + (a – 1) (a2 + a + 1)
+
+= a3 + 1 + a3 – 1
+
+= 2a3
+
+(v) (5m – 2n) (5m + 2n) (25m2 + 4n2)
+
+It can be written as
+
+= [5m (5m + 2n) – 2n (5m + 2n)] (25m2 + 4n2)
+
+By further calculation
+
+= (25m2 + 10mn – 10mn – 4n2) (25m2 + 4n2)
+
+So we get
+
+= (25m2 – 4n2) (25m2 + 4n2)
+
+We can write it as
+
+= 25m2 (25m2 + 4n2) – 4n2 (25m2 + 4n2)
+
+By multiplying the terms
+
+= 625m4 + 100m2n2 – 100m2n2 – 16n4
+
+= 625m4 – 16n4
+
+6. Multiply:
+
+(i) mn4, m3n and 5m2n3
+
+(ii) 2mnpq, 4mnpq and 5mnpq
+
+(iii) pq – pm and p2m
+
+(iv) x3 – 3y3 and 4x2y2
+
+(v) a3 – 4ab and 2a2b
+
+Solution:
+
+(i) mn4, m3n and 5m2n3
+
+It can be written as
+
+= 5m2n3 × mn4 × m3n
+
+By further calculation
+
+= 5m(2 + 1 + 3) n(3 + 4 + 1)
+
+= 5m6n8
+
+(ii) 2mnpq, 4mnpq and 5mnpq
+
+It can be written as
+
+= 5mnpq × 2mnpq × 4mnpq
+
+By further calculation
+
+= 5 × 2 × 4 m(1 + 1 + 1) n(1 + 1 + 1) p(1 + 1 + 1) q(1 + 1 + 1)
+
+= 40m3n3p3q3
+
+(iii) pq – pm and p2m
+
+It can be written as
+
+= p2m × (pq – pm)
+
+So we get
+
+= p3qm – p3m2
+
+(iv) x3 – 3y3 and 4x2y2
+
+It can be written as
+
+= 4x2y2 × (x3 – 3y3)
+
+By further calculation
+
+= 4x5y2 – 12x2y5
+
+(v) a3 – 4ab and 2a2b
+
+It can be written as
+
+= 2a2b × (a3 – 4ab)
+
+By further calculation
+
+= 2a5b – 8a3b2
+
+7. Multiply:
+
+(i) (2x + 3y) (2x + 3y)
+
+(ii) (2x – 3y) (2x + 3y)
+
+(iii) (2x + 3y) (2x – 3y)
+
+(iv) (2x – 3y) (2x – 3y)
+
+(v) (-2x + 3y) (2x – 3y)
+
+Solution:
+
+(i) (2x + 3y) (2x + 3y)
+
+It can be written as
+
+= 2x (2x + 3y) + 3y (2x + 3y)
+
+By further calculation
+
+= 4x2 + 6xy + 6xy + 9y2
+
+= 4x2 + 12xy + 9y2
+
+(ii) (2x – 3y) (2x + 3y)
+
+It can be written as
+
+= 2x (2x + 3y) – 3y (2x + 3y)
+
+By further calculation
+
+= 4x2 + 6xy – 6xy – 9y2
+
+= 4x2 – 9y2
+
+(iii) (2x + 3y) (2x – 3y)
+
+It can be written as
+
+= 2x (2x – 3y) + 3y (2x – 3y)
+
+By further calculation
+
+= 4x2 – 6xy + 6xy – 9y2
+
+= 4x2 – 9y2
+
+(iv) (2x – 3y) (2x – 3y)
+
+It can be written as
+
+= 2x (2x – 3y) – 3y (2x – 3y)
+
+By further calculation
+
+= 4x2 – 6xy – 6xy + 9y2
+
+= 4x2 – 12xy + 9y2
+
+(v) (-2x + 3y) (2x – 3y)
+
+It can be written as
+
+= -2x (2x – 3y) + 3y (2x – 3y)
+
+By further calculation
+
+= – 4x2 + 6xy + 6xy – 9y2
+
+= – 4x2 + 12xy – 9y2
+Exercise 11D page: 132
+
+1. Divide:
+
+(i) – 16ab2c by 6abc
+
+(ii) 25x2y by – 5y2
+
+(iii) 8x + 24 by 4
+
+(iv) 4a2 – a by – a
+
+(v) 8m – 16 by – 8
+
+Solution:
+
+(i) – 16ab2c by 6abc
+
+We can write it as
+
+= – 16ab2c/ 6abc
+
+= -8/3 b
+
+(ii) 25x2y by – 5y2
+
+We can write it as
+
+= 25x2y/ -5y2
+
+= -5 x2/y
+
+(iii) 8x + 24 by 4
+
+We can write it as
+
+= (8x + 24)/4
+
+Separating the terms
+
+= 8x/4 + 24/4
+
+= 2x + 6
+
+(iv) 4a2 – a by – a
+
+We can write it as
+
+= (4a2 – a)/ -a
+
+Separating the terms
+
+= 4a2/-a – a/-a
+
+= – 4a + 1
+
+(v) 8m – 16 by – 8
+
+We can write it as
+
+= (8m – 16)/ -8
+
+Separating the terms
+
+= 8m/-8 – 16/-8
+
+= – m + 2
+
+2. Divide:
+
+(i) n2 – 2n + 1 by n – 1
+
+(ii) m2 – 2mn + n2 by m – n
+
+(iii) 4a2 + 4a + 1 by 2a + 1
+
+(iv) p2 + 4p + 4 by p + 2
+
+(v) x2 + 4xy + 4y2 by x + 2y
+
+Solution:
+
+(i) n2 – 2n + 1 by n – 1
+
+Selina Solutions Concise Maths Class 7 Chapter 11 Image 8
+
+n2 – 2n + 1 by n – 1 = n – 1
+
+(ii) m2 – 2mn + n2 by m – n
+
+Selina Solutions Concise Maths Class 7 Chapter 11 Image 9
+
+m2 – 2mn + n2 by m – n = m – n
+
+(iii) 4a2 + 4a + 1 by 2a + 1
+
+Selina Solutions Concise Maths Class 7 Chapter 11 Image 10
+
+4a2 + 4a + 1 by 2a + 1 = 2a + 1
+
+(iv) p2 + 4p + 4 by p + 2
+
+Selina Solutions Concise Maths Class 7 Chapter 11 Image 11
+
+p2 + 4p + 4 by p + 2 = p + 2
+
+(v) x2 + 4xy + 4y2 by x + 2y
+
+Selina Solutions Concise Maths Class 7 Chapter 11 Image 12
+
+x2 + 4xy + 4y2 by x + 2y = x + 2y
+
+3. The area of a rectangle is 6x2 – 4xy – 10y2 square unit and its length is 2x + 2y unit. Find its breadth.
+
+Solution:
+
+It is given that
+
+Area of a rectangle = 6x2 – 4xy – 10y2 square unit
+
+Length = 2x + 2y unit
+
+We know that
+
+Breadth = Area/ Length
+
+So we get
+
+= (6x2 – 4xy – 10y2)/ (2x + 2y)
+
+= 3x – 5y units
+
+Selina Solutions Concise Maths Class 7 Chapter 11 Image 13
+
+4. The area of a rectangular field is 25x2 + 20xy + 3y2 square unit. If its length is 5x + 3y unit, find its breadth. Hence, find its perimeter.
+
+Solution:
+
+It is given that
+
+Area of a rectangular field = 25x2 + 20xy + 3y2 square unit
+
+Length = 5x +3y unit
+
+We know that
+
+Breadth = Area/ Length
+
+So we get
+
+= (25x2 + 20xy + 3y2)/ (5x + 3y)
+
+= 5x + y units
+
+Selina Solutions Concise Maths Class 7 Chapter 11 Image 14
+
+Now the perimeter of the rectangular field = 2 (length + breadth)
+
+Substituting the values
+
+= 2 (5x + 3y + 5x + y)
+
+So we get
+
+= 2 (10x + 4y)
+
+= 20x + 8y
+
+5. Divide:
+
+(i) 2m3n5 by – mn
+
+(ii) 5x2 – 3x by x
+
+(iii) 10x3y – 9xy2 – 4x2y2 by xy
+
+(iv) 3y3 – 9ay2 – 6ab2y by – 3y
+
+(v) x5 – 15x4 – 10x2 by – 5x2
+
+Solution:
+
+(i) 2m3n5 by – mn
+
+It can be written as
+
+= 2m3n5/ -mn
+
+= -2m2n4
+
+(ii) 5x2 – 3x by x
+
+It can be written as
+
+= (5x2 – 3x)/ x
+
+Separating the terms
+
+= 5x2/x – 3x/x
+
+= 5x – 3
+
+(iii) 10x3y – 9xy2 – 4x2y2 by xy
+
+It can be written as
+
+= (10x3y – 9xy2 – 4x2y2)/ xy
+
+Separating the terms
+
+= 10x3y/xy – 9xy2/xy – 4x2y2/xy
+
+= 10x2 – 9y – 4xy
+
+(iv) 3y3 – 9ay2 – 6ab2y by – 3y
+
+It can be written as
+
+= (3y3 – 9ay2 – 6ab2y)/ -3y
+
+Separating the terms
+
+= 3y3/-3y – 9ay2/-3y – 6ab2y/ -3y
+
+= -y2 + 3ay + 2ab2
+
+(v) x5 – 15x4 – 10x2 by – 5x2
+
+It can be written as
+
+= (x5 – 15x4 – 10x2)/ -5x2
+
+Separating the terms
+
+= x5/-5x2 – 15x4/-5x2 – 10x2/-5x2
+
+= -1/5x3 + 3x2 + 2
+Exercise 11E page: 133
+
+Simplify:
+
+1. x/2 + x/4
+
+Solution:
+
+x/2 + x/4
+
+Taking LCM
+
+= (2x + x)/4
+
+= 3x/4
+
+2. a/10 + 2a/5
+
+Solution:
+
+a/10 + 2a/5
+
+Taking LCM
+
+= (a + 4a)/ 10
+
+= 5a/10
+
+= a/2
+
+3. y/4 + 3y/5
+
+Solution:
+
+y/4 + 3y/5
+
+Taking LCM
+
+= (5y + 12y)/ 20
+
+= 17y/20
+
+4. x/2 – x/8
+
+Solution:
+
+x/2 – x/8
+
+Taking LCM
+
+= (4x – x)/ 8
+
+= 3x/8
+
+5. 3y/4 – y/5
+
+Solution:
+
+3y/4 – y/5
+
+Taking LCM
+
+= (15y – 4y)/ 20
+
+= 11y/20
+
+6. 2p/3 – 3p/5
+
+Solution:
+
+2p/3 – 3p/5
+
+Taking LCM
+
+= (10p – 9p)/ 15
+
+= p/15
+
+7. k/2 + k/3 + 2k/5
+
+Solution:
+
+k/2 + k/3 + 2k/5
+
+Here the LCM of 2, 3 and 5 is 30
+
+= (15k + 10k + 12k)/ 30
+
+= 37k/30
+
+8. 2x/5 + 3x/4 – 3x/5
+
+Solution:
+
+2x/5 + 3x/4 – 3x/5
+
+Here the LCM of 5 and 4 is 20
+
+= (8x + 15x – 12x)/ 20
+
+= 11x/20
+
+9. 4a/7 – 2a/3 + a/7
+
+Solution:
+
+4a/7 – 2a/3 + a/7
+
+Here the LCM of 3 and 7 is 21
+
+= (12a – 14a + 3a)/ 21
+
+= a/21
+
+10. 2b/5 – 7b/15 + 13b/3
+
+Solution:
+
+2b/5 – 7b/15 + 13b/3
+
+Here the LCM of 3, 5 and 15 is 15
+
+= (6b – 7b + 65b)/ 15
+
+= 64b/15
+
+11. 6k/7 – (8k/9 – k/3)
+
+Solution:
+
+6k/7 – (8k/9 – k/3)
+
+Here the LCM of 7, 9 and 3 is 63
+
+= [54k – (56k – 21k)]/ 63
+
+By further calculation
+
+= (54k – 35k)/ 63
+
+= 19k/63
+
+12. 3a/8 + 4a/5 – (a/2 + 2a/5)
+
+Solution:
+
+3a/8 + 4a/5 – (a/2 + 2a/5)
+
+Here the LCM of 8, 5 and 2 is 40
+
+= [15a + 32a – (20a + 16a)]/ 40
+
+By further calculation
+
+= (47a – 36a)/ 40
+
+= 11a/40
+
+13. x + x/2 + x/3
+
+Solution:
+
+x + x/2 + x/3
+
+Taking LCM
+
+= (6x + 3x + 2x)/ 6
+
+= 11x/6
+
+14. y/5 + y – 19y/15
+
+Solution:
+
+y/5 + y – 19y/15
+
+Here the LCM of 5 and 15 is 15
+
+= (3y + 15y – 19y)/ 15
+
+So we get
+
+= – y/15
+
+15. x/5 + (x + 1)/2
+
+Solution:
+
+x/5 + (x + 1)/2
+
+Here the LCM of 5 and 2 is 10
+
+= (2x + 5x + 5)/ 10
+
+= (7x + 5)/ 10
+Exercise 11F page: 136
+
+Enclose the given terms in brackets as required:
+
+1. x – y – z = x – (…………)
+
+2. x2 – xy2 – 2xy – y2 = x2 – (………….)
+
+3. 4a – 9 + 2b – 6 = 4a – (………..)
+
+4. x2 – y2 + z2 + 3x – 2y = x2 – (…………)
+
+5. -2a2 + 4ab – 6a2b2 + 8ab2 = -2a (…………….)
+
+Solution:
+
+1. x – y – z = x – (y + z)
+
+2. x2 – xy2 – 2xy – y2 = x2 – (xy2 + 2xy + y2)
+
+3. 4a – 9 + 2b – 6 = 4a – (9 – 2b + 6)
+
+4. x2 – y2 + z2 + 3x – 2y = x2 – (y2 – z2 – 3x + 2y)
+
+5. -2a2 + 4ab – 6a2b2 + 8ab2 = -2a (a – 2b + 3ab2 – 4b2)
+
+Simplify:
+
+6. 2x – (x + 2y – z)
+
+Solution:
+
+2x – (x + 2y – z)
+
+We can write it as
+
+= 2x – x – 2y + z
+
+So we get
+
+= x – 2y + z
+
+7. p + q – (p – q) + (2p – 3q)
+
+Solution:
+
+p + q – (p – q) + (2p – 3q)
+
+We can write it as
+
+= p + q – p + q + 2p – 3q
+
+So we get
+
+= 2p – q
+
+8. 9x – (-4x + 5)
+
+Solution:
+
+9x – (- 4x + 5)
+
+We can write it as
+
+= 9x + 4x – 5
+
+So we get
+
+= 13x – 5
+
+9. 6a – (- 5a – 8b) + (3a + b)
+
+Solution:
+
+6a – (- 5a – 8b) + (3a + b)
+
+We can write it as
+
+= 6a + 5a + 8b + 3a + b
+
+So we get
+
+= 6a + 5a + 3a + 8b + b
+
+= 14a + 9b
+
+10. (p – 2q) – (3q – r)
+
+Solution:
+
+(p – 2q) – (3q – r)
+
+We can write it as
+
+= p – 2q – 3q + r
+
+So we get
+
+= p – 5q + r
+
+11. 9a (2b – 3a + 7c)
+
+Solution:
+
+9a (2b – 3a + 7c)
+
+We can write it as
+
+= 18ab – 27a2 + 63ca
+
+12. – 5m (- 2m + 3n – 7p)
+
+Solution:
+
+– 5m (- 2m + 3n – 7p)
+
+We can write it as
+
+= 10m2 – 15mn + 35mp
+
+13. – 2x (x + y) + x2
+
+Solution:
+
+– 2x (x + y) + x2
+
+We can write it as
+
+= -2x2 – 2xy + x2
+
+So we get
+
+= – x2 – 2xy
+
+14. b (2b – 1/b) – 2b (b – 1/b)
+
+Solution:
+
+b (2b – 1/b) – 2b (b – 1/b)
+
+We can write it as
+
+= 2b2 – 1 – 2b2 + 2
+
+So we get
+
+= 1
+
+15. 8 (2a + 3b – c) – 10 (a + 2b + 3c)
+
+Solution:
+
+8 (2a + 3b – c) – 10 (a + 2b + 3c)
+
+We can write it as
+
+= 16a + 24b – 8c – 10a – 20b – 30c
+
+So we get
+
+= 6a + 4b – 38c
+ICSE Related Links
+ICSE Class 9 Biology Selina Solutions Chapter 17 	ICSE Class 8 Biology Selina Solutions Chapter 8
+ICSE Class 9 Maths Selina Solutions Chapter 18 	ICSE Class 8 Physics Selina Solutions Chapter 1
+ICSE Class 8 Maths Selina Solutions Chapter 11 	ICSE Class 9 Chemistry Selina Solutions Chapter 8
+ICSE Class 9 Biology Selina Solutions Chapter 13 	ICSE Class 8 Maths Selina Solutions Chapter 15
+Icse Selina Solution Concise Biology Class 10 Chapter 11 Sense Organs 	ICSE Class 8 Biology Question Papers
+Leave a Comment
+
+Your Mobile number and Email id will not be published. Required fields are marked *
+*
+*
+
+
 
 
 
 [Go To Top](#top)
 <a name="simple_linear_equation"></a>
 # Chapter 12 Simple Linear Equations (Including Word Problems)
+
+Chapter 12: Simple Linear Equations (Including Word Problems)
+Exercise 12A page: 139
+
+Solve the following questions:
+
+1. x + 5 = 10
+
+Solution:
+
+x + 5 = 10
+
+So we get
+
+x = 10 – 5 = 5
+
+2. 2 + y = 7
+
+Solution:
+
+2 + y = 7
+
+So we get
+
+y = 7 – 2 = 5
+
+3. a – 2 = 6
+
+Solution:
+
+a – 2 = 6
+
+So we get
+
+a = 6 + 2 = 8
+
+4. x – 5 = 8
+
+Solution:
+
+x – 5 = 8
+
+So we get
+
+x = 8 + 5 = 13
+
+5. 5 – d = 12
+
+Solution:
+
+5 – d = 12
+
+So we get
+
+– d = 12 – 5 = 7
+
+d = -7
+
+6. 3p = 12
+
+Solution:
+
+3p = 12
+
+So we get
+
+p = 12/3 = 4
+
+7. 14 = 7m
+
+Solution:
+
+14 = 7m
+
+So we get
+
+m = 14/7 = 2
+
+8. 2x = 0
+
+Solution:
+
+2x = 0
+
+So we get
+
+x = 0/2 = 0
+
+9. x/9 = 2
+
+Solution:
+
+x/9 = 2
+
+So we get
+
+x = 2 × 9 = 18
+
+10. y/-12 = -4
+
+Solution:
+
+y/-12 = -4
+
+So we get
+
+y = -4 × -12 = 48
+
+11. 8x – 2 = 38
+
+Solution:
+
+8x – 2 = 38
+
+So we get
+
+8x = 38 + 2
+
+8x = 40
+
+x = 40/8 = 5
+
+12. 2x + 5 = 5
+
+Solution:
+
+2x + 5 = 5
+
+So we get
+
+2x = 5 – 5
+
+2x = 0
+
+x = 0/2 = 0
+
+13. 5x – 1 = 74
+
+Solution:
+
+5x – 1 = 74
+
+So we get
+
+5x = 74 + 1
+
+5x = 75
+
+x = 75/5 = 15
+
+14. 14 = 27 – x
+
+Solution:
+
+14 = 27 – x
+
+So we get
+
+x = 27 – 14 = 13
+
+15. 10 + 6a = 40
+
+Solution:
+
+10 + 6a = 40
+
+So we get
+
+6a = 40 – 10
+
+6a = 30
+
+a = 30/6 = 5
+Exercise 12B page: 140
+
+Solve:
+
+1. 8y – 4y = 20
+
+Solution:
+
+8y – 4y = 20
+
+By further calculation
+
+4y = 20
+
+So we get
+
+y = 20/4 = 5
+
+2. 9b – 4b + 3b = 16
+
+Solution:
+
+9b – 4b + 3b = 16
+
+By further calculation
+
+8b = 16
+
+So we get
+
+b = 16/8 = 2
+
+3. 5y + 8 = 8y – 18
+
+Solution:
+
+5y + 8 = 8y – 18
+
+By further calculation
+
+8y – 5y = 8 + 18
+
+So we get
+
+3y = 26
+
+y = 26/3 = 8 2/3
+
+4. 6 = 7 + 2p – 5
+
+Solution:
+
+6 = 7 + 2p – 5
+
+By further calculation
+
+2p = 6 – 7 + 5
+
+So we get
+
+2p = 4
+
+p = 4/2 = 2
+
+5. 8 – 7x = 13x + 8
+
+Solution:
+
+8 – 7x = 13x + 8
+
+By further calculation
+
+13x + 7x = 8 – 8
+
+20x = 0
+
+x = 0/20 = 0
+
+6. 4x – 5x + 2x = 28 + 3x
+
+Solution:
+
+4x – 5x + 2x = 28 + 3x
+
+By further calculation
+
+4x – 5x + 2x – 3x = 28
+
+So we get
+
+– 2x = 28
+
+x = 28/-2 = – 14
+
+7. 9 + m = 6m + 8 – m
+
+Solution:
+
+9 + m = 6m + 8 – m
+
+By further calculation
+
+6m – m – m = 9 – 8
+
+4m = 1
+
+So we get
+
+m = 1/4
+
+8. 24 = y + 2y + 3 + 4y
+
+Solution:
+
+24 = y + 2y + 3 + 4y
+
+By further calculation
+
+24 – 3 = 7y
+
+21 = 7y
+
+So we get
+
+y = 21/7 = 3
+
+9. 19x + 13 – 12x + 3 = 23
+
+Solution:
+
+19x + 13 – 12x + 3 = 23
+
+By further calculation
+
+7x = 23 – 16
+
+So we get
+
+7x = 7
+
+x = 7/7 = 1
+
+10. 6b + 40 = – 100 – b
+
+Solution:
+
+6b + 40 = – 100 – b
+
+By further calculation
+
+7b = – 100 – 40
+
+7b = -140
+
+So we get
+
+b = -140/7 = – 20
+
+11. 6 – 5m – 1 + 3m = 0
+
+Solution:
+
+6 – 5m – 1 + 3m = 0
+
+By further calculation
+
+5 – 2m = 0
+
+So we get
+
+2m = 5
+
+m = 5/2 = 2 1/2
+
+12. 0.4x – 1.2 = 0.3x + 0.6
+
+Solution:
+
+0.4x – 1.2 = 0.3x + 0.6
+
+By further calculation
+
+0.1x = 1.8
+
+Multiply and divide both numerator and denominator by 10
+
+1/10x = 18/10
+
+By cross multiplication
+
+x = 18/10 × 10/1 = 18
+
+13. 6 (x + 4) = 36
+
+Solution:
+
+6 (x + 4) = 36
+
+By further calculation
+
+6x + 24 = 36
+
+So we get
+
+6x = 36 – 24
+
+6x = 12
+
+x = 12/6 = 2
+
+14. 9 (a + 5) + 2 = 11
+
+Solution:
+
+9 (a + 5) + 2 = 11
+
+By further calculation
+
+9a + 45 + 2 = 11
+
+So we get
+
+9a = 11 – 47
+
+9a = – 36
+
+a = -36/9 = – 4
+
+15. 4 (x – 2) = 12
+
+Solution:
+
+4 (x – 2) = 12
+
+By further calculation
+
+4x – 8 = 12
+
+So we get
+
+4x = 20
+
+x = 20/4 = 5
+Exercise 12C page: 141
+
+Solve:
+
+1. x/2 + x = 9
+
+Solution:
+
+It is given that
+
+x/2 + x/1 = 9
+
+Taking LCM
+
+(x + 2x)/ 2 = 9
+
+By cross multiplication
+
+x + 2x = 9 × 2
+
+3x = 18
+
+So we get
+
+x = 18/3 = 6
+
+2. x/5 + 2x = 33
+
+Solution:
+
+It is given that
+
+x/5 + 2x/1 = 33
+
+Taking LCM
+
+(x + 10x)/5 = 33
+
+11x/5 = 33
+
+By cross multiplication
+
+11x = 5 × 33 = 165
+
+So we get
+
+x = 165/11 = 15
+
+3. 3x/4 + 4x = 38
+
+Solution:
+
+It is given that
+
+3x/4 + 4x/1 = 38
+
+Taking LCM
+
+(3x + 16x)/ 4 = 38
+
+19x/4 = 38
+
+By cross multiplication
+
+19x = 38 × 4 = 152
+
+So we get
+
+x = 152/19 = 8
+
+4. x/2 + x/5 = 14
+
+Solution:
+
+It is given that
+
+x/2 + x/5 = 14
+
+Taking LCM
+
+(5x + 2x)/ 10 = 14
+
+7x/10 = 14
+
+By cross multiplication
+
+7x = 14 × 10 = 140
+
+So we get
+
+x = 140/7 = 20
+
+5. x/3 – x/4 = 2
+
+Solution:
+
+It is given that
+
+x/3 – x/4 = 2
+
+Taking LCM
+
+(4x – 3x)/ 12 = 2
+
+x/12 = 2
+
+By cross multiplication
+
+x = 12 × 2 = 24
+
+6. y + y/2 = 7/4 – y/4
+
+Solution:
+
+It is given that
+
+y/1 + y/2 = 7/4 – y/4
+
+y/1 + y/2 + y/4 = 7/4
+
+Taking LCM
+
+(4y + 2y + y)/4 = 7/4
+
+7y/4 = 7/4
+
+7y = 7
+
+So we get
+
+y = 7/7 = 1
+
+7. 4x/3 – 7x/3 = 1
+
+Solution:
+
+It is given that
+
+4x/3 – 7x/3 = 1
+
+By further calculation
+
+-3x/3 = 1
+
+So we get
+
+-x = 1
+
+x = – 1
+
+8. (1/2)m + (3/4)m – m = 2.5
+
+Solution:
+
+It is given that
+
+(1/2)m + (3/4)m – m/1 = 2.5
+
+Taking LCM
+
+(2m + 3m – 4m)/ 4 = 2.5
+
+m/4 = 2.5
+
+By cross multiplication
+
+m = 2.5 × 4 = 10
+
+9. 2x/3 + x/2 – 3x/4 = 1
+
+Solution:
+
+It is given that
+
+2x/3 + x/2 – 3x/4 = 1
+
+Taking LCM
+
+(8x + 6x – 9x)/ 12 = 1
+
+5x/12 = 1
+
+By cross multiplication
+
+5x = 1 × 12 = 12
+
+So we get
+
+x = 12/5 = 2 2/5
+
+10. 3a/4 + a/6 = 66
+
+Solution:
+
+It is given that
+
+3a/4 + a/6 = 66
+
+Taking LCM
+
+(9a + 2a)/ 12 = 66
+
+11a/12 = 66
+
+By cross multiplication
+
+11a = 66 × 12 = 792
+
+So we get
+
+a = 792/11 = 72
+
+11. 2p/3 – p/5 = 35
+
+Solution:
+
+It is given that
+
+2p/3 – p/5 = 35
+
+Taking LCM
+
+(10p – 3p)/ 15 = 35
+
+7p/ 15 = 35
+
+By cross multiplication
+
+7p = 35 × 15 = 525
+
+So we get
+
+p = 525/7 = 75
+
+12. 0.6a + 0.2a = 0.4a + 8
+
+Solution:
+
+It is given that
+
+0.6a + 0.2a = 0.4a + 8
+
+Multiplying and dividing both numerator and denominator by 10
+
+6/10a + 2/10a = 4a/10 + 80/10
+
+Taking LCM
+
+(6a + 2a)/ 10 = (4a + 80)/ 10
+
+6a + 2a = 4a + 80
+
+So we get
+
+4a = 80
+
+a = 80/4 = 20
+
+13. p + 1.4p = 48
+
+Solution:
+
+It is given that
+
+p + 1.4p = 48
+
+Multiplying and dividing both numerator and denominator by 10
+
+p + 14/10p = 48
+
+Taking LCM
+
+(10p + 14p)/ 10 = 48
+
+24p/10 = 48
+
+By cross multiplication
+
+24p = 48 × 10 = 480
+
+So we get
+
+p = 480/24 = 20
+
+14. 10% of x = 20
+
+Solution:
+
+It is given that
+
+10% of x = 20
+
+We can write it as
+
+10/100 × x = 20
+
+x/10 = 20
+
+By cross multiplication
+
+x = 20 × 10 = 200
+
+15. y + 20% of y = 18
+
+Solution:
+
+It is given that
+
+y + 20% of y = 18
+
+We can write it as
+
+y + 20/100 × y = 18
+
+Taking LCM
+
+(100y + 20y)/ 100 = 18
+
+By cross multiplication
+
+120y = 18 × 100 = 1800
+
+So we get
+
+y = 1800/120 = 15
+Exercise 12D page: 145
+
+1. One-fifth of a number is 5, find the number.
+
+Solution:
+
+Consider the number = x
+
+Based on the condition
+
+(1/5)x = 5
+
+By cross multiplication
+
+x = 5 × 5 = 25
+
+Hence, the number is 25.
+
+2. Six times a number is 72, find the number.
+
+Solution:
+
+Consider the number = x
+
+Based on the condition
+
+6x = 72
+
+So we get
+
+x = 72/6 = 12
+
+Hence, the number is 12.
+
+3. If 15 is added to a number, the result is 69, find the number.
+
+Solution:
+
+Consider the number = x
+
+Based on the condition
+
+x + 15 = 69
+
+So we get
+
+x = 69 – 15 = 54
+
+Hence, the number is 54.
+
+4. The sum of twice a number and 4 is 80, find the number.
+
+Solution:
+
+Consider the number = x
+
+Based on the condition
+
+2x + 4 = 80
+
+So we get
+
+2x = 80 – 4 = 76
+
+x = 76/2 = 38
+
+Hence, the number is 38.
+
+5. The difference between a number and one-fourth of itself is 24, find the number.
+
+Solution:
+
+Consider the number = x
+
+Based on the condition
+
+x – (1/4)x = 24
+
+Taking LCM
+
+(4x – x)/ 4 = 24
+
+3x/4 = 24
+
+By cross multiplication
+
+x = 24 × 4/3
+
+So we get
+
+x = 8 × 4 = 32
+
+Hence, the number is 32.
+
+6. Find a number whose one-third part exceeds its one-fifth part by 20.
+
+Solution:
+
+Consider the number = x
+
+Based on the condition
+
+(1/3)x – (1/5)x = 20
+
+Here the LCM of 3 and 5 is 15
+
+(5x – 3x)/ 15 = 20
+
+2x/15 = 20
+
+So we get
+
+x = 20 × 15/2 = 150
+
+Hence, the number is 150.
+
+7. A number is as much greater than 35 as is less than 53. Find the number.
+
+Solution:
+
+Consider the number = x
+
+Based on the condition
+
+x – 35 = 53 – x
+
+By further calculation
+
+2x = 88
+
+So we get
+
+x = 88/2 = 44
+
+Hence, the number is 44.
+
+8. The sum of two numbers is 18. If one is twice the other, find the numbers.
+
+Solution:
+
+Consider the first number = x
+
+Second number = y
+
+Based on the condition
+
+x + y = 18 ….. (1)
+
+x = 2y …… (2)
+
+Now substituting the equation (2) in (1)
+
+2y + y = 18
+
+3y = 18
+
+So we get
+
+y = 18/3 = 6
+
+Substituting the value of y in equation (2)
+
+x = 2 × 6 = 12
+
+Hence, the two numbers are 12 and 6.
+
+9. A number is 15 more than the other. The sum of the two numbers is 195. Find the numbers.
+
+Solution:
+
+Consider the first number = x
+
+Second number = y
+
+Based on the condition
+
+x = y + 15 ….. (1)
+
+x + y = 195 …. (2)
+
+Now substituting equation (1) in (2) we get
+
+y + 15 + 7 = 195
+
+2y = 195 – 15 = 180
+
+So we get
+
+y = 180/2 = 90
+
+Substituting the value of y in equation (1)
+
+x = 90 + 15 = 105
+
+Hence, the two numbers are 105 and 90.
+
+10. The sum of three consecutive even numbers is 54. Find the numbers.
+
+Solution:
+
+Consider the first even number = x
+
+Second even number = x + 2
+
+Third even number = x + 4
+
+Based on the condition
+
+x + x + 2 + x + 4 = 54
+
+By further calculation
+
+3x + 6 = 54
+
+3x = 54 – 6 = 48
+
+So we get
+
+x = 48/3 = 16
+
+First even number = 16
+
+Second even number = 16 + 2 = 18
+
+Third even number = 16 + 4 = 20
+
+11. The sum of three consecutive odd numbers is 63. Find the numbers.
+
+Solution:
+
+Consider the first odd number = x
+
+Second odd number = x + 2
+
+Third odd number = x + 4
+
+Based on the condition
+
+x + x + 2 + x + 4 = 63
+
+By further calculation
+
+3x + 6 = 63
+
+3x = 63 – 6 = 57
+
+So we get
+
+x = 57/3 = 19
+
+First odd number = 19
+
+Second odd number = 19 + 2 = 21
+
+Third odd number = 19 + 4 = 23
+
+12. A man has ₹ x from which he spends ₹ 6. If twice of the money left with him is ₹ 86, find x.
+
+Solution:
+
+Consider ₹ x as the total amount
+
+Based on the condition
+
+2x = 86
+
+By further calculation
+
+x = 86/2 = 43
+
+Amount spent by him = ₹ 6
+
+So the total money he have = 43 + 6 = ₹ 49
+
+13. A man is four times as old as his son. After 20 years, he will be twice as old as his son at that time. Find their present ages.
+
+Solution:
+
+Consider the present age of son = x years
+
+So the present age of father = 4x years
+
+After 20 years
+
+Age of son = (x + 20) years
+
+Age of father = (4x + 20) years
+
+Based on the condition
+
+4x + 20 = 2 (x + 20)
+
+By further calculation
+
+4x + 20 = 2x + 40
+
+2x = 20
+
+So we get
+
+x = 10
+
+So the present age of son = 10 years
+
+Present age of father = 4 × 10 = 40 years
+
+14. If 5 is subtracted from three times a number, the result is 16. Find the number.
+
+Solution:
+
+Consider x as the number
+
+Based on the condition
+
+3x – 5 = 16
+
+By further calculation
+
+3x = 16 + 5 = 21
+
+So we get
+
+x = 21/3 = 7
+
+Hence, the number is 7.
+
+15. Find three consecutive natural numbers such that the sum of the first and the second is 15 more than the third.
+
+Solution:
+
+Consider the first consecutive number = x
+
+Second consecutive number = x + 1
+
+Third consecutive number = x + 2
+
+Based on the condition
+
+x + x + 1 = 15 + x + 2
+
+By further calculation
+
+2x + 1 = 17 + x
+
+2x – x = 17 – 1
+
+So we get
+
+x = 16
+
+First consecutive number = 16
+
+Second consecutive number = 16 + 1 = 17
+
+Third consecutive number = 16 + 2 = 18
+ICSE Related Links
+ISC Question Papers Pdf 	ICSE Books For Class 8
+ICSE Solutions 	ICSE 2017 Question Papers
+ICSE Class 8 Physics Question Papers 	ISC Class 11
+ICSE 2014 Maths Question Paper Solved 	ICSE Schools In Ahmedabad
+ICSE Class 10 Maths Solutions 	ISC Class 12 Question Papers
+Leave a Comment
+
+Your Mobile number and Email id will not be published. Required fields are marked *
+*
+*
 
 
 
@@ -8528,6 +11672,940 @@ Your Mobile number and Email id will not be published. Required fields are marke
 [Go To Top](#top)
 <a name="ratio_and-proportion"></a>
 # Chapter 13 Set ConceptsChapter 6 Ratio and Proportion (Including Sharing in a Ratio)
+
+Chapter 13: Set Concepts
+Exercise 13A page: 148
+
+1. Find, whether or not, each of the following collections represent a set:
+
+(i) The collection of good students in your school.
+
+(ii) The collection of the numbers between 30 and 45.
+
+(iii) The collection of fat-people in your colony.
+
+(iv) The collection of interesting books in your school library.
+
+(v) The collection of books in the library and are of your interest.
+
+Solution:
+
+(i) The collection of good students in your school is not a set as it is not well defined.
+
+(ii) The collection of the numbers between 30 and 45 is a set.
+
+(iii) The collection of fat-people in your colony is not a set as it is not well defined.
+
+(iv) The collection of interesting books in your school library is not a set as it is not well defined.
+
+(v) The collection of books in the library and are of your interest is a set.
+
+2. State whether true or false:
+
+(i) Set {4, 5, 8} is same as the set {5, 4, 8} and the set {8, 4, 5}
+(ii) Sets {a, b, m, n} and {a, a, m, b, n, n) are same.
+
+(iii) Set of letters in the word ‘suchismita’ is {s, u, c, h, i, m, t, a}
+(iv) Set of letters in the word ‘MAHMOOD’ is {M, A, H, O, D}.
+
+Solution:
+
+(i) It is true.
+
+(ii) It is true.
+
+(iii) It is true as {s, u, c, h, i, s, m, i, t, a} = {s, u, c, h, i, m, t, a}
+
+(iv) It is true as it has the same elements.
+
+3. Let set A = {6, 8, 10, 12} and set B = {3, 9, 15, 18}.
+Insert the symbol ‘∈ ’ or ‘ ∉ ’ to make each of the following true :
+(i) 6 …. A
+(ii) 10 …. B
+(iii) 18 …. B
+(iv) (6 + 3) …. B
+(v) (15 – 9) …. B
+(vi) 12 …. A
+(vii) (6 + 8) …. A
+(viii) 6 and 8 …. A
+
+Solution:
+
+(i) 6 ∈ A
+
+(ii) 10 ∉ B
+
+(iii) 18 ∈ B
+
+(iv) (6 + 3) or 9 ∈ B
+
+(v) (15 – 9) or 6 ∉ B
+
+(vi) 12 ∈ A
+
+(vii) (6 + 8) or 14 ∉ A
+
+(viii) 6 and 8 ∈ A
+
+4. Express each of the following sets in
+roster form :
+(i) Set of odd whole numbers between 15 and 27.
+(ii) A = Set of letters in the word “CHITAMBARAM”
+(iii) B = {All even numbers from 15 to 26}
+(iv) P = {x : x is a vowel used in the word ‘ARITHMETIC’}
+(v) S = {Squares of first eight whole numbers}
+(vi) Set of all integers between 7 and 94; which are divisible by 6.
+(vii) C = {All composite numbers between 2 and 20}
+(viii) D = Set of Prime numbers from 2 to 23.
+(ix) E = Set of natural numbers below 30 which are divisible by 2 or 5.
+(x) F = Set of factors of 24.
+(xi) G = Set of names of three closed figures in Geometry.
+(xii) H = {x : x ∈ W and x < 10}
+(xiii) J = {x: x ∈ N and 2x – 3 ≤ 17}
+(xiv) K = {x : x is an integer and – 3 < x < 5}
+
+Solution:
+
+(i) {17, 19, 21, 23, 25}
+
+(ii) A = {C, H, I, T, A, M, B, R}
+
+(iii) B = {16, 18, 20, 22, 24, 26}
+
+(iv) P = {a, e, i}
+
+(v) S = {0, 1, 4, 9, 16, 25, 36, 49}
+
+(vi) {12, 18, 24, 30, 36, 42, 48, 54, 60, 66, 72, 78, 84, 90}
+
+(vii) C = {4, 6, 8, 9, 10, 12, 14, 15, 16, 18}
+
+(viii) D = {2, 3, 5, 7, 11, 13, 17, 19, 23}
+
+(ix) E = {2, 4, 5, 6, 8, 10, 12, 14, 15, 16, 18, 20, 22, 24, 25, 26, 28}
+
+(x) F = {1, 2, 3, 4, 6, 8, 12, 24}
+
+(xi) G = {Triangle, Circle, Square}
+
+(xii) H = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+
+(xiii) 2x – 3 ≤ 17
+
+By further calculation
+
+2x ≤ 17 + 3
+
+2x ≤ 20
+
+So we get
+
+x ≤ 20/2
+
+x ≤ 10
+
+Here J = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+
+(xiv) -3 < x < 5
+
+We know that x lies between – 3 and 5
+
+So we get
+
+K = {- 2, – 1, 0, 1, 2, 3, 4}
+
+5. Express each of the following sets in set- builder notation (form):
+(i) {3, 6, 9, 12, 15}
+(ii) {2, 3, 5, 7, 11, 13 …. }
+(iii) {1, 4, 9, 16, 25, 36}
+(iv) {0, 2, 4, 6, 8, 10, 12, …. }
+(v) {Monday, Tuesday, Wednesday}
+(vi) {23, 25, 27, 29, … }
+
+(vii) {1/3, ¼, 1/5, 1/6, 1/7, 1/8}
+
+(viii) {42, 49, 56, 63, 70, 77}
+
+Solution:
+
+(i) {3, 6, 9, 12, 15}
+
+It can be written as
+
+= {x: x is a natural number divisible by 3; x < 18}
+
+(ii) {2, 3, 5, 7, 11, 13 ….}
+
+It can be written as
+
+= {x: x is a prime number}
+
+(iii) {1, 4, 9, 16, 25, 36}
+
+It can be written as
+
+= {x: x is a perfect square natural number; x ≤ 36}
+
+(iv) {0, 2, 4, 6, 8, 10, 12, ….}
+
+It can be written as
+
+= {x: x is a whole number divisible by 2}
+
+(v) {Monday, Tuesday, Wednesday}
+
+It can be written as
+
+= {x: x is one of the first three days of the week}
+
+(vi) {23, 25, 27, 29, …}
+
+It can be written as
+
+= {x: x is an odd natural number; x ≥ 23}
+
+(vii) {1/3, ¼, 1/5, 1/6, 1/7, 1/8}
+
+It can be written as
+
+= {x: x = 1/n when n is a natural number; 3 ≤ n ≤ 8}
+
+(viii) {42, 49, 56, 63, 70, 77}
+
+It can be written as
+
+= {x: x is a natural number divisible by 7; 42 ≤ x ≤ 77}
+
+6. Given: A = {x : x is a multiple of 2 and is less than 25}
+B = {x : x is a square of a natural number and is less than 25}
+C = {x : x is a multiple of 3 and is less than 25}
+D = {x: x is a prime number less than 25}
+Write the sets A, B, C and D in roster form.
+
+Solution:
+
+A = {x : x is a multiple of 2 and is less than 25} = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24}
+
+B = {x : x is a square of a natural number and is less than 25} = {1, 4, 9, 16}
+
+C = {x : x is a multiple of 3 and is less than 25} = {3, 6, 9, 12, 15, 18, 21, 24}
+
+D = {x: x is a prime number less than 25} = {2, 3, 5, 7, 11, 13, 17, 19, 23}
+Exercise 13B page: 150
+
+1. Write the cardinal number of each of the following sets:
+(i) A = Set of days in a leap year.
+(ii) B = Set of numbers on a clock-face.
+(iii) C = {x : x ∈ N and x ≤ 7}
+(iv) D = Set of letters in the word “PANIPAT”.
+(v) E = Set of prime numbers between 5 and 15.
+(vi) F = {x : x ∈ Z and – 2 < x ≤ 5}
+(vii) G = {x : x is a perfect square number, x ∈ N and x ≤ 30}.
+
+Solution:
+
+(i) n (A) = 366
+
+(ii) n (B) = 12
+
+(iii) n (C) = 7
+
+(iv) n (D) = 5
+
+(v) n (E) = 3
+
+(vi) n (F) = 7
+
+(vii) n (G) = 5
+
+2. For each set, given below, state whether it is finite set, infinite set or the null set :
+(i) {natural numbers more than 100}
+(ii) A = {x : x is an integer between 1 and 2}
+(iii) B = {x : x ∈ W ; x is less than 100}.
+(iv) Set of mountains in the world.
+(v) {multiples of 8}.
+(vi) {even numbers not divisible by 2}.
+(vii) {squares of natural numbers}.
+(viii) {coins used in India}
+(ix) C = {x | x is a prime number between 7 and 10}.
+(x) Planets of the Solar system.
+
+Solution:
+
+(i) {natural numbers more than 100}
+
+It is an infinite set.
+
+(ii) A = {x : x is an integer between 1 and 2}
+
+It is a null set.
+
+(iii) B = {x : x ∈ W ; x is less than 100}
+
+It is a finite set as it contains 100 elements from 0 to 99.
+
+(iv) Set of mountains in the world
+
+It is an infinite set.
+
+(v) {multiples of 8}
+
+It is an infinite set.
+
+(vi) {even numbers not divisible by 2}
+
+It is a null set.
+
+(vii) {squares of natural numbers}
+
+It is an infinite set.
+
+(viii) {coins used in India}
+
+It is a finite set as it is countable.
+
+(ix) C = {x | x is a prime number between 7 and 10}
+
+There is no prime number between 7 to 10. It is a null set.
+
+(x) Planets of the Solar system
+
+It is a finite set as it is countable.
+
+3. State, which of the following pairs of sets are disjoint :
+(i) {0, 1, 2, 6, 8} and {odd numbers less than 10}.
+(ii) {birds} and {trees}
+(iii) {x : x is a fan of cricket} and {x : x is a fan of football}.
+(iv) A = {natural numbers less than 10} and B = {x : x is a multiple of 5}.
+(v) {people living in Calcutta} and {people living in West Bengal}.
+
+Solution:
+
+(i) {0, 1, 2, 6, 8} and {odd numbers less than 10}.
+
+We can write it as
+
+{0, 1, 2, 6, 8} and {1, 3, 5, 7, 9}
+
+These are not disjoint sets as there is one element common.
+
+(ii) {birds} and {trees}
+
+These are disjoint sets as there is no common element.
+
+(iii) {x : x is a fan of cricket} and {x : x is a fan of football}.
+
+These are not disjoint sets as there can a person who is a fan of cricket and football.
+
+(iv) A = {natural numbers less than 10} and B = {x : x is a multiple of 5}.
+
+We can write it as
+
+A = {1, 2, 3, 4, 5, 6, 7, 8, 9} and B = {5, 10, 15}
+
+These are not disjoint sets as there is one element common.
+
+(v) {people living in Calcutta} and {people living in West Bengal}.
+
+These are not disjoint sets as Calcutta is a city of West Bengal.
+
+4. State whether the given pairs of sets are equal or equivalent.
+(i) A = {first four natural numbers} and B = {first four whole numbers}.
+(ii) A = Set of letters of the word “FOLLOW” and B = Set of letters of the word “WOLF”.
+(iii) E = {even natural numbers less than 10} and O = {odd natural numbers less than 9}
+(iv) A = {days of the week starting with letter S} and B = {days of the week starting with letter T}.
+(v) M = {multiples of 2 and 3 between 10 and 20} and N = {multiples of 2 and 5 between 10 and 20}.
+(vi) P = {prime numbers which divide 70 exactly} and Q = {prime numbers which divide 105 exactly}
+(vii) A = {0², 1², 2², 3², 4²} and B = {16, 9,4, 1, 0}.
+(viii) E = {8, 1O, 12, 14, 16} and F = {even natural numbers between 6 and 18}.
+(ix) A = {letters of the word SUPERSTITION} and B = {letters of the word JURISDICTION}.
+
+Solution:
+
+(i) A = {first four natural numbers} = {1, 2, 3, 4}
+
+B = {first four whole numbers} = {0, 1, 2, 3}
+
+It is an equivalent set as both have equal number of elements which are not same.
+
+(ii) A = Set of letters of the word “FOLLOW” = {F, 0, L, W}
+
+B = Set of letters of the word “WOLF” = {W, O, L, F}
+
+It is an equal set as both have same and equal elements.
+
+(iii) E = {even natural numbers less than 10} = {2, 4, 6, 8}
+
+O = {odd natural numbers less than 9} = {1, 3, 5, 7}
+
+It is an equivalent set as both have equal number of elements which are not same.
+
+(iv) A = {days of the week starting with letter S} = {Sunday, Saturday}
+
+B = {days of the week starting with letter T} = {Tuesday, Thursday}
+
+It is an equivalent set as both have equal number of elements which are not same.
+
+(v) M = {multiples of 2 and 3 between 10 and 20} = {12, 14, 15, 16, 18}
+
+N = {multiples of 2 and 5 between 10 and 20} = {12, 14, 15, 16, 18}
+
+It is an equal set as both have same and equal elements.
+
+(vi) P = {prime numbers which divide 70 exactly} = {2, 5, 7}
+
+Q = {prime numbers which divide 105 exactly} = {3, 5, 7}
+
+It is an equivalent set as both have equal number of elements which are not same.
+
+(vii) A = {0², 1², 2², 3², 4²} = {0, 1, 4, 9, 16}
+
+B = {16, 9, 4, 1, 0}
+
+It is an equal set as both have same and equal elements.
+
+(viii) E = {8, 10, 12, 14, 16}
+
+F = {even natural numbers between 6 and 18} = {8, 10, 12, 14, 16}
+
+It is an equal set as both have same and equal elements.
+
+(ix) A = {letters of the word SUPERSTITION} = {S, U, P, E, R, T, I, O, N}
+
+B = {letters of the word JURISDICTION} = {J, U, R, I, S, D, C, T, O, N}
+
+It is neither equal nor equivalent sets as they have different and unequal elements.
+
+5. Examine which of the following sets are the empty sets :
+(i) The set of triangles having three equal sides.
+(ii) The set of lions in your class.
+(iii) {x: x + 3 = 2 and x ∈ N}
+(iv) P = {x : 3x = 0}
+
+Solution:
+
+(i) The set of triangles having three equal sides is not an empty set.
+
+(ii) The set of lions in your class is an empty set.
+
+(iii) {x: x + 3 = 2 and x ∈ N}
+
+We can write it as
+
+x + 3 = 2
+
+x = 2 – 3 = – 1 which is not a natural number.
+
+Hence, it is an empty set.
+
+(iv) P = {x : 3x = 0} = {0} which is not an empty set.
+
+Therefore, (ii) and (iii) are empty sets.
+
+6. State true or false :
+(i) All examples of the empty set are equal.
+(ii) All examples of the empty set are equivalent.
+(iii) If two sets have the same cardinal number, they are equal sets.
+(iv) If n (A) = n (B) then A and B are equivalent sets.
+(v) If B = {x : x + 4 = 4}, then B is the empty set.
+(vi) The set of all points in a line is a finite set.
+(vii) The set of letters in your Mathematics book is an infinite set.
+(viii) If M = {1, 2, 4, 6} and N = {x : x is a factor of 12} ; then M = N.
+(ix) The set of whole numbers greater than 50 is an infinite set.
+(x) If A and B are two different infinite sets, then n (A) = n (B).
+
+Solution:
+
+(i) True
+
+(ii) True
+
+(iii) False
+
+(iv) True
+
+(v) False
+
+(vi) False
+
+(vii) False
+
+(viii) False
+
+(ix) True
+
+(x) False
+
+7. Which of the following represent the null set?
+φ, {0}, 0, { }, {φ}.
+
+Solution:
+
+Φ and { } represent the null set as they do not have any element.
+Exercise 13C page: 154
+
+1. Fill in the blanks:
+
+(i) If each element of set P is also an element of set Q, then P is said to be …… of Q and Q is said to be …… of P.
+(ii) Every set is a ….. of itself.
+(iii) The empty set is a …… of every set.
+(iv) If A is proper subset of B, then n (A) …. n (B).
+
+Solution:
+
+(i) If each element of set P is also an element of set Q, then P is said to be a subset of Q and Q is said to be the superset of P.
+
+(ii) Every set is a subset of itself.
+
+(iii) The empty set is a subset of every set.
+
+(iv) If A is proper subset of B, then n (A) is less than n (B).
+
+2. If A = {5, 7, 8, 9}; then which of the following are subsets of A?
+(i) B = {5, 8}
+(ii) C = {0}
+(iii) D = {7, 9, 10}
+(iv) E = { }
+(v) F = {8, 7, 9, 5}
+
+Solution:
+
+(i) B = {5, 8}
+
+Hence, B ⊂ A.
+
+(ii) C = {0} and C  ⋂ A = Ø
+
+Hence, C ⊄ A.
+
+(iii) D = {7, 9, 10}
+
+Hence, D ⊄ A.
+
+(iv) E = { }
+
+Hence, E ⊂ A as we know that an empty set is a subset of every set.
+
+(v) F = {8, 7, 9, 5}
+
+Hence, F ⊂ A as every set is a subset of itself.
+
+Therefore, (i), (iv) and (v) are subsets of A.
+
+3. If P = {2, 3, 4, 5}; then which of the following are proper subsets of P?
+(i) A = {3, 4}
+(ii) B = { }
+(iii) C = {23, 45}
+(iv) D = {6, 5, 4}
+(v) E = {0}
+
+Solution:
+
+It is given that P = {2, 3, 4, 5}
+
+(i) A = {3, 4}
+
+(ii) B = { }
+
+(iii) C = {23, 45}
+
+(iv) D = {6, 5, 4}
+
+(v) E = {0}
+
+Here only A and B are the proper subsets of P.
+
+4. If A = {even numbers less than 12},
+B = {2, 4},
+C = {1, 2, 3},
+D = {2, 6} and E = {4}
+State which of the following statements are true :
+(i) B⊂A
+(ii) C⊆A
+(iii) D⊂C
+(iv) D ⊄ A
+(v)E⊇B
+(vi) A⊇B⊇E
+
+Solution:
+
+A = {even numbers less than 12} = {2, 4, 6, 8, 10}
+
+B = {2, 4}
+
+C = {1, 2, 3}
+
+D = {2, 6} and E = {4}
+
+(i) B⊂A is true.
+
+(ii) C⊆A is false.
+
+(iii) D⊂C is false.
+
+(iv) D ⊄ A is false.
+
+(v) E⊇B is false
+
+(vi) A⊇B⊇E is true.
+
+5. Given A = {a, c}, B = {p, q, r} and C = Set of digits used to form number 1351.
+Write all the subsets of sets A, B and C.
+
+Solution:
+
+A = {a, c}
+
+Hence, the subsets are { } or Φ, {a}, {c} and {a, c}.
+
+B = {p, q, r}
+
+Hence, the subsets are { } or Φ, {p}, {q}, {r}, {p, q}, {p, r}, {q, r} and {p, q, r}.
+
+C = Set of digits used to form number 1351
+
+Hence, the subsets are { } or Φ, {1}, {3}, {5}, {1, 3}, {3, 5}, {1, 5} and {1, 3, 5}.
+
+6. (i) If A = {p, q, r}, then number of subsets of A = ……
+(ii) If B = {5, 4, 6, 8}, then number of proper subsets of B = ……
+(iii) If C = {0}, then number of subsets of C = …..
+(iv) If M = {x : x ∈ N and x < 3}, then M has …… proper subsets.
+
+Solution:
+
+(i) If A = {p, q, r}, then number of subsets of A = 23 = 2 × 2 × 2 = 8.
+
+(ii) If B = {5, 4, 6, 8}, then number of proper subsets of B = 24 – 1 = 2 × 2 × 2 × 2 – 1 = 16 – 1 = 15.
+
+(iii) If C = {0}, then number of subsets of C = 21 = 2.
+
+(iv) If M = {x : x ∈ N and x < 3}, then M has = 22 – 1 = 4 – 1 = 3 proper subsets.
+
+7. For the universal set {4, 5, 6, 7, 8, 9, 10, 11,12,13} ; find its subsets A, B, C and D such that
+(i) A = {even numbers}
+(ii) B = {odd numbers greater than 8}
+(iii) C = {prime numbers}
+(iv) D = {even numbers less than 10}.
+Solution:
+
+(i) A = {even numbers} = {4, 6, 8, 10, 12}
+
+(ii) B = {odd numbers greater than 8} = {9, 11, 13}
+
+(iii) C = {prime numbers} = {5, 7, 11, 13}
+
+(iv) D = {even numbers less than 10} = {4, 6, 8}
+Exercise 13D page: 157
+
+1. If A = {4, 5, 6, 7, 8} and B = {6, 8, 10, 12}, find :
+(i) A∪B
+(ii) A∩B
+(iii) A-B
+(iv) B-A
+
+Solution:
+
+(i) A∪B
+
+We know that
+
+A∪B = {All the elements from set A and all the elements from set B} = {4, 5, 6, 7, 8, 10, 12}
+
+(ii) A∩B
+
+We know that
+
+A∩B = {Elements which are common to both the sets A and B} = {6, 8}
+
+(iii) A-B
+
+We know that
+
+A – B = {Elements of set A which are not in set B} = {4, 5, 7}
+
+(iv) B-A
+
+We know that
+
+B – A = {Elements of set B which are not in set A} = {10, 12}
+
+2. If A = {3, 5, 7, 9, 11} and B = {4, 7, 10}, find:
+(i) n(A)
+(ii) n(B)
+(iii) A∪B and n(A∪B)
+(iv) A∩B and n(A∩B)
+
+Solution:
+
+(i) n(A) = {3, 5, 7, 9, 11} = 5
+
+(ii) n(B) = {4, 7, 10} = 3
+
+(iii) A∪B = {3, 4, 5, 7, 9, 10, 11}
+
+n(A∪B) = 7
+
+(iv) A∩B = {7}
+
+n(A∩B) = 1
+
+3. If A = {2, 4, 6, 8} and B = {3, 6, 9, 12}, find:
+(i) (A ∩ B) and n(A ∩ B)
+(ii) (A – B) and n(A – B)
+(iii) n(B)
+
+Solution:
+
+(i) (A ∩ B) = {6}
+
+n(A ∩ B) = 1
+
+(ii) (A – B) = {2, 4, 8}
+
+n(A – B) = 3
+
+(iii) n(B) = {3, 6, 9, 12} = 4
+
+4. If P = {x : x is a factor of 12} and Q = {x: x is a factor of 16}, find :
+(i) n(P)
+(ii) n(Q)
+(iii) Q – P and n(Q – P)
+
+Solution:
+
+(i) n(P) = Factors of 12 = 1, 2, 3, 4, 6, 12
+
+n(P) = 6
+
+(ii) n(Q) = Factors of 16 = 1, 2, 4, 8, 16
+
+n(Q) = 5
+
+(iii) Q – P and n(Q – P)
+
+We know that
+
+Elements of set P = {1, 2, 3, 4, 6, 12}
+
+Elements of set Q = {1, 2, 4, 8, 16}
+
+So we get
+
+Q – P = {8, 16}
+
+n (Q – P) = 2
+
+5. M = {x : x is a natural number between 0 and 8) and N = {x : x is a natural number from 5 to 10}. Find:
+(i) M – N and n(M – N)
+(ii) N – M and n(N – M)
+
+Solution:
+
+We know that
+
+Natural numbers between 0 and 8 M = {1, 2, 3, 4, 5, 6, 7}
+
+Natural numbers from 5 to 10 N = {5, 6, 7, 8, 9, 10}
+
+(i) M – N = {1, 2, 3, 4}
+
+n(M – N) = 4
+
+(ii) N – M = {8, 9, 10}
+
+n(N – M) = 3
+
+6. If A = {x: x is natural number divisible by 2 and x< 16} and B = {x: x is a whole number divisible by 3 and x < 18}, find :
+(i) n(A)
+(ii) n(B)
+(iii) A∩B and n(A∩B)
+(iv) n(A – B)
+
+Solution:
+
+It is given that
+
+A = {x: x is natural number divisible by 2 and x< 16} = {2, 4, 6, 8, 10, 12, 14}
+
+B = {x: x is a whole number divisible by 3 and x < 18} = {3, 6, 9, 12, 15}
+
+(i) n(A) = 7
+
+(ii) n(B) = 5
+
+(iii) A∩B = {2, 4, 6, 8, 10, 12, 14} ∩ {3, 6, 9, 12, 15} = {6, 12}
+
+n(A∩B) = 2
+
+(iv) We know that
+
+A – B = {2, 4, 6, 8, 10, 12, 14} – {3, 6, 9, 12, 15} = {2, 4, 8, 10, 14}
+
+n(A – B) = 5
+
+7. Let A and B be two sets such that n(A) = 75, M(B) = 65 and n(A ∩ B) = 45, find :
+(i) n(A∪ B)
+(ii) n(A – B)
+(iii) n(B – A)
+
+Solution:
+
+It is given that
+
+n(A) = 75, M(B) = 65 and n(A ∩ B) = 45
+
+(i) n(A∪ B) = n(A) + n(B) – n(A ∩ B)
+
+Substituting the values
+
+n(A∪ B) = 75 + 65 – 45
+
+So we get
+
+n(A∪ B) = 95
+
+(ii) n(A – B) = n(A) – n(A ∩ B)
+
+Substituting the values
+
+n(A – B) = 75 – 45
+
+So we get
+
+n(A – B) = 30
+
+(iii) n(B – A) = n(B) – n(A ∩ B)
+
+Substituting the values
+
+n(B – A) = 65 – 45
+
+So we get
+
+n(B – A) = 20
+
+8. Let A and B be two sets such that n(A) = 45, n(B) = 38 and n(A ∪B) = 70, find :
+(i) n(A∩B)
+(ii) n(A-B)
+(iii) n(B – A)
+
+Solution:
+
+It is given that
+
+n(A) = 45, n(B) = 38 and n(A ∪B) = 70
+
+(i) n(A∩B) = n(A) + n(B) – n(A ∪B)
+
+Substituting the values
+
+n(A∩B) = 45 + 38 – 70
+
+So we get
+
+n(A∩B) = 13
+
+(ii) n(A-B) = n(A ∪B) – n(B)
+
+Substituting the values
+
+n(A- B) = 70 – 38
+
+So we get
+
+n(A – B) = 32
+
+(iii) n(B – A) = n(A ∪B) – n(A)
+
+Substituting the values
+
+n(B – A) = 70 – 45
+
+So we get
+
+n(B – A) = 25
+
+9. Let n(A) 30, n(B) = 27 and n(A∪B) = 45, find :
+(i) n(A∩B)
+(ii) n(A-B)
+
+Solution:
+
+It is given that
+
+n(A) = 30, n(B) = 27 and n(A∪B) = 45
+
+(i) n(A∩B) = n(A) + n(B) – n(A∪B)
+
+Substituting the values
+
+n(A∩B) = 30 + 27 – 45
+
+So we get
+
+n(A∩B) = 12
+
+(ii) n(A-B) = n(A∪B) – n(B)
+
+Substituting the values
+
+n(A-B) = 45 – 27
+
+So we get
+
+n(A-B) = 18
+
+10. Let n(A) = 31, n(B) = 20 and n(A ∩ B) = 6, find:
+(i) n(A-B)
+(ii) n(B – A)
+(iii) n(A ∪B)
+
+Solution:
+
+It is given that
+
+n(A) = 31, n(B) = 20 and n(A ∩ B) = 6
+
+(i) n(A-B) = n(A) – n (A∩ B)
+
+Substituting the values
+
+n(A-B) = 31 – 6
+
+So we get
+
+n(A-B) = 25
+
+(ii) n(B – A) = n(B) – n (A∩ B)
+
+Substituting the values
+
+n(B – A) = 20 – 6
+
+So we get
+
+n(B – A) = 14
+
+(iii) n(A ∪B) = n(A) + n(B) – n (A∩ B)
+
+Substituting the values
+
+n(A ∪B) = 31 + 20 – 6
+
+So we get
+
+n(A ∪B) = 45
+ICSE Related Links
+Concise Chemistry Class 8 Icse Selina Solutions 	ICSE Class 12 Physics Marking Scheme
+Concise Physics Class 9 ICSE 	ICSE Physics Class 10
+CISCE 	Concise Biology Class 10 ICSE Answers
+Physics Class 7 ICSE 	ICSE Class 9 Maths Book
+ICSE Passing Marks 	ICSE Physics Class 10 Book Pdf
+Leave a Comment
+
+Your Mobile number and Email id will not be published. Required fields are marked *
+*
+*
 
 
 
