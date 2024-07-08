@@ -11,10 +11,10 @@ Keys:
 
  For Childred:
    
-   This, That, These, Those, Verbs, 
+   This, That, These, Those, Verbs, Vowels,
    Ing Form, Noun, Pronoun, Preposition, 
    Full Stop, Question Mark, 
-   Part of Body, Internal Organs,
+   Parts of Body, Internal Organs,
 
 
    Prts of Speech, 
@@ -28,19 +28,22 @@ Keys:
 
 > Mathematics(Maths):
 
- Lines (Horizontal, Verstical, Slant)
- Numbers,
- Tables (0,1,2),
- The decimal digits (0,1,2,3,4,5,6,7,8,9),
- Face Value,
- Place Value,
- Expended Form,
- Places (Hunderes(H), Tens(T), Ones(O)),
- Digits,
- Addition(+), Subtraction(-),
- Division(/), Multiplication(x),
- Fraction,
- Number System (Natural, Whole and Integers),
+	Lines (Horizontal, Verstical, Slant)
+	Numbers, Number Names, Digits,
+	Tables (0,1,2),
+	The decimal digits (0,1,2,3,4,5,6,7,8,9),
+	Face Value,	Place Value,	
+	Places ( Hunderes(H), Tens(T), Ones(O) ),	
+	Addition(+), Subtraction(-),
+	Division(/), Multiplication(x),
+	Expended Form, Fraction,
+	Number System (Natural, Whole and Integers),
+
+	Positive(Big, Small) Degree,
+	Comparative(Bigger, Smaller) Degree,
+	Superlative(Bigest, Smallest) Degrees,
+
+    Problem Sums (World Problems)
 
 
 > Hindi: 
@@ -53,8 +56,11 @@ Keys:
   Solar System, Trees, Roots, Flowers, 
 
 
---------------------------------------------------------
+-------------- X --------------------------------
 
+
+
+English: 
 
 Prts of Speech:
 
