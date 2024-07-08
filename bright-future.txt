@@ -4,13 +4,54 @@
 
 --------------------------------------------------------
 
+
 Keys: 
 
- Prts of Speech, 
- Tenses (Active Voice), 
- Passive Voice,
- Modal Verbs, 
- Hypothetical Situation,
+> English: 
+
+ For Childred:
+   
+   This, That, These, Those, Verbs, 
+   Ing Form, Noun, Pronoun, Preposition, 
+   Full Stop, Question Mark, 
+   Part of Body, Internal Organs,
+
+
+   Prts of Speech, 
+   Tenses (Active Voice), 
+   Passive Voice,
+   Modal Verbs, 
+   Hypothetical Situation,
+   Causative Vers,
+   Modal Verbs
+
+
+> Mathematics(Maths):
+
+ Lines (Horizontal, Verstical, Slant)
+ Numbers,
+ Tables (0,1,2),
+ The decimal digits (0,1,2,3,4,5,6,7,8,9),
+ Face Value,
+ Place Value,
+ Expended Form,
+ Places (Hunderes(H), Tens(T), Ones(O)),
+ Digits,
+ Addition(+), Subtraction(-),
+ Division(/), Multiplication(x),
+ Fraction,
+ Number System (Natural, Whole and Integers),
+
+
+> Hindi: 
+
+
+
+> Science:
+
+  Action, Energy, Force, Electricity, Magnets,
+  Solar System, Trees, Roots, Flowers, 
+
 
 --------------------------------------------------------
 
