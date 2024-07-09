@@ -11,6 +11,7 @@ Keys:
 
  For Childred:
    
+   A-Z,
    This, That, These, Those, Verbs, Vowels,
    Ing Form, Noun, Pronoun, Preposition, 
    Full Stop, Question Mark, 
@@ -28,7 +29,10 @@ Keys:
 
 > Mathematics(Maths):
 
-	Lines (Horizontal, Verstical, Slant)
+    Types of lines(Line,Ray,Line Segment),
+	Lines (Horizontal, Verstical, Slant),
+	Parellel, Perpendicular, Intersecting lines,
+	Angles, Triangles, Quadrilateral,
 	Numbers, Number Names, Digits,
 	Tables (0,1,2),
 	The decimal digits (0,1,2,3,4,5,6,7,8,9),
@@ -56,6 +60,7 @@ Keys:
   Solar System, Trees, Roots, Flowers, 
 
 
+
 -------------- X --------------------------------
 
 
@@ -66,6 +71,22 @@ Prts of Speech:
 
 
  Noun, Pronoun, Verb, Adverb, Adjective, Preposition, Conjunction, Interjection
+
+
+
+
+Identifying a Point of View: 
+
+
+First Person  ->  I, me, my, mine, our, ours, 
+                  myself, we, ourselves
+
+Second Person ->  You, your, yours, yourself
+
+Third Person  ->  She, her, he, him, they, them,
+                  herself, hers, himself, his, 
+                  themselves, their, theirs
+                 
 
 -----------------------------------------------------------
 
