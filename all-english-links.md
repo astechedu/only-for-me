@@ -7,6 +7,8 @@ All English Links
 
 # 1. English Grammar
 
+   [Bright Future: Children Vocabulary](children-vocabulary.md)
+   
    [Parts of speech](parts-of-speech.md)
    
    [Active Voice (Tenses)](active-voice.md)
@@ -30,8 +32,6 @@ All English Links
    [Assertive Sentences](assertive-sentences.md)
    
    [xyz](zyx.md)  
-
-   [Bright Future: Children Vocabulary](children-vocabulary.md)
 
 
 
