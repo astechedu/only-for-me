@@ -5,6 +5,8 @@
 
 
 
+# Bright Future: Children School
+  [Bright Future](children-vocabulary.md)
 
 
 # 1. Maths
@@ -35,8 +37,7 @@
 # 6. Daily Working List
   [Daily Working List](daily-working-links.md)
 
-# 6. Children School: Bright Future
-  [Bright Future](children-vocabulary.md)
+
 
 
 
