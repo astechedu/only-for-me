@@ -36,7 +36,7 @@
   [Daily Working List](daily-working-links.md)
 
 # 6. Children School: Bright Future
-  [Bright Future](children-vocalulary.md)
+  [Bright Future](children-vocabulary.md)
 
 
 
