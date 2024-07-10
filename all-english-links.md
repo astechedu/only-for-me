@@ -31,7 +31,7 @@ All English Links
    
    [xyz](zyx.md)  
 
-   [Children Vocabulary](children-vocabulary.md)
+   [Bright Future: Children Vocabulary](children-vocabulary.md)
 
 
 
