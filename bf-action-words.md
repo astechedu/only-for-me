@@ -24,5 +24,5 @@
 
 <img src="https://en.learniv.com/info/en/wp-content/uploads/2023/03/10-sentences-in-the-present-continuous-tense.png" width="310" height="220">
 
-<img src="https://i0.wp.com/onlymyenglish.com/wp-content/uploads/2020/08/Example-of-Present-Continuous-Tense.png?resize=707%2C1000&ssl=1" width="310" height="220">
+<img src="https://i0.wp.com/onlymyenglish.com/wp-content/uploads/2020/08/Example-of-Present-Continuous-Tense.png?resize=707%2C1000&ssl=1" width="320" height="380">
 
