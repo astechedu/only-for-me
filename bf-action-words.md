@@ -15,7 +15,7 @@
 
 <img src="https://i.ytimg.com/vi/z95ScJn9gGQ/sddefault.jpg" width="300" height="230">
 
-<img src="https://i.ytimg.com/vi/c6Sc5ZUha4o/hqdefault.jpg" width="30" height="230">
+<img src="https://i.ytimg.com/vi/c6Sc5ZUha4o/hqdefault.jpg" width="300" height="230">
 
 
 <img src="https://i.ytimg.com/vi/HXl8MZhZx6M/maxresdefault.jpg" width="670" height="370">
