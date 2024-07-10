@@ -18,3 +18,6 @@
 <img src="https://lectii-engleza.ro/wp-content/uploads/2021/04/4-39-1024x576.png" width="350" height="200">
 
 <img src="https://englishwithashish.com/wp-content/uploads/2021/09/DEMONSTRATIVE-ADJECTIVE-1-1024x819.png" width="470" height="300">
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzvQWK9KoRqSHVvbz-dopBD-sUaJDh-v-g_ZygjCUXXtHyMn0OVEa6QN6BOnLYHmqlFvE&usqp=CAU" width="300" height="200">
