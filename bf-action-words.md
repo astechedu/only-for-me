@@ -13,9 +13,9 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBFKiHZx6WlHbZpq-c11TszLGnWHWuyQMUOaf-R3prJuGE_1VJ_Heex6DDT2fQTXUh0vk&usqp=CAU" width="350" height="300">
 
-<img src="https://i.ytimg.com/vi/z95ScJn9gGQ/sddefault.jpg" width="310" height="260">
+<img src="https://i.ytimg.com/vi/z95ScJn9gGQ/sddefault.jpg" width="300" height="230">
 
-<img src="https://i.ytimg.com/vi/c6Sc5ZUha4o/hqdefault.jpg" width="350" height="300">
+<img src="https://i.ytimg.com/vi/c6Sc5ZUha4o/hqdefault.jpg" width="30" height="230">
 
 
 <img src="https://i.ytimg.com/vi/HXl8MZhZx6M/maxresdefault.jpg" width="670" height="370">
