@@ -35,8 +35,8 @@
 
 <img src="https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/thinking-asian-non-binary-child-grammarjcndskcnlk_ver_3.png" width="350" height="150">
 
-<img src="https://i0.wp.com/i0.wp.com/www.grammar.cl/rules/possessive-adjectives-english.gif?resize=650,400" width="350" height="150">
+<img src="https://i0.wp.com/i0.wp.com/www.grammar.cl/rules/possessive-adjectives-english.gif?resize=650,400" width="350" height="250">
 
-<img src="https://i.ytimg.com/vi/rF070hPFbas/maxresdefault.jpg" width="350" height="150">
+<img src="https://i.ytimg.com/vi/rF070hPFbas/maxresdefault.jpg" width="350" height="250">
 
 <img src="https://i0.wp.com/exhibitaenglish.com/wp-content/uploads/2023/02/possessive-adjectives-and-pronouns.png?resize=840%2C376&ssl=1" width="350" height="150">
