@@ -5,7 +5,7 @@
 
 [Bright Future](bright-future.md)
 
-[English](all-english-links.md)
+[English Page Link](all-english-links.md)
 
 # Action Words
 
