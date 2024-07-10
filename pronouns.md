@@ -3,7 +3,7 @@
 
 [Home](all-files-links.md)
 
-[Bright Future](children-vocabulary.md)
+[Bright Future](bright-future.md)
 
 [English](all-english-links.md)
 
