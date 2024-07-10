@@ -7,7 +7,7 @@ All English Links
 
 # 1. English Grammar
 
-   [Bright Future: Children Vocabulary](children-vocabulary.md)
+   [Bright Future: Children Vocabulary](bright-future.md)
    
    [Parts of speech](parts-of-speech.md)
    

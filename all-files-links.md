@@ -6,7 +6,7 @@
 
 
 # Bright Future: Children School
-  [Bright Future](children-vocabulary.md)
+  [Bright Future](bright-future.md)
 
 
 # 1. Maths
