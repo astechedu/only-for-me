@@ -1,7 +1,7 @@
 
 # Hindi Direct And Indirect
 
-
+[Home](all-files-links.md)
 
 
 
