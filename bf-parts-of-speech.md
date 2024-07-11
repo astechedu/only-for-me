@@ -30,7 +30,7 @@
 <img src="https://www.tiwariacademy.com/app/uploads/2023/07/4-English-Grammar-Chapter-14-1.jpg.jpg" width="350" height="380">
 <img src="https://i.pinimg.com/originals/f2/e3/fb/f2e3fb0d0a207b94c82bdc9afb0bb226.jpg" width="350" height="380">
 <img src="https://i.ytimg.com/vi/oIDAHRcu9eM/maxresdefault.jpg" width="350" height="250">
-<img src="https://i.ytimg.com/vi/e8WbqznOxGk/mqdefault.jpg" width="350" height="250">
+<img src="https://i.ytimg.com/vi/e8WbqznOxGk/mqdefault.jpg" width="320" height="230">
 <img src="https://i.ytimg.com/vi/dZ1KdgzShss/mqdefault.jpg" width="350" height="250">
 
 
