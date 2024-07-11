@@ -19,8 +19,11 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDMcup1RyKy3h_Z8VN89l5zf0q_Yzl7U5iG6ZjZCd1KpS0ko5SP559OPqlNWwHlL63UqM&usqp=CAU" width="280" height="150">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_W0XPqhNiLbf33CbrgShhGMeeHN3qjHLInM_GrD0svsm3MztiB3fetdqK0QfdYDNPwLhAwFBJ1epDVHrRBK6a3xGsQ4O74jka2zCD2iYvcgKptWFKAsOp_keB-VKOStWVAHDziLkUWRGcRs5yYElEHxTl6vFlWlkJwU5JqZRpu_rzGh5fXJVOfZ45/s1200/pit%20negative-min-min.png" width="280" height="150">
-<img src="https://www.topprnation.in/wp-content/uploads/2021/01/Present-Perfect-Tense-in-Hindi.jpg" width="280" height="150">
-<img src="https://www.topprnation.in/wp-content/uploads/2021/01/Present-Perfect-Continuous-Tense-in-Hindi.jpg" width="280" height="150">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl-4USwVE_GZRyOk7do1lBNdiAG7khZ_ShFDAdw7w8zQSHYecA4zwV2h9DtCu-YyVhS5U&usqp=CAU" width="280" height="150">
+<img src="https://www.topprnation.in/wp-content/uploads/2022/12/100-sentences-of-present-continuous-tense-in-hindi-examples.jpg" width="280" height="150">
+<img src="https://www.grammarinhindi.in/wp-content/uploads/2023/07/100-sentences-of-present-continuous-tense-in-hindi.png" width="280" height="150">
+
+<img src="https://angrejipustak.com/wp-content/uploads/2021/05/present-perfect-tense-in-Hindi.jpg" width="280" height="150">
 
 # Past: 
 
