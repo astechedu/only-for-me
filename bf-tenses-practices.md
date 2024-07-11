@@ -34,7 +34,7 @@
 
 # Past: 
 
-<img src="https://blogassets.leverageedu.com/media/uploads/sites/2/2023/07/21174845/Hindi-Blog-Covers-20-2.jpg" width="450" height="350">
+<img src="https://i.ytimg.com/vi/OTZjt4HPFGc/maxresdefault.jpg" width="280" height="180">
 
 <img src="https://i.ytimg.com/vi/ndAklBviHFo/maxresdefault.jpg" width="280" height="150">
 <img src="https://i.pinimg.com/736x/79/c1/ec/79c1eccc96ad03ac3ec082a4584415af.jpg" width="250" height="150">
