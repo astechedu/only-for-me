@@ -19,3 +19,6 @@
 # Important Sentences
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSu76yWgYzyRZRUxe6FLF-f2nVb8j4uPeRq0YRM8tgnXEHV3ocPNrYth8ld8KSwCCcjE&usqp=CAU" width="350" height="250">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE17ipXFUuOL74DeKn0a1nJs5qk35MxB2Vk_yFPaxv2q54ABprqt-GjcaxnXMh3134Gqc&usqp=CAU" width="350" height="250">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4CjhMuWgMwTz5pHmqycsv6V4TR0BLPTrA2XLBakUEXPZIMu0DZsWwXVo_IVyUEUdohuU&usqp=CAU" width="350" height="250">
+<img src="https://i.pinimg.com/originals/22/f1/b9/22f1b97d53dee12b089b21784f8d2782.jpg" width="350" height="250">
