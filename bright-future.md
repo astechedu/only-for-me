@@ -14,6 +14,7 @@
 4. [Passive Voice](bf-passive-voice.md)
 5. [Modal Verbs: Can, May, Might, Would, Could, Should](bf-modal-verbs.md)
 6. [Passive Voice](bf-passive-voice.md)
+7. [Hypothetical: Conditional Sentences](bf-hypothetical.md)
 
 # Hindi
 
