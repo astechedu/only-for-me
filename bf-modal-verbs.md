@@ -9,7 +9,7 @@
 
 
 <img src="https://i.ytimg.com/vi/mBfP5UqB8BA/maxresdefault.jpg" width="330" height="180">
-<img src="https://i.pinimg.com/originals/a5/5c/8b/a55c8b4482fbcbeced3e20f48ad4ccd6.jpg" width="300" height="280">
+<img src="https://i.pinimg.com/originals/a5/5c/8b/a55c8b4482fbcbeced3e20f48ad4ccd6.jpg" width="350" height="280">
 <img src="https://i.ytimg.com/vi/rrsshJXlwd0/maxresdefault.jpg" width="280" height="150">
 <img src="https://i.ytimg.com/vi/jd5rpsokP-c/maxresdefault.jpg" width="350" height="240">
 <img src="https://i.ytimg.com/vi/9sf4UeCq1p0/maxresdefault.jpg" width="300" height="200">
