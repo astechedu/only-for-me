@@ -15,7 +15,7 @@
 # Structures
 
 <img src="https://i.ytimg.com/vi/zbwHGfqrAUw/maxresdefault.jpg" width="450" height="350">
-<img src="https://i.ytimg.com/vi/XpyWYgyxhPQ/sddefault.jpg" width="450" height="350">
+<img src="https://i.ytimg.com/vi/XpyWYgyxhPQ/sddefault.jpg" width="410" height="310">
 
 # Present: 
 
