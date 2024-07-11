@@ -20,8 +20,8 @@
 <img src="https://image.slidesharecdn.com/modals-201229071942/85/Modals-10-320.jpg" width="280" height="150">
 <img src="https://i.ytimg.com/vi/kCKhoybj54g/mqdefault.jpg" width="280" height="150">
 <img src="https://i.ytimg.com/vi/kCKhoybj54g/mqdefault.jpg" width="280" height="150">
-<img src="https://image.slidesharecdn.com/modals-201229071942/85/Modals-19-320.jpg" width="280" height="150">
-<img src="https://image.slidesharecdn.com/modals-201229071942/85/Modals-20-320.jpg" width="280" height="150">
+<img src="https://image.slidesharecdn.com/modals-201229071942/85/Modals-19-320.jpg" width="300" height="180">
+<img src="https://image.slidesharecdn.com/modals-201229071942/85/Modals-20-320.jpg" width="280" height="160">
 
-<img src="https://i.pinimg.com/originals/b7/a9/42/b7a942edfafa7c6a3ffe005b5f8f8d0a.jpg" width="320" height="200">
-<img src="https://i.ytimg.com/vi/UZibOK2aigU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDukfmUYn8J6Y4XOcuRQ7APhoANDA" width="320" height="200">
+<img src="https://i.pinimg.com/originals/b7/a9/42/b7a942edfafa7c6a3ffe005b5f8f8d0a.jpg" width="350" height="250">
+<img src="https://i.ytimg.com/vi/UZibOK2aigU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDukfmUYn8J6Y4XOcuRQ7APhoANDA" width="250" height="150">
