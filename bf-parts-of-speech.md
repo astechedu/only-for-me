@@ -1,4 +1,4 @@
-# Tenses, Types of tenses
+# Parts of speech
 
 
 [Home](all-files-links.md)
@@ -8,9 +8,9 @@
 [English Page Link](all-english-links.md)
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsrDrzd_T7LjI6EanqK4hYzSZUl-Irm9V-pRlNEUYWhhHa3UjKcargw99qRc7L-G2Iw0I&usqp=CAU" width="300" height="100">
-<img src="https://i.ytimg.com/vi/A4qpYWBbOlo/maxresdefault.jpg" width="280" height="150">
-<img src="https://www.careerpower.in/images/tense-chart.png" width="450" height="350">
+<img src="https://i.ytimg.com/vi/0l69KEx7GQo/maxresdefault.jpg" width="300" height="100">
+<img src="https://mycoaching.in/wp-content/uploads/Parts-of-Speech.webp" width="280" height="150">
+<img src="https://vuniversity.in/wp-content/uploads/2023/09/Parts-Of-Speech.png" width="450" height="350">
 
 # Structures
 
