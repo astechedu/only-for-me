@@ -22,8 +22,8 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl-4USwVE_GZRyOk7do1lBNdiAG7khZ_ShFDAdw7w8zQSHYecA4zwV2h9DtCu-YyVhS5U&usqp=CAU" width="280" height="150">
 <img src="https://www.topprnation.in/wp-content/uploads/2022/12/100-sentences-of-present-continuous-tense-in-hindi-examples.jpg" width="280" height="150">
 <img src="https://www.grammarinhindi.in/wp-content/uploads/2023/07/100-sentences-of-present-continuous-tense-in-hindi.png" width="280" height="150">
-
 <img src="https://angrejipustak.com/wp-content/uploads/2021/05/present-perfect-tense-in-Hindi.jpg" width="280" height="150">
+<img src="https://onlymyhindi.com/wp-content/uploads/present-perfect-tense-in-hindi-745x1024.png" width="280" height="150">
 
 # Past: 
 
