@@ -65,4 +65,4 @@
 # More Examples
 
 <img src="https://i.ytimg.com/vi/WRTuDuDhELE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCpeYGme97aVXPhjYE8GHMdH9xuhA" width="280" height="150">
-<img src="https://www.worksheetsplanet.com/wp-content/uploads/2023/10/Interrogative-Sentences-Examples.jpg" width="360" height="220">
+<img src="https://www.worksheetsplanet.com/wp-content/uploads/2023/10/Interrogative-Sentences-Examples.jpg" width="380" height="280">
