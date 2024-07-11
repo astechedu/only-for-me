@@ -46,5 +46,8 @@
 <img src="https://www.grammarinhindi.in/wp-content/uploads/2023/04/adjective-in-hindi-definition-rules-types-and-examples.jpg" width="350" height="250">
 <img src="https://i.ytimg.com/vi/MmsiIcviCnI/maxresdefault.jpg" width="350" height="250">
 
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbPWRmLQhkrt5SCTATwbldLj9Qm-5NYV5Qemxd6HQNDI0dVHcSJ7QMz_EUDLtwnfak-fkdfCWRt919ClnAec21ZBKqXu5_DnmA4m9rEdR-9reOAJeo3b1JiD9GIyaOYOc8EWTD9aRHeLQ29kxcZDM0CQLt_BcS_AWuZ7V9BPq-koqfqBhwb0BHVuUh/s1200/Types%20of%20Adverb%202-min.png" width="350" height="250">
+<img src="https://image.slidesharecdn.com/praveenkritkriyavisheshan-161123155709/85/KRIYAVISHESHAN-ADVERB-IN-HINDI-9-320.jpg" width="250" height="210">
+
 
 <img src="https://i.ytimg.com/vi/8nDVsBro3SQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB2IaCq4FpjlifOe7GHQ_SBonajCQ" width="290" height="270">
