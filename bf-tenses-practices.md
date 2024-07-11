@@ -66,3 +66,6 @@
 
 <img src="https://i.ytimg.com/vi/WRTuDuDhELE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCpeYGme97aVXPhjYE8GHMdH9xuhA" width="280" height="150">
 <img src="https://www.worksheetsplanet.com/wp-content/uploads/2023/10/Interrogative-Sentences-Examples.jpg" width="390" height="290">
+<img src="https://en.learniv.com/info/en/wp-content/uploads/2023/04/10-past-simple-question-sentences.webp" width="390" height="290">
+<img src="https://i0.wp.com/onlymyenglish.com/wp-content/uploads/2020/12/Examples-of-Interrogative-Sentence-1-min.png?resize=750%2C1000&ssl=1" width="390" height="290">
+<img src="https://englishstudyhere.com/wp-content/uploads/2020/10/50-Examples-with-Interrogative-Sentences-Interrogative-Sentences.png" width="390" height="290">
