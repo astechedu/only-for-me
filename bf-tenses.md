@@ -17,5 +17,7 @@
 
 <img src="https://www.topprnation.in/wp-content/uploads/2021/01/present-indefinite-tense-in-Hindi-affirmative-sentences-example-1024x576.png" width="280" height="150">
 <img src="https://www.topprnation.in/wp-content/uploads/2021/01/Present-Continuous-Tense-in-Hindi.jpg" width="280" height="150">
-<img src="https://www.topprnation.in/wp-content/uploads/2021/01/Present-Continuous-Tense-in-Hindi.jpg" width="280" height="150">
+<img src="https://www.topprnation.in/wp-content/uploads/2021/01/Present-Perfect-Tense-in-Hindi.jpg" width="280" height="150">
+<img src="https://www.topprnation.in/wp-content/uploads/2021/01/Present-Perfect-Continuous-Tense-in-Hindi.jpg" width="280" height="150">
+
 
