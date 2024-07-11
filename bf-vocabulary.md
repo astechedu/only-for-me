@@ -30,4 +30,4 @@
 <img src="https://mycoaching.in/wp-content/uploads/Words-Meaning-in-Hindi.webp" width="250" height="200">
 
 <img src="https://shivkidseducation.com/images/English-Vocabulary/English_Vocabulary_Part_1-1.jpg" width="250" height="200">
-<img src="https://mycoaching.in/wp-content/uploads/Words-Meaning-in-Hindi.webp" width="250" height="200">
+<img src="https://i.ytimg.com/vi/LXYdcoqEukI/maxresdefault.jpg" width="350" height="250">
