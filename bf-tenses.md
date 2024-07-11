@@ -12,6 +12,6 @@
 
 <img src="https://www.careerpower.in/images/tense-chart.png" width="450" height="350">
 
-<img src="https://blogassets.leverageedu.com/media/uploads/sites/2/2023/07/21174845/Hindi-Blog-Covers-20-2.jpg" width="370" height="350">
+<img src="https://blogassets.leverageedu.com/media/uploads/sites/2/2023/07/21174845/Hindi-Blog-Covers-20-2.jpg" width="450" height="350">
 
 
