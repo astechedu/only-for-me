@@ -13,8 +13,8 @@
 <img src="https://exampariksha.com/wp-content/uploads/2015/02/parts-of-speech.jpg" width="570" height="520">
 <img src="https://i.pinimg.com/originals/11/11/aa/1111aa81ca41cdedc509dfa5d9c5ccd6.jpg" width="390" height="290">
 
-<img src="https://edge.uacdn.net/S613HV31JLGHMA7KUUX3/images/2.png?fm=jpg&w=480" width="200" height="240">
-<img src="https://cdn.innovativelanguage.com/sns/em/2019/landing+pages/Infographic/Most+Common+Nouns+Part+1/Export/Hindi_commonNouns.png" width="310" height="230">
+<img src="https://edge.uacdn.net/S613HV31JLGHMA7KUUX3/images/2.png?fm=jpg&w=480" width="200" height="220">
+<img src="https://cdn.innovativelanguage.com/sns/em/2019/landing+pages/Infographic/Most+Common+Nouns+Part+1/Export/Hindi_commonNouns.png" width="310" height="250">
 <img src="https://www.topprnation.in/wp-content/uploads/2022/06/common-noun-in-hindi-definition-rules-and-examples-1024x1024.jpg" width="350" height="300">
 
 <img src="https://englishlearnerpodcast.com/wp-content/uploads/2022/09/types-of-pronoun-in-hindi-1024x580.png" width="350" height="250">
@@ -22,10 +22,11 @@
 <img src="https://i.ytimg.com/vi/USuKRmZyb3w/maxresdefault.jpg" width="350" height="250">
 <img src="https://i.ytimg.com/vi/4hNxEjMdc14/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBewmJDzv1N1jmBNAFzSvOG96Fpog" width="300" height="260">
 
-<img src="https://i.ytimg.com/vi/QYRLIxCzul4/maxresdefault.jpg" width="200" height="220">
+<img src="https://i.ytimg.com/vi/QYRLIxCzul4/maxresdefault.jpg" width="230" height="220">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2BiXRvpQaDGu3F3wwqcJhw9cNopDzYnWfRJzmCWCS3iTCMVdXfwEOaObMwC0TzJaaj0IuAUk7G2EdJvXCWYZ55O044d4oyhNLYTERgx06U3MvcHtxDvzEaj2z17NWXwyNDBaAwoDqpi6INSE4xuNmFRdF4y4Mm_axTqAQWz8fHJJdosznDvYyG6_-JLw/s1280/Preposition%20in%20Hindi%20with%20examples.webp" width="260" height="250">
 
 
 
 
 
-<img src="https://i.ytimg.com/vi/8nDVsBro3SQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB2IaCq4FpjlifOe7GHQ_SBonajCQ" width="200" height="220">
+<img src="https://i.ytimg.com/vi/8nDVsBro3SQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB2IaCq4FpjlifOe7GHQ_SBonajCQ" width="260" height="250">
