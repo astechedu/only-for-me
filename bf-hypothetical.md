@@ -8,6 +8,6 @@
 [English Page Link](all-english-links.md)
 
 
-<img src="https://i.ytimg.com/vi/1D7yHNMu5Bk/maxresdefault.jpg" width="300" height="100">
-<img src="https://i.ytimg.com/vi/6kxQkYxz4g4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC8bwo40EOvsCR87v2bzEGA_Uf_cw" width="300" height="100">
-<img src="https://i.ytimg.com/vi/z92Tr2EiAZ8/maxresdefault.jpg" width="300" height="100">
+<img src="https://i.ytimg.com/vi/1D7yHNMu5Bk/maxresdefault.jpg" width="350" height="250">
+<img src="https://i.ytimg.com/vi/6kxQkYxz4g4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC8bwo40EOvsCR87v2bzEGA_Uf_cw" width="350" height="250">
+<img src="https://i.ytimg.com/vi/z92Tr2EiAZ8/maxresdefault.jpg" width="350" height="250">
