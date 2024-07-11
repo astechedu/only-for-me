@@ -10,6 +10,7 @@
 
 1. [Action Words](bf-action-words.md)
 2. [Pronouns: This, That, These, Those, I, We, You, He, She, They ](bf-pronouns.md)
+3. [Parts of speech](bf-parts-of-speech.md)
 3. [Tenses](bf-tenses.md)
 4. [Passive Voice](bf-passive-voice.md)
 5. [Modal Verbs: Can, May, Might, Would, Could, Should](bf-modal-verbs.md)
