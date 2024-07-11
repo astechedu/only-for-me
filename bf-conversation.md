@@ -8,9 +8,7 @@
 [English Page Link](all-english-links.md)
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsrDrzd_T7LjI6EanqK4hYzSZUl-Irm9V-pRlNEUYWhhHa3UjKcargw99qRc7L-G2Iw0I&usqp=CAU" width="300" height="100">
-<img src="https://i.ytimg.com/vi/A4qpYWBbOlo/maxresdefault.jpg" width="280" height="150">
-<img src="https://www.careerpower.in/images/tense-chart.png" width="450" height="350">
-
-# Structures
+<img src="https://i.pinimg.com/736x/2c/3d/69/2c3d6998466e368e8f61055f7e6c863d.jpg" width="300" height="100">
+<img src="https://i.pinimg.com/736x/be/39/a3/be39a340808963289798f8fab8aeb1de.jpg" width="300" height="100">
+<img src="https://mrmrsenglish.com/wp-content/uploads/2024/05/100-English-Sentences-for-Kids-810x424.png" width="300" height="100">
 
