@@ -16,7 +16,7 @@
 
 <img src="https://i.ytimg.com/vi/ihUGjJD8dPo/maxresdefault.jpg" width="380" height="250">
 <img src="https://www.grammarinhindi.in/wp-content/uploads/2022/12/modal-auxiliary-verbs-in-hindi-definition-rules-and-examples-1024x1024.jpg" width="430" height="390">
-<img src="https://image.slidesharecdn.com/modals-201229071942/85/Modals-12-320.jpg" width="300" height="180">
+<img src="https://image.slidesharecdn.com/modals-201229071942/85/Modals-12-320.jpg" width="340" height="200">
 <img src="https://image.slidesharecdn.com/modals-201229071942/85/Modals-10-320.jpg" width="300" height="180">
 <img src="https://i.ytimg.com/vi/kCKhoybj54g/mqdefault.jpg" width="340" height="200">
 <img src="https://i.ytimg.com/vi/kCKhoybj54g/mqdefault.jpg" width="340" height="200">
