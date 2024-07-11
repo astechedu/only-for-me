@@ -9,7 +9,7 @@
 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsrDrzd_T7LjI6EanqK4hYzSZUl-Irm9V-pRlNEUYWhhHa3UjKcargw99qRc7L-G2Iw0I&usqp=CAU" width="300" height="100">
-<img src="https://i.ytimg.com/vi/A4qpYWBbOlo/maxresdefault.jpg" width="280" height="150">
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*k043Qa0qHXU1yaqZ.jpg" width="280" height="150">
 <img src="https://www.careerpower.in/images/tense-chart.png" width="450" height="350">
 
 # Structures
@@ -19,8 +19,8 @@
 
 # Present: 
 
-<img src="https://www.topprnation.in/wp-content/uploads/2021/01/present-indefinite-tense-in-Hindi-affirmative-sentences-example-1024x576.png" width="280" height="150">
-<img src="https://www.topprnation.in/wp-content/uploads/2021/01/Present-Continuous-Tense-in-Hindi.jpg" width="280" height="150">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDMcup1RyKy3h_Z8VN89l5zf0q_Yzl7U5iG6ZjZCd1KpS0ko5SP559OPqlNWwHlL63UqM&usqp=CAU" width="280" height="150">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_W0XPqhNiLbf33CbrgShhGMeeHN3qjHLInM_GrD0svsm3MztiB3fetdqK0QfdYDNPwLhAwFBJ1epDVHrRBK6a3xGsQ4O74jka2zCD2iYvcgKptWFKAsOp_keB-VKOStWVAHDziLkUWRGcRs5yYElEHxTl6vFlWlkJwU5JqZRpu_rzGh5fXJVOfZ45/s1200/pit%20negative-min-min.png" width="280" height="150">
 <img src="https://www.topprnation.in/wp-content/uploads/2021/01/Present-Perfect-Tense-in-Hindi.jpg" width="280" height="150">
 <img src="https://www.topprnation.in/wp-content/uploads/2021/01/Present-Perfect-Continuous-Tense-in-Hindi.jpg" width="280" height="150">
 
