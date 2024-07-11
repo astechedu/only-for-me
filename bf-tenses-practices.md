@@ -23,7 +23,7 @@
 <img src="https://www.topprnation.in/wp-content/uploads/2022/12/100-sentences-of-present-continuous-tense-in-hindi-examples.jpg" width="280" height="150">
 <img src="https://www.grammarinhindi.in/wp-content/uploads/2023/07/100-sentences-of-present-continuous-tense-in-hindi.png" width="280" height="150">
 <img src="https://angrejipustak.com/wp-content/uploads/2021/05/present-perfect-tense-in-Hindi.jpg" width="280" height="150">
-<img src="https://onlymyhindi.com/wp-content/uploads/present-perfect-tense-in-hindi-745x1024.png" width="360" height="200">
+<img src="https://onlymyhindi.com/wp-content/uploads/present-perfect-tense-in-hindi-745x1024.png" width="330" height="200">
 <img src="https://angrejipustak.com/wp-content/uploads/2021/05/present-perfect-tense-in-Hindi-Example.jpg" width="360" height="200">
 <img src="https://i0.wp.com/onlymyenglish.com/wp-content/uploads/2020/09/Examples-of-Present-Perfect-Continuous-Tense-min.png?resize=707%2C1000&ssl=1" width="360" height="300">
 
@@ -32,7 +32,7 @@
 <img src="https://blogassets.leverageedu.com/media/uploads/sites/2/2023/07/21174845/Hindi-Blog-Covers-20-2.jpg" width="450" height="350">
 
 <img src="https://i.ytimg.com/vi/ndAklBviHFo/maxresdefault.jpg" width="280" height="150">
-<img src="https://i.pinimg.com/736x/79/c1/ec/79c1eccc96ad03ac3ec082a4584415af.jpg" width="280" height="150">
+<img src="https://i.pinimg.com/736x/79/c1/ec/79c1eccc96ad03ac3ec082a4584415af.jpg" width="250" height="150">
 <img src="https://i.ytimg.com/vi/GPFm_eiIKWk/maxresdefault.jpg" width="260" height="150">
 <img src="https://www.topprnation.in/wp-content/uploads/2021/01/Present-Perfect-Continuous-Tense-in-Hindi.jpg" width="300" height="150">
 
