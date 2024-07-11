@@ -11,7 +11,7 @@
 <img src="https://i.ytimg.com/vi/0l69KEx7GQo/maxresdefault.jpg" width="280" height="100">
 <img src="https://i.pinimg.com/736x/70/2d/44/702d444f2f32bd161726cd9ceeb97863.jpg" width="380" height="350">
 <img src="https://exampariksha.com/wp-content/uploads/2015/02/parts-of-speech.jpg" width="570" height="520">
-<img src="https://i.pinimg.com/736x/61/49/38/61493830967a171024690be0722bfa27.jpg" width="360" height="380">
+<img src="https://i.pinimg.com/736x/61/49/38/61493830967a171024690be0722bfa27.jpg" width="350" height="380">
 <img src="https://i.pinimg.com/736x/70/2d/44/702d444f2f32bd161726cd9ceeb97863.jpg" width="380" height="350">
 <img src="https://i.pinimg.com/originals/11/11/aa/1111aa81ca41cdedc509dfa5d9c5ccd6.jpg" width="400" height="320">
 
