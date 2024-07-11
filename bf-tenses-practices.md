@@ -23,7 +23,8 @@
 <img src="https://www.topprnation.in/wp-content/uploads/2022/12/100-sentences-of-present-continuous-tense-in-hindi-examples.jpg" width="280" height="150">
 <img src="https://www.grammarinhindi.in/wp-content/uploads/2023/07/100-sentences-of-present-continuous-tense-in-hindi.png" width="280" height="150">
 <img src="https://angrejipustak.com/wp-content/uploads/2021/05/present-perfect-tense-in-Hindi.jpg" width="280" height="150">
-<img src="https://onlymyhindi.com/wp-content/uploads/present-perfect-tense-in-hindi-745x1024.png" width="280" height="150">
+<img src="https://onlymyhindi.com/wp-content/uploads/present-perfect-tense-in-hindi-745x1024.png" width="360" height="200">
+<img src="https://angrejipustak.com/wp-content/uploads/2021/05/present-perfect-tense-in-Hindi-Example.jpg" width="360" height="200">
 
 # Past: 
 
