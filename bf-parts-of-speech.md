@@ -13,7 +13,7 @@
 <img src="https://exampariksha.com/wp-content/uploads/2015/02/parts-of-speech.jpg" width="570" height="520">
 
 <img src="https://i.pinimg.com/originals/11/11/aa/1111aa81ca41cdedc509dfa5d9c5ccd6.jpg" width="300" height="200">
-<img src="https://cdn.innovativelanguage.com/sns/em/2019/landing+pages/Infographic/Most+Common+Nouns+Part+1/Export/Hindi_commonNouns.png" width="250" height="160">
+<img src="https://cdn.innovativelanguage.com/sns/em/2019/landing+pages/Infographic/Most+Common+Nouns+Part+1/Export/Hindi_commonNouns.png" width="250" height="200">
 <img src="https://www.topprnation.in/wp-content/uploads/2022/06/common-noun-in-hindi-definition-rules-and-examples-1024x1024.jpg" width="350" height="300">
 
 
