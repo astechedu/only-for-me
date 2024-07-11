@@ -36,7 +36,7 @@
 
 <img src="https://i.ytimg.com/vi/OTZjt4HPFGc/maxresdefault.jpg" width="280" height="180">
 <img src="https://edge.uacdn.net/JW7TKGPCC3TICY0O09LR/images/2.jpeg?fm=jpg&w=480" width="280" height="180">
-<img src="https://i.pinimg.com/736x/2b/e9/aa/2be9aa7aacd8511a68e1787f1c03eed2.jpg" width="280" height="180">
+<img src="https://i.pinimg.com/736x/2b/e9/aa/2be9aa7aacd8511a68e1787f1c03eed2.jpg" width="300" height="200">
 <img src="https://edge.uacdn.net/KECT5DG39AN2VLUQSISR/images/2.jpeg?fm=jpg&w=480" width="280" height="180">
 
 <img src="https://i.ytimg.com/vi/Be1N7xp9PGg/mqdefault.jpg" width="280" height="180">
